@@ -32,27 +32,29 @@ This may very well be my favorite out of all the Musou-games. It has a great ros
 
 - Several levels contain escort missions, which are fairly slow.
 
-## Version info
-
-- v.1.3c
-Added information about "delayed input glitch". Fixed formatting around the file a bit.
-
-- v.1.3b
-Added observations about the PC version. Added more info about TTA-related mechanics glitch. Added more info about sloped floor clip. Added a bunch of lesser speed tactics. Rewrote some sections.
-
-- v. 1.2
-Added Xu Shu speed tactics and horse high jump. Updated some descriptions.
-
-- v. 1.1
-Added many new tactics. Listings at the end still not completed.
-
 # Glitch techniques
 
 First, a note about terminology. On PS3 and PS4, the internal frame rate of the game fluctuates at random. This is important to note because certain glitch effects can only happen - or work better - when frame rate is lower. In the past, I've called this effect "lag" or "background lag", and these terms may still crop up here and there in this guide.
 
 The PC version allows the user to set their own frame rate. Setting vsync to 30 forces the game to always be in slower frame rate. In other words, PC is the more reliable platform for running any kind of glitched categories in WO3U. I will make a specific note about which glitches are influenced by vsync in the sections below.
 
-## Infinite jump
+- [Jump tactics](#Jump-tactics). All manner of ways to gain unintended height.
+  - [Basic infinite jump](#Basic-infinite-jump)
+  - [Save and quit infinite jump](#Save-and-quit-infinite-jump)
+  - [Horse high jump](#Horse-high-jump)
+  - [Wallclimbing](#Wallclimbing)
+- [Speed movement](#Speed-movement). Different methods of fast movement for speedruns.
+- [Other tricks](#Other-glitches). Uncategorizable tricks.
+  - [Angled glitch](#Angled-glitch)
+  - [TTA-related mechanics glitch](#TTA-related-mechanics-glitch)
+
+## Jump tactics
+
+The two main jump tactics to learn are the basic infinite jump and wallclimbing. Basic infinite jump is extremely accessible and fairly simple to execute, with the only limitation being that you can't perform it with every possible team. Longer jumps can also be quite costly as far as musou is concerned.
+
+Wallclimbing is much harder to use, but it's incredibly useful for just getting a lot of height quick. It's mostly relevant for NG+ and especially individual level categories.
+
+## Basic infinite jump
 
 Infinite jumping means aerial movement where you chain together air specials and jumps to gain, effectively, infinite height or horizontal movement. It's not too difficult to do once you learn the timing.
 
@@ -68,7 +70,7 @@ This glitch didn't exist in original Warriors Orochi 3 since it did not have air
 1, AKheon's demonstration of wallzip and infinite jumping in Battle of Odawara Castle:\
 https://www.youtube.com/watch?v=6hnjaolEigo
 
-## Save & Quit infinite jump
+## Save and quit infinite jump
 
 If you save & quit in air, upon reloading you end up at the same aerial coordinates but with a completely neutral character. In other words, if you have some air attack that gives your character positive height, you can keep saving & loading while performing the attack to gain infinite height.
 
@@ -79,44 +81,6 @@ It's untested whether this glitch works in the original Warriors Orochi 3. It pr
 **Videos:**\
 1, AKheon's vid:\
 https://www.youtube.com/watch?v=fag415dCR6Y
-
-## Angled glitch
-
-This is a glitch that impacts your character's z-axis so that they gain a slight forward angle. As a side effect, your character sinks into the ground while doing attacks, especially attacks with lengthy, non-looping animations that feature a lot of forward movement.
-
-This can be a faster alternative to infinite jumping, and it comes in handy in many places around the game. However, you need a ladder to start this glitch, so you can't do it in every level.
-
-Not every character has attacks that are suitable for going under walls. Besides that, some walls are "thicker" than others and harder to breach. Thin garrison gates are the easiest walls to go under, whereas regular garrison walls are usually considered thick, and can only be breached by a handful of characters.
-
-Having more Agility on your weapon apparently makes it slightly harder to go under walls.
-
-There are two ways to start this glitch, but both require at the very least a ladder. First setup has you breaking out of the ladder with a Samurai-style musou. First, bring a Samurai-style character near a ladder. Start their Musou, get on a ladder and then let the timer of the Musou run out. At the end, the character will break out of the ladder climb, keeping the angle that they had while on the ladder.
-
-Another way to do a ladder break-out is to activate TTA while on a ladder. This allows you to use angled glitch with a larger variety of different teams, since you don't need to worry about having a Samurai-style character with you at all times.
-
-In some circumstances the TTA-setup might even be faster than a Samurai-musou setup, since certain characters like Wang Yuanji with a Confluence-weapon can get a full TTA-bar in just under a second by hitting a large crowd of enemies. However, as a drawback, when you use TTA on ladder, the TTA mode becomes active and you then need to find a way to end TTA early (with water, angled floor or a cutscene) or suffer a huge time loss when the TTA-timer runs out and you get that big flashy finishing blow cutscene.
-
-There's a tier list further below detailing which characters are best at angled wall breaching.
-
-This glitch DOES work in the original Warriors Orochi 3.
-
-**Videos:**\
-1, AKheon's video:\
-https://www.youtube.com/watch?v=TWWu6AsrHUU
-
-## Wallclimb (or wallzip)
-
-If you do air attacks as soon as possible after a jump while adjacent to certain walls or objects, your character may zip upwards at a fast speed. This is the single fastest way to gain height in this game, but getting a zip to happen can be quite random. Good positioning and certain arrangements of level objects help a lot in getting a wallclimb. For instance, there's a nearly guaranteed wallclimb location in Luoyang if you position your character next to the opened palace and the nearby large pot.
-
-This glitch is much more likely to occur at a lower frame rate. Although still useful, this means it's somewhat more situational on PS4. If you want to try it out on PC, keep vsync at 30.
-
-Another way to increase the likelihood of this glitch is to use characters who can buff their own animation speed. Zhang He is the best wallzipper in the game because his air special is fast to setup and gives all his animations a significant speed buff; Xiahou Ba is a close second. Other characters who have a lesser speed buff like Zhang Liao or Zhenji also theoretically have an small advantage in this regard.
-
-This glitch works in the original WO3 too, but it's more difficult to take advantage of since there are no air specials (i.e. you can only do a limited height wallzip that can't be chained into further air attacks).
-
-**Videos:**\
-1, AKheon's video:\
-https://www.youtube.com/watch?v=ACYDsC7Een8
 
 ## Horse high jump
 
@@ -132,45 +96,29 @@ This trick doesn't work in the original WO3 since you can't run or jump with you
 1, AKheon's video:\
 https://www.youtube.com/watch?v=6xCOhF-fwps
 
-## TTA-related mechanics glitch
+## Wallclimbing
 
-This is an esoteric mechanics glitch that is fairly hard to put into words. It seems to split character model & data into two separate entities whenever you do attacks, causing various odd side effects.
+If you do air attacks as soon as possible after a jump while adjacent to certain walls or objects, your character may zip upwards at a fast speed. This is the single fastest way to gain height in this game, but getting a zip to happen can be quite random. Good positioning and certain arrangements of level objects help a lot in getting a wallclimb. For instance, there's a nearly guaranteed wallclimb location in Luoyang if you position your character next to the opened palace and the nearby large pot.
 
-To start this glitch, you need a full TTA-bar, your horse and either deep water or slippery floor that is *available at ground level*. Getting a full TTA-bar is not a problem if you can just use a Confluence-weapon, but the second requirement makes the setup for this glitch quite specialized. It also doesn't help that the timing for the glitch is nearly frame-precise, so it's not exactly effortless to pull off like angled glitch.
+This glitch is much more likely to occur at a lower frame rate. Although still useful, this means it's somewhat more situational on PS4. If you want to try it out on PC, keep vsync at 30.
 
-Instructions: get a full TTA-bar. Get on your horse. Ride into deep water or slippery floor and activate TTA at precisely the correct time. This should start the glitch.
+Another way to increase the likelihood of this glitch is to use characters who can buff their own animation speed. Zhang He is the best wallzipper in the game because his air special is fast to setup and gives all his animations a significant speed buff; Xiahou Ba is a close second. Other characters who have a lesser speed buff like Zhang Liao or Zhenji also theoretically have an small advantage in this regard.
 
-This trick has a number of very peculiar effects, although sadly, most of them are quite fringe and I'm not sure how useful they could be in speedruns:
-
-- characters with lengthy "dash" attacks (f.e. Yukimura Sanada) can propel themselves backwards near walls, in the process becoming able to damage targets or hit triggers through walls.
-
-- every character can start doing sloped floor clipping completely effortlessly, especially characters with lengthy "dash" attacks. The effect is particularly unique at tall cliffs that are covered in slippery collision, as you can project your character through them and then zip upwards to ground level for super fast "mountain climbing". The same mechanism probably also allows you to go under walls that are near a downwards incline.
-
-- Yukimura Sanada's air special seemingly teleports him from point A to point B, which might allow him to teleport past triggers.
-
-- every character can generate an immense amount of speed by jumping frame-precisely after most of their attacks. Lengthy "dash" type attacks give more speed. You can fly from one side of the level to the other with a proper setup, but sadly, the walls are made of such sturdy stuff that even a speed as high as this hasn't helped in wall clipping.
-
-- you can clip through non-sloped floor if there's a ledge right next to it behind a wall. Might be helpful in some elevated indoors area somewhere?
-
-This glitch didn't exist in the original Warriors Orochi 3 since you couldn't use TTA on horseback in it.
+This glitch works in the original WO3 too, but it's more difficult to take advantage of since there are no air specials (i.e. you can only do a limited height wallzip that can't be chained into further air attacks).
 
 **Videos:**\
 1, AKheon's video:\
-https://www.youtube.com/watch?v=5wnc4scTubE
+https://www.youtube.com/watch?v=ACYDsC7Een8
 
-## Attacking through walls
+## Speed movement
 
-Some characters have attacks that can reach enemies from behind the walls. In case breaching into some enemy stronghold early is not an option, simply sniping enemies through the walls can be a good alternative in speedruns. So far, the best characters to do this with are Nezha (Human) and Xiahou Dun.
+As a general rule, if you're not playing on a NG+ save file with maxed out characters, a horse is your best option for fast movement. A horse has a 200 base Speed, whereas the highest natural Speed of all your characters is only 170 (Sun Wukong). Some characters have specific techniques to go even faster than 200 Speed, but only a handful (like Xiahou Yuan) can truly replace a horse in runs without any set-up.
 
-Some characters like Xiahou Yuan, Guo Jia and Gyuki have an air special that shoots a downwards aerial projectile at a fairly steep angle. This projectile goes through walls and has an effectively near-infinite range, only exploding upon hitting the ground. Although potentially powerful, you need a lot of height if you plan on using these attacks for hitting targets through walls at long distance.
+If using a horse or one of those naturally speedy characters is not an option, your next best option would be to use a Speed-character and double jump everywhere. This is a guaranteed way to move at 180+ speed everywhere. Some characters have a convenient regular air attack that allows extending the double jump as well for a small extra benefit.
 
-It's untested if this glitch works in original WO3. If it does, it's bound to be less effective as a tactic since the best methods of attacking through walls don't exist in that version.
+You can also speed up some naturally slow Technique characters by side- or backstepping everywhere, but again, using a horse should in most cases be more helpful.
 
-**Videos:**\
-1, AKheon's video example of doing this in Battle of Nanjun:\
-https://www.youtube.com/watch?v=S3EqbtcYUO8
-
-## Benkei's fast movement
+## Benkei fast movement
 
 Benkei's air special is quite an unique attack. It utilizes Benkei's base speed PLUS it also gains a percentage-based speed bonus from Agility weapon property. This means Benkei can move significantly faster than the usual speed cap if he has both max speed and Agility 10 on his weapon.
 
@@ -188,7 +136,7 @@ This glitch does not exist in the original WO3 since it didn't have air specials
 1, AKheon's example of using this trick at Battle of Tong Gate:\
 https://www.youtube.com/watch?v=CCkf_ogm3ro
 
-## Xiahou Yuan's fast movement
+## Xiahou Yuan fast movement
 
 Xiahou Yuan can move nearly as fast or potentially even faster than Benkei with his regular air attack that has a neutral L-stick bug. To try this out, do a running jump, then quickly let go of L-stick and do his regular air attack. Xiahou Yuan will build up some glitchy momentum as long as he stays in air and you don't touch L-stick.
 
@@ -202,7 +150,7 @@ This movement tactic suffers from the same inconsistency as Benkei speed digging
 1, AKheon's example:\
 https://www.youtube.com/watch?v=whGPANFAc4o
 
-## Triple Thrift fast movement / Horse boosting
+## Horse boosting
 
 If you have three Thrift-characters on your team and you equip your team leader with Belt of Concentration which continuously regenerates your Musou, you can endlessly spam Musou while on horse and move at a speed that nearly equals Benkei.
 
@@ -296,6 +244,76 @@ Seimei Abe can get a bit more height to his glide by doing jump -> regular air a
 
 Seimei Abe was only added in WO3U, which means Sanzang is the only character you can do this tactic with in the original WO3.
 
+## Running cycle bug
+
+All characters with Dynasty Warriors-mechanics have this small yet beneficial bug in their running cycle. Their speed is much higher than normal during the first frame or two when they start running. If you jump precisely at this time, you get to carry over this extra speed into a jump. This allows you to move much faster than intended with f.e. a 125 base speed Power-character by acccelerating and jumping repeatedly with a precise timing. It's a little inconsistent, but it could come in handy in some rare circumstance where you're stuck with only unupgraded Power-characters and no horse...?
+
+This small oddity doesn't seem to happen at all with Samurai-style characters. They accelerate like normal and won't get extra speed.
+
+## Other tricks
+
+## Angled glitch
+
+This is a glitch that impacts your character's z-axis so that they gain a slight forward angle. As a side effect, your character sinks into the ground while doing attacks, especially attacks with lengthy, non-looping animations that feature a lot of forward movement.
+
+This can be a faster alternative to infinite jumping, and it comes in handy in many places around the game. However, you need a ladder to start this glitch, so you can't do it in every level.
+
+Not every character has attacks that are suitable for going under walls. Besides that, some walls are "thicker" than others and harder to breach. Thin garrison gates are the easiest walls to go under, whereas regular garrison walls are usually considered thick, and can only be breached by a handful of characters.
+
+Having more Agility on your weapon apparently makes it slightly harder to go under walls.
+
+There are two ways to start this glitch, but both require at the very least a ladder. First setup has you breaking out of the ladder with a Samurai-style musou. First, bring a Samurai-style character near a ladder. Start their Musou, get on a ladder and then let the timer of the Musou run out. At the end, the character will break out of the ladder climb, keeping the angle that they had while on the ladder.
+
+Another way to do a ladder break-out is to activate TTA while on a ladder. This allows you to use angled glitch with a larger variety of different teams, since you don't need to worry about having a Samurai-style character with you at all times.
+
+In some circumstances the TTA-setup might even be faster than a Samurai-musou setup, since certain characters like Wang Yuanji with a Confluence-weapon can get a full TTA-bar in just under a second by hitting a large crowd of enemies. However, as a drawback, when you use TTA on ladder, the TTA mode becomes active and you then need to find a way to end TTA early (with water, angled floor or a cutscene) or suffer a huge time loss when the TTA-timer runs out and you get that big flashy finishing blow cutscene.
+
+There's a tier list further below detailing which characters are best at angled wall breaching.
+
+This glitch DOES work in the original Warriors Orochi 3.
+
+**Videos:**\
+1, AKheon's video:\
+https://www.youtube.com/watch?v=TWWu6AsrHUU
+
+## TTA related mechanics glitch
+
+This is an esoteric mechanics glitch that is fairly hard to put into words. It seems to split character model & data into two separate entities whenever you do attacks, causing various odd side effects.
+
+To start this glitch, you need a full TTA-bar, your horse and either deep water or slippery floor that is *available at ground level*. Getting a full TTA-bar is not a problem if you can just use a Confluence-weapon, but the second requirement makes the setup for this glitch quite specialized. It also doesn't help that the timing for the glitch is nearly frame-precise, so it's not exactly effortless to pull off like angled glitch.
+
+Instructions: get a full TTA-bar. Get on your horse. Ride into deep water or slippery floor and activate TTA at precisely the correct time. This should start the glitch.
+
+This trick has a number of very peculiar effects, although sadly, most of them are quite fringe and I'm not sure how useful they could be in speedruns:
+
+- characters with lengthy "dash" attacks (f.e. Yukimura Sanada) can propel themselves backwards near walls, in the process becoming able to damage targets or hit triggers through walls.
+
+- every character can start doing sloped floor clipping completely effortlessly, especially characters with lengthy "dash" attacks. The effect is particularly unique at tall cliffs that are covered in slippery collision, as you can project your character through them and then zip upwards to ground level for super fast "mountain climbing". The same mechanism probably also allows you to go under walls that are near a downwards incline.
+
+- Yukimura Sanada's air special seemingly teleports him from point A to point B, which might allow him to teleport past triggers.
+
+- every character can generate an immense amount of speed by jumping frame-precisely after most of their attacks. Lengthy "dash" type attacks give more speed. You can fly from one side of the level to the other with a proper setup, but sadly, the walls are made of such sturdy stuff that even a speed as high as this hasn't helped in wall clipping.
+
+- you can clip through non-sloped floor if there's a ledge right next to it behind a wall. Might be helpful in some elevated indoors area somewhere?
+
+This glitch didn't exist in the original Warriors Orochi 3 since you couldn't use TTA on horseback in it.
+
+**Videos:**\
+1, AKheon's video:\
+https://www.youtube.com/watch?v=5wnc4scTubE
+
+## Attacking through walls
+
+Some characters have attacks that can reach enemies from behind the walls. In case breaching into some enemy stronghold early is not an option, simply sniping enemies through the walls can be a good alternative in speedruns. So far, the best characters to do this with are Nezha (Human) and Xiahou Dun.
+
+Some characters like Xiahou Yuan, Guo Jia and Gyuki have an air special that shoots a downwards aerial projectile at a fairly steep angle. This projectile goes through walls and has an effectively near-infinite range, only exploding upon hitting the ground. Although potentially powerful, you need a lot of height if you plan on using these attacks for hitting targets through walls at long distance.
+
+It's untested if this glitch works in original WO3. If it does, it's bound to be less effective as a tactic since the best methods of attacking through walls don't exist in that version.
+
+**Videos:**\
+1, AKheon's video example of doing this in Battle of Nanjun:\
+https://www.youtube.com/watch?v=S3EqbtcYUO8
+
 ## Garrison gate clip
 
 There is a recurring garrison gate asset in WO3U that has a gap to its side, allowing you to clip through it from either side. The difficulty of doing this varies depending on the area, but it's usually not too hard.
@@ -361,16 +379,6 @@ Many of the principles here should work in other Warriors-games from this era to
 
 Since the original Warriors Orochi 3 did not have infinite jumping or easily accessible wallclimb, sloped floor clip might be more useful in that game to f.e. do some unique shortcuts in levels like Anegawa or Honnoji.
 
-## Escort mission time saves
-
-You can speed up escort missions by pushing the escort NPC around instead of waiting for them to run to their destination. You can do this on foot, but it's generally recommended to use a horse for this purpose since they have a slightly wider collision. Red Hare is bigger and faster than a regular horse, and probably your best option for NPC pushing, although it can be difficult to do an extended push since NPCs tend to slip past your horse quite easily.
-
-This trick only works when the NPC is in "navigation" mode, i.e. they're intentionally trying to head for a specific destination. Stationary NPCs resist attempts to move them, and they soon run back to their original location if you move them more than a few meters.
-
-There are some areas in the game where NPCs have a hard time moving around. They may constantly get stuck on doorways or collision, wasting a lot of time. In a situation like this, it might not be worth it to try pushing the NPC. Better option might be to move away from them and look away - being off-camera makes an NPC move towards their destination without getting stuck as much.
-
-Replacing an escort character with their generic officer variant, f.e. turning Ma Chao into Ma Teng in Breakthrough in Yiling, seems to be a bad idea. It seems generic officers all have an abysmal running speed, probably somewhere in the 100-110 range. At any rate, they always seem to run slower than even the slowest of your playable characters.
-
 ## Delayed input glitch
 
 This is an obscure trick with mostly theoretical use that works at least in Dynasty Warriors 7 and this title.
@@ -387,17 +395,15 @@ Due to how input buffering works in this game, it's possible to buffer something
 
 As another obscure detail, if you instead do the above example by first pressing 'regular attack', then 'regular attack' -> 'charge attack' at a quick succession during the last possible moment, your character will start S2 which is interrupted by C2 which does NOT drop frames. So, in practice, the attack comes out with a maybe 10 frame delay compared to normal. So even though I said earlier that all the game's combo strings always run at a set timer, this actually does objectively delay the timer and the timing of the next attack. But could such a subtle detail matter, even in high-level gameplay...?
 
-## Other minor time saves for New Game-runs
+## Escort mission time saves
 
-Most Dynasty-style characters have a few frames after they start running where they have a very high speed. So, tapping L1 while running at a certain rhythm can speed up naturally slow Dynasty characters a lot. Still, this is a pretty fringe speed tactic, since at that point in the game where knowing this could be useful, you'd preferably ride a horse everywhere.
+You can speed up escort missions by pushing the escort NPC around instead of waiting for them to run to their destination. You can do this on foot, but it's generally recommended to use a horse for this purpose since they have a slightly wider collision. Red Hare is bigger and faster than a regular horse, and probably your best option for NPC pushing, although it can be difficult to do an extended push since NPCs tend to slip past your horse quite easily.
 
-You can also speed up some naturally slow Technique characters by side- or backstepping everywhere, but again, using a horse should in most cases be more helpful.
+This trick only works when the NPC is in "navigation" mode, i.e. they're intentionally trying to head for a specific destination. Stationary NPCs resist attempts to move them, and they soon run back to their original location if you move them more than a few meters.
 
-## Other notes
+There are some areas in the game where NPCs have a hard time moving around. They may constantly get stuck on doorways or collision, wasting a lot of time. In a situation like this, it might not be worth it to try pushing the NPC. Better option might be to move away from them and look away - being off-camera makes an NPC move towards their destination without getting stuck as much.
 
-As a general note, I think the outer boundaries in every level are infinitely high, thus preventing you from going under or over them. However, specific level collision like gates aren't usually any higher than what they look.
-
-Most characters who can buff their own animation speed also become much faster at climbing ladders and swimming. This could be handy to know if using a ladder is necessary in some level.
+Replacing an escort character with their generic officer variant, f.e. turning Ma Chao into Ma Teng in Breakthrough in Yiling, seems to be a bad idea. It seems generic officers all have an abysmal running speed, probably somewhere in the 100-110 range. At any rate, they always seem to run slower than even the slowest of your playable characters.
 
 # Tips for preparing your save file
 
