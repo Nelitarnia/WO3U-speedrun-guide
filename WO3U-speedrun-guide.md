@@ -41,7 +41,7 @@ The PC version allows the user to set their own frame rate. Setting vsync to 30 
 I've divided the various glitch techniques into the following categories:
 
 - [Jump tech](#Jump-tech). Different methods of gaining unintended height.
-- [Speed movement tech](#Speed-movement-tech). Different methods of fast movement.
+- [Speed movement](#Speed-movement). Different methods of fast movement.
 - [Other tech](#Other-tech). Other uncategorizable tricks.
 
 ## Jump tech
@@ -50,12 +50,17 @@ I've divided the various glitch techniques into the following categories:
 - [Save and quit infinite jump](#Save-and-quit-infinite-jump)
 - [Horse high jump](#Horse-high-jump)
 - [Wallzipping](#Wallzipping)
+- [Xu Shu high jump](#Xu-Shu-high-jump)
+
+### General advice
+
+Most walls in this game are essentially infinitely tall, and there's no hope of jumping past them. However, different kind of doors, gateways and other temporary obstacles have a finite height. So when you're doing these jump tactics, you should always aim for the doorways. Sometimes it can be hard to discern which part of the level design is an infinitely tall outer boundary and which is a gateway. In these cases, looking closer at the map should be helpful, as various kinds of openable doors are marked with a different color.
 
 ### Basic infinite jump
 
-The basic infinite jump is done by chaining together air specials which give you height to gain essentially infinite height and horizontal movement in air. Normally you can only use an air special once while airborne, but you can bypass that limitation by switching characters in air. With some practice, you can learn to chain together air specials and character switching to do this jump pretty seamlessly.
+The basic infinite jump is done by chaining together air specials to gain essentially infinite height and horizontal movement in air. Normally you can only use an air special once while airborne, but you can bypass that limitation by switching characters in air. With some practice, you can learn to chain together air specials and character switching to do it pretty seamlessly.
 
-Naturally, some characters are better at infinite jumping than others. Some characters have an air special which ends in a downsmash, which makes them unusable for infinite jumping. Many have an air special which lets them at least hover, but they'll need to be paired with a better infinite jumper for the jump to actually go anywhere. Speed-type characters are especially valuable since they can use double jump in between air specials to make it easier to never lose height while switching characters.
+Not every team member is equally good at infinite jumping. Some characters have an air special which ends in a downsmash, which makes them unusable for infinite jumps. Many have an air special which lets them at least hover, but they'll need to be paired with a better infinite jumper for the jump to actually go anywhere. Speed-type characters are especially valuable since they can use double jump in between air specials to make it easier to never lose height while switching characters.
 
 There's a [tier list](#Character-tier-lists) further below detailing which characters are the best for infinite jumping.
 
@@ -95,7 +100,9 @@ https://www.youtube.com/watch?v=6xCOhF-fwps
 
 ### Wallzipping
 
-If you do an air attack as soon as possible after a jump while right next to certain walls or objects, your character may suddenly acquire a lot of vertical momentum. This momentum carries over to the air attack and becomes fixed, making the character rapidly ascend as long as the animation continues. Hence the name wallzipping (or alternatively: wallclimbing). This is the single fastest way to gain height in this game. However, there's a lot of randomness involved with it, which also means that it's mostly relevant for individual level categories and not full game runs.
+If you do an air attack as soon as possible after a jump while right next to certain walls or objects, your character may suddenly acquire a lot of vertical momentum. This momentum becomes fixed to their current air attack, making the character rapidly ascend as long as the attack animation continues.
+
+This is one of the fastest ways to gain height in this game. However, there's a lot of randomness involved with it, which means that it's mostly relevant for individual level categories and not full game runs.
 
 First of all, this glitch is much more likely to occur at a low frame rate. So if you want to try it on PC, keep vsync at 30.
 
@@ -111,10 +118,29 @@ This glitch works in the original WO3 too, but it's more difficult to take advan
 1, AKheon's video:\
 https://www.youtube.com/watch?v=ACYDsC7Een8
 
-## Speed movement tech
+### Xu Shu high jump
 
-- [Benkei fast movement](#Benkei-fast-movement)
-- [Xiahou Yuan fast movement](#Xiahou-Yuan-fast-movement)
+Xu Shu's launcher (C2) is potentially quite buggy. If it misses contact with an enemy because of distance, Xu Shu will glide upwards a fairly long distance. This is potentially an even faster way to gain height than wallzipping, but it always requires an enemy to perform and seems somewhat inconsistent. The height you receive also seems somewhat random. Having some height difference between you and the enemy may make doing it slightly easier.
+
+I first saw this trick in gmptdgtm's runs on Twitter; the credits probably go to him.
+
+**Videos:**\
+1, AKheon's demo:\
+https://www.youtube.com/watch?v=rQpd9hFCiyg
+
+## Speed movement
+
+- [Speed buffing](#Speed-buffing)
+- [Benkei speed tech](#Benkei-speed-tech)
+- [Xiahou Yuan speed tech](#Xiahou-Yuan-speed-tech)
+- [Horse boosting](#Horse-boosting)
+- [Wang Yi zipping](#Wang-Yi-zipping)
+- [Xu Shu speed tech](#Xu-Shu-speed-tech)
+- [Zuo Ci speed tech](#Zuo-Ci-speed-tech)
+
+### General advice
+
+This game has a speed cap of 360. Although you can use upgrade stone duping to get a character all the way to 500 Speed, I haven't noticed any circumstances where this makes a difference compared to having 360 Speed. Some characters are able to use some kind of a technique to bypass the speed cap. Of course, this is extremely valuable in speedruns, and the best methods for doing so will be listed below.
 
 As a general rule, if you're not playing on a NG+ save file with maxed out characters, a horse is your best option for fast movement. A horse has a 200 base Speed, whereas the highest natural Speed of all your characters is only 170 (Sun Wukong). Some characters have specific techniques to go even faster than 200 Speed, but only a handful (like Xiahou Yuan) can replace a horse in runs without any set-up.
 
@@ -122,15 +148,27 @@ If using a horse or one of those naturally speedy characters is not an option, y
 
 You can also speed up some naturally slow Technique characters by side- or backstepping everywhere, but using a horse should in most cases be more helpful.
 
-### Benkei fast movement
+### Speed buffing
 
-Benkei's air special uses Benkei's base Speed and it also gains a percentage-based speed bonus from Agility weapon property. This means Benkei can move significantly faster than the Speed cap (360) if he has both max Speed and Agility 10 on his weapon.
+Some characters - most notably Zhang He and Xiahou Ba - have a special move which significantly boosts - doubles? - the speed of all their actions for a short time. Zhang He can buff his own speed with his air special, whereas Xiahou Ba can do an identical speed buff with his ground special.
 
-Each air special makes Benkei dig into the ground for around 4 seconds. Each dig is followed by a short cooldown, but you can skip most of it with a character switch. It's a bit of a bother, but this saves a second or two per use.
+Besides making all combat much faster, the speed buff even affects general navigation animations like swimming or climbing ladders. As mentioned above, a speed buff also makes [wallzipping](#Wallzipping) easier to perform.
+
+Speed buffing is a useful tactic in full game speedruns since you get access to it fairly early on (Chapter 2) and it allows you to consistently move at over 200+ Speed. As long as you just have musou to spare, Zhang He alone can obsolete your horse. However, this tactic has diminishing results later on since the maximum benefit you can get from a speed buff is restricted by the universal speed cap.
+
+There is a way to increase your average speed over the speed cap while speed buffed, and that is to do running jumps everywhere. This only saves milliseconds and makes navigation rather bumpy, but it's still a small benefit to keep jumping every time you are speed buffed, whether you're at maxed out Speed or not.
+
+Xiahou Ba is somewhat less effective compared to Zhang He since he starts with a lower base Speed (125), and his ground special is both costlier and slower to perform than Zhang He's air special. However, Zhang He can't be used for speed buffing in the original WO3, since that game doesn't have air specials.
+
+### Benkei speed tech
+
+This is one of the game's fastest movement tactics. It breaks the speed cap and can be done nearly universally - all you need is Benkei with a maxed out Speed and a weapon with Agility 10.
+
+This trick relies on Benkei's air special which makes him leap into the air and then dig underground for around 4 seconds. While digging, Benkei moves at his usual base Speed, but the attack also gains a percentage-based speed bonus from Agility 10, therefore allowing Benkei to bypass the speed cap. Each dig is followed by a short cooldown, but you can skip most of it with a character switch. It's a bit of a bother, but this saves a second or two per use.
 
 Benkei is also immune to water and slippery collision while digging, allowing him to move quickly even through challenging terrain.
 
-This movement tactic is somewhat situational on PS4 because it only works at low frame rate. On PC, you can do it everywhere with vsync 30.
+This movement tactic is more situational on PS4 because it only works at low frame rate. On PC, you can do it everywhere with vsync 30.
 
 This glitch does not exist in the original WO3 since it doesn't have air specials.
 
@@ -140,15 +178,17 @@ I'm not sure who originally discovered this trick. I first read about it on Game
 1, AKheon's example of using this trick at Battle of Tong Gate:\
 https://www.youtube.com/watch?v=CCkf_ogm3ro
 
-### Xiahou Yuan fast movement
+### Xiahou Yuan speed tech
 
-Xiahou Yuan can move nearly as fast or potentially even faster than Benkei with his regular air attack that has a neutral L-stick bug. To try this out, do a running jump, then quickly let go of L-stick and do his regular air attack. Xiahou Yuan will build up some glitchy momentum as long as he stays in air and you don't touch L-stick.
+This is another near-universal way to move faster than the speed cap. To do it, you need to have unlocked Xiahou Yuan. It helps if he has a Speed of 360 and Agility 10 on his weapon, but you can get surprisingly good results even without any set-up.
 
-It's nearly impossible to get the optimal timing for this movement tactic all the time because of its strange input. It doesn't help that most Dynasty-characters have a run cycle oddity that makes them gain a lot of speed during the first few frames after they start running. If you jump during these few frames, the movement tactic will also be more potent, but as established, the precise timing makes it very tricky to get consistently.
+This trick relies on a [neutral L-stick bug](#Neutral-L-stick-bugs). Xiahou Yuan's regular air attack has buggy physics, and it will build up momentum exponentially (up to a certain limit) if you just keep L-stick neutral. To try this out, do a running jump, then quickly let go of L-stick and do his regular air attack. You can see Xiahou Yuan build up some glitchy momentum as long as he stays in air and you don't touch the L-stick.
 
-Having a maxed out base Speed and Agility 10 on weapon makes this movement tactic more potent, but it works surprisingly well even with a completely vanilla Xiahou Yuan. This makes it increasingly worthwhile in many run categories, especially in the original WO3, where this may very well be the fastest way to move on foot in the absence of Benkei's speed digging. Plus it doesn't cost any musou to use either.
+It's nearly impossible to do this movement tactic optimally every single jump because of its strange input. It doesn't help that most Dynasty-characters have a [run cycle oddity](#Dynasty-running-cycle-bug) that makes them gain a lot of Speed during the first frame or two after they start running, and this movement tactic can also benefit from it.
 
-This movement tactic suffers from the same inconsistency as Benkei speed digging - it only works when the frame rate is low. It works 100% consistently on PC with vsync 30.
+As mentioned, this tactic works surprisingly well even with a completely vanilla Xiahou Yuan. This makes it useful in many run categories, especially in the original WO3, where this may very well be the fastest way to move on foot in the absence of Benkei's speed digging. Plus it doesn't cost any musou to use either.
+
+Like Benkei's speed tech, this movement tactic only works at low frame rates, making it inconsistent on PS4. But it works 100% consistently on PC with vsync 30.
 
 **Videos:**\
 1, AKheon's example:\
@@ -156,13 +196,15 @@ https://www.youtube.com/watch?v=whGPANFAc4o
 
 ### Horse boosting
 
-If you have three Thrift-characters on your team and you equip your team leader with Belt of Concentration which continuously regenerates your Musou, you can endlessly spam Musou while on horse and move at a speed that nearly equals Benkei.
+If you have three Thrift-characters on your team, you can endlessly spam Musou while on horse and move at a speed that nearly equals Benkei. Having Belt of Concentration to regenerate your Musou is optional but it makes performing the trick a bit smoother.
 
-One positive to this movement tactic on PS4 is that it doesn't rely on frame rate and is therefore more consistent overall than Benkei's speed movement. As a drawback, this character setup limits your ability to do other glitches like infinite jumping, angled glitch or wallzipping since most Thrift-characters are not optimal choices for doing these tricks.
+Although this tactic allows moving faster than the speed cap, it's somewhat more situational and less effective compared to the above speed tactics. For one, it requires you to have a very specific team of characters with S-rank in Thrift. It requires you to be on horseback, so it can't be used indoors. Potentially having to dismount/mount your horse every once in a while also adds some extra steps to doing this speed movement.
 
-You should unlock Red Hare or Matsukaze for horse boosting since these horses have a slightly higher base speed, increasing the effectiveness of their boost. Horse boosting also becomes more powerful if you can get winged boots from enemies first.
+But this trick has some unique benefits as well. It doesn't rely on frame rate, making it 100% consistent even on console or vsync 60. Horse boosting also becomes comparatively more powerful if you can get Winged Boots to drop from enemies.
 
-This tactic works and is incredibly useful in the original WO3. However, since you don't have Belt of Concentration in it, you have to take the extra step of switching characters between each musou to continue doing this movement tactic.
+You should unlock Red Hare or Matsukaze for horse boosting since these horses have a higher base Speed (250), increasing the effectiveness of their boost.
+
+This tactic also works in the original WO3, where it ranks among one of the best movement tactics available.
 
 **Videos:**\
 1, AKheon's example of using this at Battle of Shizugatake:\
@@ -170,29 +212,29 @@ https://www.youtube.com/watch?v=EHYF-OrUcFk
 
 ### Wang Yi zipping
 
-Wang Yi's regular air attack has a neutral L-stick bug. If you do it high enough in air and let L-stick go neutral, the character's air momentum starts building exponentially. Eventually she will zip around uncontrollably, potentially going even outside the map boundaries.
+This trick relies on a neutral L-stick bug. If you do Wang Yi's regular air attack high in air while keeping L-stick neutral, her air momentum starts building exponentially. Eventually she will zip forward at such a high velocity that she can potentially even end up outside the level boundaries.
 
-As for this trick's uses in a speedrun, you can either move a long stretch forward almost immediately or teleport past walls by using the zipping. However, it's hard to get the most useful results on purpose, so this trick might be best saved for individual level runs.
+The effect is different depending on your frame rate. At higher frame rates, the trick is more controllable and it only sends you flying forward at an extremely high speed. At low frame rate, your speed increases past all comprehension and your coordinates may end up wrapping (?), causing Wang Yi to essentially teleport somewhere with a small degree of randomness.
 
-The results of this glitch seems to be tied to vsync. You only get the weirder zipping effects on vsync 30. On vsync 60, the glitch seems to be somewhat more controllable and it only grants you near-instantaneous movement between two locations.
+This is without a doubt the single fastest movement tactic in the game - it's so fast that it literally breaks the game's physics. It's difficult to control, but being able to go nearly instantly from spot A to spot B can be very handy in speedruns. This is also the only known way to teleport past level boundaries, which is a rather unique utility.
 
-This trick DOES work in the original Warriors Orochi 3, although it's a bit harder to get started since you can't get height as easily.
+Unfortunately the high difficulty and randomness of this trick makes it mostly relevant for individual level runs. You also need a lot of height to really make use of the exponential speed gain.
+
+This trick DOES work in the original WO3, but it's much harder to set up since your ways of gaining height are so limited.
 
 **Videos:**\
 1, AKheon's video of using this trick at Battle of Yiling:\
 https://www.youtube.com/watch?v=MMgljUYorw4
 
-### Xu Shu speed tactic and high jump
+### Xu Shu speed tech
 
-Xu Shu's first charge attack (C1) causes an unique dash towards any enemy on contact. This is quite an unique attack that gives you a very high speed and then automatically cancels into a double jump. It turns out that, although double jump speed is normally capped, if you quickly perform air charge attack and keep L-stick neutral as Xu Shu begins his jump, you are able to avoid the speed cap and perform an air attack which uses the extremely high speed of the preceding dash.
+This trick is reliant on a neutral L-stick bug. Xu Shu's first charge attack (C1) causes a dash towards any enemy on contact. This is quite a unique attack that temporarily gives you a very high speed before automatically seguing into a double jump. If you perform Xu Shu's air charge attack and keep L-stick neutral frame precisely at the start of the double jump, the attack will use the extremely high velocity of the preceding dash instead of the usually capped double jump velocity. This makes you fly forward for a few seconds at a velocity that not only breaks the speed cap but is also much faster than Benkei's speed digging.
 
-This trick doesn't seem entirely consistent because C1 itself is not entirely consistent. Possibly because of level geometry-related reasons, sometimes the double jump doesn't happen as expected at the end of the attack. Even besides that, doing air charge attack at just the right time to get the carried over momentum may be frame precise. You can't steer during the speedy movement and you also lose your speed if you bump into any enemies on the way, so although the speed this trick gives you is extremely high - even exceeding Benkei's speed movement - it is quite situational to use.
+Unfortunately, this tactic is quite difficult to use for multiple reasons. For one, C1 itself is not entirely consistent. Possibly because of level geometry-related reasons, sometimes a double jump doesn't happen as expected at the end of the attack. Executing the trick and gaining high speed afterwards is also extremely precise. You can't do this trick without the help of an enemy. Furthermore, you can't steer during the speedy movement and you also lose your velocity if you bump into any other enemies or walls on the way, which limits the utility and consistency of the trick even further.
 
-I'm not certain if this tactic also requires a low frame rate (like Benkei's and Xiahou Yuan's speed movements) to work.
+I'm not certain if this tactic requires a low frame rate to work.
 
-Xu Shu's launcher (C2) is also potentially quite buggy. If it misses contact with an enemy because of distance, Xu Shu will glide upwards a fairly long distance. This is potentially an even faster way to gain height than zipping with Zhang He, but it always requires an enemy to perform and seems somewhat inconsistent. The height you receive also seems a little bit random? Having some height difference between you and the enemy may make doing it slightly easier.
-
-This trick doesn't work in the original WO3 since Xu Shu was only added as a playable character in WO3U.
+This trick doesn't exist in the original WO3 since Xu Shu was only added as a playable character in WO3U.
 
 I first saw this trick in gmptdgtm's runs on Twitter; the credits probably go to him.
 
@@ -200,27 +242,17 @@ I first saw this trick in gmptdgtm's runs on Twitter; the credits probably go to
 1, AKheon's demo:\
 https://www.youtube.com/watch?v=rQpd9hFCiyg
 
-### Zhang He / Xiahou Ba speed boost
+### Zuo Ci speed tech
 
-Both of these characters have a special move that significantly buffs the speed of all their actions for a short time, including swimming, climbing and jumping. This makes both combat and navigation faster, which is great in a speedrun.
+This trick relies on a neutral L-stick bug. If you do Zuo Ci's air special with L-stick neutral, you get far more speed than intended and move at a velocity that easily breaks the speed cap as long as you stay in air. Having Agility 10 on your weapon makes the tactic even more powerful.
 
-Unfortunately, the normal run cycle of your character is limited by the speed cap - 360 Speed - even while speed-boosted. You can kind of bypass this limitation by jumping everywhere, since the speed cap is not enforced the same way while in air. Although constant jumping can make navigation feel a bit bumpy and inconvenient, it still helps get a bit of extra mileage out of each speed boost.
+This tactic is fairly situational. First of all, you need more than a single jump's worth of height to make the most out of your buggy momentum. You also lose the super speed if you touch the L-stick or Zuo Ci brushes any walls at any point. This means you can't really steer while doing this tech, and it's not practical to use in tight spaces either.
 
-Speed boosting has some situational uses as well. Since it affects non-combat animations, it could sometimes be useful for climbing a long ladder faster than normal. Speed boosting also makes wallclimbing easier to do.
-
-Zhang He is the better choice for speed boosting since he has a higher base speed and his air special is also faster to do than Xiahou Ba's ground special, plus it costs less musou too. But in the original Warriors Orochi 3, you'll have to use Xiahou Ba instead.
-
-### Zuo Ci fast movement
-
-Another instance of a neutral L-stick bug. If you do Zuo Ci's air special with a neutral L-stick, you get far more speed than intended and move at a velocity that easily breaks the speed cap as long as you stay in air. Having Agility 10 on your weapon makes the tactic even more powerful. This is likely the second fastest aerial movement in the entire game (second only to Wang Yi's near-instantaneous zipping).
-
-You stop getting super speed if you at any point touch the L-stick or Zuo Ci brushes any walls, so you can't steer very well during this attack and it's not really practical to use in tight spaces either. This tactic is mostly useful when used down slopes in wide open spaces, but there's a chance that it may even exceed the average speed of Benkei or Xiahou Yuan speed movement when used optimally.
-
-Getting super speed requires a low frame rate. Therefore, it's inconsistent on PS4 but can be done reliably on PC with vsync 30. Even on vsync 60, you get a bit of extra speed to this attack by keeping L-stick neutral, but it's not quite as high.
+Getting super speed also requires a low frame rate. Although it's inconsistent on PS4, it can be done reliably on PC with vsync 30. You get a bit of extra speed to this attack by keeping L-stick neutral even on vsync 60, but it's not quite as much.
 
 This movement tactic does not exist in regular WO3 because it doesn't have air specials.
 
-### Yoshitsune Minamoto fast movement
+### Yoshitsune Minamoto speed tech
 
 Imagine Zuo Ci's fast movement tech, except with Yoshitsune's air special. This one doesn't require keeping L-stick neutral, though. Agility on weapon makes it more effective.
 
@@ -248,11 +280,17 @@ Seimei Abe can get a bit more height to his glide by doing jump -> regular air a
 
 Seimei Abe was only added in WO3U, which means Sanzang is the only character you can do this tactic with in the original WO3.
 
-### Running cycle bug
+### Neutral L-stick bugs
 
-All characters with Dynasty Warriors-mechanics have this small yet beneficial bug in their running cycle. Their speed is much higher than normal during the first frame or two when they start running. If you jump precisely at this time, you get to carry over this extra speed into a jump. This allows you to move much faster than intended with f.e. a 125 base speed Power-character by acccelerating and jumping repeatedly with a precise timing. It's a little inconsistent, but it could come in handy in some rare circumstance where you're stuck with only unupgraded Power-characters and no horse...?
+A number of air attacks in this game have buggy physics and they gain additional momentum if you keep L-stick neutral. Sometimes this effect is barely noticeable, but sometimes it makes your character's speed increase exponentially, resulting in incredibly fast movement. The most useful cases of neutral L-stick bugs are listed below, and more will be listed in the character-specific section... eventually, once it's written.
 
-This small oddity doesn't seem to happen at all with Samurai-style characters. They accelerate like normal and won't get extra speed.
+### Dynasty running cycle bug
+
+All characters based on Dynasty Warriors-mechanics possess this small yet beneficial bug. When these characters begin their run cycle, their Speed is much higher than it should be during the first frame or two - not quite Speed cap levels, but close.
+
+If you jump precisely at this time, you get to carry over this extra Speed in air. In practice, this allows a universal fast movement tactic with any Dynasty-character if you just do running jumps repeatedly at a precise timing. It's difficult to get perfectly consistent, but on average it should still speed up a character with a low base Speed and no double jump. It's pretty obscure, but might still be worth knowing.
+
+This small oddity doesn't seem to happen at all with Samurai-style characters.
 
 ## Other tech
 
