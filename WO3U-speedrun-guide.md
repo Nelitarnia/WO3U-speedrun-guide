@@ -142,11 +142,13 @@ https://www.youtube.com/watch?v=rQpd9hFCiyg
 - [Xu Shu speed tech](#Xu-Shu-speed-tech)
 - [Zuo Ci speed tech](#Zuo-Ci-speed-tech)
 - [Pang Tong speed tech](#Pang-Tong-speed-tech)
-- [Sanzang and Seimei Abe speed tech](#Sanzang-and-Seimei-Abe-speed-tech)
+- [Sanzang and Seimei Abe gliding](#Sanzang-and-Seimei-Abe-gliding)
 - [Neutral L-stick bugs](#Neutral-L-stick-bugs)
 - [Dynasty running cycle bug](#Dynasty-running-cycle-bug)
 
 ### General advice
+
+Speed movement tactics could be generally divided into three different types: ground movement, aerial movement or a hybrid of the two. It's useful to consider all of them when devising the fastest route through a level. For example: in some level it might be useful to start an infinite jump early and then move some distance airborne to get over multiple invisible walls with a single jump.
 
 This game has a Speed cap of 360. Although you can use upgrade stone duping to get a character's Speed all the way to 500, I haven't noticed any circumstances where this makes a difference compared to having 360 Speed.
 
@@ -155,8 +157,6 @@ Some characters are able to use some kind of a technique to bypass the Speed cap
 As a general rule, if you're not playing on a NG+ save file with maxed out characters, a horse is your best option for fast movement. A horse has a 200 base Speed, whereas the highest natural Speed of all your characters is only 170 (Sun Wukong). Some characters have specific techniques to go even faster than 200 Speed, but only a handful (like Xiahou Yuan) can replace a horse in runs without any set-up.
 
 If using a horse or one of those naturally speedy characters is not an option, your next best option would be to use a Speed-type character and double jump everywhere. This is a guaranteed way to move at a 170-180 Speed everywhere. Some characters can also extend their double jump with an air attack to do this slightly more efficiently.
-
-You can also speed up some naturally slow Technique characters by side- or backstepping everywhere, but using a horse should in most cases be more helpful.
 
 ### Speed buffing
 
@@ -176,7 +176,7 @@ This is one of the game's fastest movement tactics. It breaks the speed cap and 
 
 This trick relies on Benkei's air special which makes him leap into the air and then dig underground for around 4 seconds. While digging, Benkei moves at his usual base Speed, but the attack also gains a percentage-based speed bonus from Agility 10, therefore allowing Benkei to bypass the Speed cap. Each dig is followed by a short cooldown, but you can skip most of it with a character switch. It's a bit of a bother, but this saves a second or two per use.
 
-Benkei is also immune to water and slippery collision while digging, allowing him to move quickly even through challenging terrain.
+One big benefit of Benkei's speed digging is that it's extremely steerable. Although it's a little difficult to control since you move so quick, it's fundamentally a highly responsive movement tactic that you can even use in narrow areas with tight corners. Benkei is also immune to water and slippery collision while digging, allowing him to move quickly even through challenging terrain.
 
 This movement tactic is more situational on PS4 because it only works at low frame rate. On PC, you can do it everywhere with vsync 30.
 
@@ -194,9 +194,11 @@ This is another near-universal way to move faster than the Speed cap. To do it, 
 
 This trick relies on a [neutral L-stick bug](#Neutral-L-stick-bugs). Xiahou Yuan's regular air attack has buggy physics, and it will build up momentum exponentially (up to a certain limit) if you just keep L-stick neutral. To try this out, do a running jump, then quickly let go of L-stick and do his regular air attack. You can see Xiahou Yuan build up some glitchy momentum as long as he stays in air and you don't touch the L-stick.
 
-It's nearly impossible to do this movement tactic optimally every single jump because of its strange input. It doesn't help that most Dynasty-characters have a [run cycle oddity](#Dynasty-running-cycle-bug) that makes them gain a lot of Speed during the first frame or two after they start running, and this movement tactic can also benefit from it.
+Timing tests have shown that in optimal conditions this movement tech is faster than Benkei speed digging. However, in practice using Benkei speed digging is often more convenient because it's less terrain-dependent and far more steerable. Xiahou Yuan speed tech only has a pure advantage over Benkei in open spaces or when moving downhill.
 
-As mentioned, this tactic works surprisingly well even with a completely vanilla Xiahou Yuan. This makes it useful in many run categories, especially in the original WO3, where this may very well be the fastest way to move on foot in the absence of Benkei's speed digging. Plus it doesn't cost any musou to use either.
+Furthermore, it's nearly impossible to do this movement tactic optimally every single time because of its strange input which requires a precise use of L-stick. It doesn't help that most Dynasty-characters have a [run cycle oddity](#Dynasty-running-cycle-bug) that makes them gain a lot of Speed during the first frame or two after they start running, and this movement tactic can also gain a lot of speed from it.
+
+As mentioned, this tactic works surprisingly well even with a completely vanilla Xiahou Yuan. This makes it useful in many run categories, especially in the original WO3, where it may very well be the fastest way to move on foot in the absence of Benkei's speed digging. Plus, it doesn't cost any musou to use either.
 
 Like Benkei's speed tech, this movement tactic only works at low frame rates, making it inconsistent on PS4. But it works 100% consistently on PC with vsync 30.
 
@@ -208,9 +210,9 @@ https://www.youtube.com/watch?v=whGPANFAc4o
 
 If you have three Thrift-characters on your team, you can endlessly spam Musou while on horse and move at a speed that nearly equals Benkei. Having Belt of Concentration to regenerate your Musou is optional but it makes performing the trick a bit smoother.
 
-Although this tactic allows moving faster than the speed cap, it's somewhat more situational and less effective compared to the above speed tactics. For one, it requires you to have a very specific team of characters with S-rank in Thrift. It requires you to be on horseback, so it can't be used indoors. Potentially having to dismount/mount your horse every once in a while also adds some extra steps to doing this speed movement. And generally, your average Speed is just slightly slower than optimally performed Benkei speed digging.
+Although this tactic allows moving faster than the Speed cap, it's somewhat more situational and less effective compared to the above tactics. For one, it requires you to have a very specific team of characters with S-rank in Thrift. It requires you to be on horseback, so it can't be used indoors. Potentially having to dismount/mount your horse every once in a while also adds some extra steps to doing this speed movement. And generally, your average Speed is just slightly slower than optimally performed Benkei speed digging.
 
-But this trick has some unique benefits as well. It doesn't rely on frame rate, making it 100% consistent even on console or vsync 60. Horse boosting also becomes comparatively more powerful if you can get Winged Boots to drop from enemies first.
+But this trick has some unique benefits as well. It doesn't rely on frame rate, making it 100% consistent even on console or vsync 60. Horse boosting also becomes comparatively more powerful if you can get Winged Boots to drop from enemies first. So with some luck and a right setup, it could become even faster than Benkei.
 
 You should unlock Red Hare or Matsukaze for horse boosting since these horses have a higher base Speed (250), increasing the effectiveness of their boost.
 
@@ -254,9 +256,11 @@ https://www.youtube.com/watch?v=rQpd9hFCiyg
 
 ### Zuo Ci speed tech
 
-This trick relies on a [neutral L-stick bug](#Neutral-L-stick-bugs). If you do Zuo Ci's air special with L-stick neutral, you get far more speed than intended and move at a velocity that easily breaks the speed cap as long as you stay in air. Having Agility 10 on your weapon makes the tactic even more powerful.
+This trick relies on a [neutral L-stick bug](#Neutral-L-stick-bugs). If you do Zuo Ci's air special with L-stick neutral, you get far more speed than intended and move at a velocity that easily breaks the Speed cap as long as you stay in air.
 
-This tactic is fairly situational. First of all, you need more than a single jump's worth of height to make the most out of your buggy momentum. You also lose the super speed if you touch the L-stick or Zuo Ci brushes any walls at any point. This means you can't really steer while doing this tech, and it's not practical to use in tight spaces either.
+Timing tests have shown that with Agility 10 your movement speed is equal to Benkei's speed digging (disregarding other factors such as terrain or cooldowns). However, this tactic is overall far more situational and hard to use. First of all, you need more than a single jump's worth of height to make the most out of your buggy momentum. You also lose the super speed if you touch the L-stick or Zuo Ci brushes any walls at any point. This means you can't really steer while doing this tech, and it's not practical to use in tight spaces either.
+
+Xingcai and Zuo Ci make a surprisingly good duo because Xingcai is able to gain consistent, quick and chainable height with her air attacks. A movement tactic where you start with Xingcai, jump -> air C1 -> air special to quickly gain height, then double jump and switch to Zuo Ci and use his air special is actually not that much slower than Benkei speed digging. 
 
 Getting super speed also requires a low frame rate. Although it's inconsistent on PS4, it can be done reliably on PC with vsync 30. You get a bit of extra speed to this attack by keeping L-stick neutral even on vsync 60, but it's not quite as much.
 
@@ -270,11 +274,11 @@ As for drawbacks, you need some starting height to really make use of this movem
 
 This movement tactic doesn't exist in regular WO3 because it doesn't have air specials.
 
-## Sanzang and Seimei Abe speed tech
+## Sanzang and Seimei Abe gliding
 
-Sanzang and Seimei Abe have a nearly identical air charge attack that turns them into a glider for a time. This movement tactic is impacted by your character's current velocity as well as the Agility they have on their weapon. It's very slightly slower than the above movement tactic, and I'm not sure it can break the Speed cap even in optimal circumstances.
+Sanzang and Seimei Abe have a nearly identical air charge attack that turns them into a glider for a time. This movement tactic is impacted by Agility as well as your character's current velocity. As such, it's better if you can start this movement tactic from a running jump, but having maxed out Speed is not necessary since you'll hit this movement's Speed cap at far lower Speeds already. One timing test suggested there's no significant speed difference between having 145 or 360 Speed during a single glide's worth of movement.
 
-The main advantage of this tactic is the ability to glide an unparalleled distance through air. Even though you are slightly slower than Pang Tong, you can stay in air for much longer than him. This movement tactic is also highly steerable and more flexible in general since you can cancel it early to fall down once you've reached your destination.
+Even in optimal circumstances this movement tactic does not break the Speed cap. The main advantage of this tactic is the ability to glide an unparalleled distance through air. Even though you are slightly slower than Pang Tong, you can stay in air for much longer than him. This movement tactic is also highly steerable and more flexible since you can cancel it early to fall down once you've reached your destination.
 
 Seimei Abe can get a bit more starting height to his glide by doing jump -> regular air attack -> charge air attack. He also falls down faster after you are done gliding. Both of these things make him the better choice in speedruns in my opinion. But Seimei Abe was only added in WO3U, which means Sanzang is the only character you can use for gliding in the original WO3.
 
@@ -301,21 +305,25 @@ This small oddity doesn't seem to happen at all with Samurai-style characters.
 
 ### Angled glitch
 
-This is a glitch that impacts your character's z-axis so that they gain a slight forward angle. As a side effect, your character sinks into the ground while doing attacks, especially attacks with lengthy, non-looping animations that feature a lot of forward movement.
+This is a glitch which impacts your character's z-axis so that they gain a slight forward angle. When angled, your character will sink into the ground when doing attacks. If you sink deep enough, you are able to go under walls!
 
-This can be a faster alternative to infinite jumping, and it comes in handy in many places around the game. However, you need a ladder to start this glitch, so you can't do it in every level.
+This trick is a useful alternative to infinite jumping for bypassing finite height obstacles. However, it has a few limitations as well. The biggest of them is that you need a ladder to give your character an angle, which means this glitch is not possible to do in every map. (Ladders are generally only present in maps adapted from Dynasty Warriors.)
 
-Not every character has attacks that are suitable for going under walls. Besides that, some walls are "thicker" than others and harder to breach. Thin garrison gates are the easiest walls to go under, whereas regular garrison walls are usually considered thick, and can only be breached by a handful of characters.
+There are two ways to start this glitch. First setup requires a character with Samurai Warriors-style mechanics. If you are on a ladder when a Samurai-style musou runs out, the ladder climbing animation will become interrupted and the angle of the ladder gets stuck on your character, which starts the glitch. Second setup involves activating TTA while on a ladder. The idea is the same: TTA interrupts ladder climb while leaving your character angled.
 
-Having more Agility on your weapon apparently makes it slightly harder to go under walls.
+Both setups have their ups and downs. The first setup with a Samurai-style musou has an unskippable 5-second long animation when you activate the musou. The setup has a negative synergy with Thrift characters because having Thrift extends the waiting period before your character's musou expires. Also, being out of musou can be an inconvenience if you're planning on using the Samurai-style character afterwards for combat or infinite jumping.
 
-There are two ways to start this glitch, but both require at the very least a ladder. First setup has you breaking out of the ladder with a Samurai-style musou. First, bring a Samurai-style character near a ladder. Start their Musou, get on a ladder and then let the timer of the Musou run out. At the end, the character will break out of the ladder climb, keeping the angle that they had while on the ladder.
+The second setup with TTA requires you to fight some enemies to build a full TTA-bar. A character like Wang Yuanji with a Confluence on her weapon can build up a full TTA-bar with just a few attacks if you can find a thick crowd of enemies, so this isn't necessarily too big a problem. Another thing to watch out for is that after you activate TTA to start angled glitch, TTA will remain active in the background, resulting in a slow special attack cutscene soon unless you find a way to interrupt it first (using slippery surface or water). All these things considered, using Samurai-style musou is generally more convenient.
 
-Another way to do a ladder break-out is to activate TTA while on a ladder. This allows you to use angled glitch with a larger variety of different teams, since you don't need to worry about having a Samurai-style character with you at all times.
+It's possible to categorize obstacles into three different tiers of "thickness", i.e. how easy they are to pass under. Thin garrison gates are really simple to bypass. Sturdier gates are medium-thick, requiring you to go a bit deeper underground before you can actually clip past them. Some obstacles like garrison walls are very thick, and your character needs to be able to sink at least a few meters before they can clip all the way through.
 
-In some circumstances the TTA-setup might even be faster than a Samurai-musou setup, since certain characters like Wang Yuanji with a Confluence-weapon can get a full TTA-bar in just under a second by hitting a large crowd of enemies. However, as a drawback, when you use TTA on ladder, the TTA mode becomes active and you then need to find a way to end TTA early (with water, angled floor or a cutscene) or suffer a huge time loss when the TTA-timer runs out and you get that big flashy finishing blow cutscene.
+Angled glitch works especially well with attacks that have a non-looping, lengthy animation with a lot of forward movement. Some characters have a more convenient access to this kind of attacks, making them better candidates for angled glitching. There's a [tier list](#Character-tier-lists) down below which looks at this in more detail.
 
-There's a tier list further below detailing which characters are best at angled wall breaching.
+Your character will remain angled until you complete the current level, load an interim save, get on another ladder or ride your horse. Not being able to use a horse is an especially big drawback in some run categories since this will slow down your navigation a lot.
+
+Angled glitch does not fully obsolete infinite jumping for general navigation purposes - for instance, you might want to jump up a steep cliff or over a large river in some level while angled. Being angled can make infinite jumping somewhat wonky, though, with certain characters like Yukimura Sanada becoming nearly unusable since their forward movement propels them heavily downwards.
+
+As a side note, Agility has a negative synergy with angled glitch and it makes it slightly harder for your character to breach walls.
 
 This glitch DOES work in the original Warriors Orochi 3.
 
@@ -578,7 +586,7 @@ These two skills grant health or musou back after every 100 KO. They are pretty 
 
 - Trinity
 
-Building up TTA gauge is generally not useful in runs since using the TTA attack takes so much time. Also, there's no TTA in Gauntlet-mode, so this trait is extra useless there.
+Building up TTA gauge might have a situational use for activating certain glitches in speedruns, but for that purpose you'd rather just have Confluence on your character's weapon. Also, there's no TTA in Gauntlet-mode, so this trait is extra useless there.
 
 # Character tier lists
 
@@ -634,7 +642,7 @@ S: Taigong Wang, Jia Xu, Xiahou Yuan
 
 B: Kasumi, Zhao Yun
 
-C: Ayane, Hanzo Hattori, Kotaru Fuma, Liu Shan, Motonari Mori, Ryu Hayabusa, Sima Shi
+C: Ayane, Hanzo Hattori, Kotaru Fuma, Liu Shan, Motonari Mori, Ryu Hayabusa, Sima Shi, Tadakatsu Honda
 
 D : everyone else.
 
