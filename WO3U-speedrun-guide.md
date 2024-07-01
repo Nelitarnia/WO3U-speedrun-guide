@@ -302,7 +302,9 @@ This small oddity doesn't seem to happen at all with Samurai-style characters.
 ## Other tech
 
 - [Angled glitch](#Angled-glitch)
-- [TTA-related mechanics glitch](#TTA-related-mechanics-glitch)
+- [Soul splitting](#Soul-splitting)
+- [Attacking through walls](#Attacking-through-walls)
+- [Garrison gate clip](#Garrison-gate-clip)
 
 ### Angled glitch
 
@@ -324,33 +326,39 @@ Your character will remain angled until you complete the current level, load an 
 
 Angled glitch does not fully obsolete infinite jumping for general navigation purposes - for instance, you might want to jump up a steep cliff or over a large river in some level while angled. Being angled can make infinite jumping somewhat wonky, though, with certain characters like Yukimura Sanada becoming nearly unusable since their forward movement propels them heavily downwards.
 
-As a side note, Agility has a negative synergy with angled glitch and it makes it slightly harder for your character to breach walls.
+As a side note, Agility has a negative synergy with angled glitch, making it slightly harder for your character to breach walls.
 
-This glitch DOES work in the original Warriors Orochi 3.
+This glitch DOES work in the original Warriors Orochi 3, where it comes in frequent use due to the lack of infinite jumping options.
 
 **Videos:**\
 1, AKheon's video:\
 https://www.youtube.com/watch?v=TWWu6AsrHUU
 
-### TTA related mechanics glitch
+### Soul splitting
 
-This is an esoteric mechanics glitch that is fairly hard to put into words. It seems to split character model & data into two separate entities whenever you do attacks, causing various odd side effects.
+This is a very unique mechanics glitch I haven't seen in any other musou and which might have some unique niche uses in speedruns.
 
-To start this glitch, you need a full TTA-bar, your horse and either deep water or slippery floor that is *available at ground level*. Getting a full TTA-bar is not a problem if you can just use a Confluence-weapon, but the second requirement makes the setup for this glitch quite specialized. It also doesn't help that the timing for the glitch is nearly frame-precise, so it's not exactly effortless to pull off like angled glitch.
+Character data consists of two parts in WO3U. First part is your character's model. The hurtbox of every attack is a part of the character model, and it's also the character model which reacts to gravity, triggers, water and slippery collision. Second part is your character's collision. This is an invisible bubble which the camera tries to follow at all times. Any attack data related to character positioning is tied to this data element.
 
-Instructions: get a full TTA-bar. Get on your horse. Ride into deep water or slippery floor and activate TTA at precisely the correct time. This should start the glitch.
+This glitch separates these two data elements, causing odd side effects during most of your character's animations. As a quick example, your character's model will not move at all while doing attacks. Since hurtbox is tied to the character model, in practice this will make almost every attack seem like it has much less reach than before. Meanwhile, the invisible collision bubble and camera keep moving forward according to the current attack's projected movement, only to reset back to the location of the character model at the end of the animation, whichi looks disorienting.
 
-This trick has a number of very peculiar effects, although sadly, most of them are quite fringe and I'm not sure how useful they could be in speedruns:
+To start this glitch, you need a full TTA-bar, a horse and either water or slippery collision that is *available at ground level* so that your horse can access it without having to jump. Especially the second requirement makes the setup for this glitch quite specialized, and as such, it can't be done in all the maps.
 
-- characters with lengthy "dash" attacks (f.e. Yukimura Sanada) can propel themselves backwards near walls, in the process becoming able to damage targets or hit triggers through walls.
+Instructions: get a full TTA-bar. Get on your horse. Ride into deep water or slippery floor and activate TTA at precisely the right time so that it becomes immediately cancelled. This should start the glitch. The glitch remains active until you leave the current stage or do another TTA.
 
-- every character can start doing sloped floor clipping completely effortlessly, especially characters with lengthy "dash" attacks. The effect is particularly unique at tall cliffs that are covered in slippery collision, as you can project your character through them and then zip upwards to ground level for super fast "mountain climbing". The same mechanism probably also allows you to go under walls that are near a downwards incline.
+More about the specific theoretical uses and other details of this glitch:
 
-- Yukimura Sanada's air special seemingly teleports him from point A to point B, which might allow him to teleport past triggers.
+- If you do an attack towards a wall, your character model becomes pushed backwards according to the current attack's projection. Since the model itself has no collision, it will temporarily go through walls. If you have a character with a lengthy "dash" attack like Yukimura Sanada, you can propel the character model backwards up to several meters through walls, potentially hitting enemies and level triggers that are close enough. In other words, this is an alternative and unique way to hit enemies through walls with certain characters, and being able to hit triggers through walls early might allow a skip in some level too. However, so far it hasn't been possible to stay on the wrong side of a wall once the current attack ends. Your character model is always moved back "in bounds" to the side you started from, preventing this tactic from being an universal wall clip.
 
-- every character can generate an immense amount of speed by jumping frame-precisely after most of their attacks. Lengthy "dash" type attacks give more speed. You can fly from one side of the level to the other with a proper setup, but sadly, the walls are made of such sturdy stuff that even a speed as high as this hasn't helped in wall clipping.
+- Although most attacks work so that your character's collision returns back to the character model at the end of the attack, this effect can be reversed with most ground-based attacks if you interrupt the attack in the middle by f.e. jumping or doing an air special. With lengthy "dash" attacks, this allows you to instantly teleport your character model up to several meters, potentially allowing you to bypass level triggers. Yukimura Sanada's air special also works for this purpose, which is convenient since it's the single longest dash in the game.
 
-- you can clip through non-sloped floor if there's a ledge right next to it behind a wall. Might be helpful in some elevated indoors area somewhere?
+- Since the invisible collision bubble does not respond to gravity, you can do an unique long jump tactic with Speed-type characters by projecting their collision several meters over a pit with some lengthy attack, then double jumping out of it.
+
+- Since the invisible collision bubble only reacts to flat walls and not sloped floor, you can use a lengthy attack to project your character's collision fully inside ground if the nearby sloped floor allows this. If you now teleport your character model under the floor, the game will send your whole character upwards back to ground level. This could theoretically allow instantaneous climbing up hills, and you could also use this tactic to go underneath walls the same way as with angled glitch.
+
+- There are some attacks which work normally despite the glitch. Most air attacks and some ground-based attacks like Kotaru Fuma's musou move you forward like normal.
+
+- Every character can generate an immense amount of speed by jumping frame-precisely after doing an attack. This is because the moment where your character's collision returns back to the character model has an extremely high velocity, and this velocity will carry over to a properly timed jump. The larger the distance between your character's collision and model, the larger the potential speed. Although this looks cool, it may be a bit too difficult to use as a speed movement tactic... right?
 
 This glitch didn't exist in the original Warriors Orochi 3 since you couldn't use TTA on horseback in it.
 
@@ -360,11 +368,15 @@ https://www.youtube.com/watch?v=5wnc4scTubE
 
 ### Attacking through walls
 
-Some characters have attacks that can reach enemies from behind the walls. In case breaching into some enemy stronghold early is not an option, simply sniping enemies through the walls can be a good alternative in speedruns. So far, the best characters to do this with are Nezha (Human) and Xiahou Dun.
+Some characters have attacks that can hit enemies through the walls. Especially the new attacks added in WO3U (f.e. various air specials) are usually less glitch-proofed and have the unintended property of being able to hit enemies through collision.
 
-Some characters like Xiahou Yuan, Guo Jia and Gyuki have an air special that shoots a downwards aerial projectile at a fairly steep angle. This projectile goes through walls and has an effectively near-infinite range, only exploding upon hitting the ground. Although potentially powerful, you need a lot of height if you plan on using these attacks for hitting targets through walls at long distance.
+Sniping an officer early from tens of meters away can be a viable, faster alternative to other speed tactics talked above. However, usually you have to have a maxed out character with a powerful weapon to be able to do respectable amounts of damage from such a long distance, making this idea more relevant for individual level runs.
 
-It's untested if this glitch works in original WO3. If it does, it's bound to be less effective as a tactic since the best methods of attacking through walls don't exist in that version.
+Nezha (Human) is currently the best known character for attacking through walls. His fully charged C1 travels an insanely long distance - up to 30 meters? - and hits really hard as well.
+
+Some characters like Xiahou Yuan, Guo Jia and Gyuki have an air special that shoots a downwards aerial projectile at a fairly steep angle. This projectile goes through walls and has an effectively near-infinite range, but you need a specific setup which gives you a lot of height to use it for officer sniping.
+
+This glitch should work in the original WO3 too, but it's bound to be far less effective since the most useful attacks for hitting through walls were only added in WO3U.
 
 **Videos:**\
 1, AKheon's video example of doing this in Battle of Nanjun:\
@@ -374,9 +386,9 @@ https://www.youtube.com/watch?v=S3EqbtcYUO8
 
 There is a recurring garrison gate asset in WO3U that has a gap to its side, allowing you to clip through it from either side. The difficulty of doing this varies depending on the area, but it's usually not too hard.
 
-To go from outside to inside, you usually have to be on foot. Get a character with a high base speed, then repeatedly attempt to run through the side of the gate. Press L1 repeatedly at a certain rhythm to stop and start running again and again, this should work. Most attacks that move your character at a high speed also work for doing this clip, but those are more situational and hard to use in my opinion.
+To go from outside to inside, you usually have to be on foot. Get a character with a high base Speed, then repeatedly attempt to run through the side of the gate. Press L1 repeatedly at a certain rhythm to stop and start running again and again. This should work quite well with Dynasty-characters at least. Most attacks that move your character at a high speed also work for doing this clip.
 
-To go from inside to outside, you need a horse. Direct a horse to the corner of the gate, get a good angle and use a horse musou boost.
+To go from inside to outside, you usually need a horse. Direct a horse to the corner of the gate, get a good angle and use a horse musou boost.
 
 Some applications of the garrison clip do not work in the original WO3, for whatever reason. I've never seen the version where you go from outside to inside work, although inside to outside using horse musou boosting can work. Perhaps the collision of the gate is different?
 
