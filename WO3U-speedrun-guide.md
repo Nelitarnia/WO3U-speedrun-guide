@@ -275,7 +275,7 @@ As for drawbacks, you need some starting height to really make use of this movem
 
 This movement tactic doesn't exist in regular WO3 because it doesn't have air specials.
 
-## Sanzang and Seimei Abe gliding
+### Sanzang and Seimei Abe gliding
 
 Sanzang and Seimei Abe have a nearly identical air charge attack that turns them into a glider for a time. This movement tactic is impacted by Agility as well as your character's current velocity. As such, it's better if you can start this movement tactic from a running jump, but having maxed out Speed is not necessary since you'll hit this movement's Speed cap at far lower Speeds already. One timing test suggested there's no significant speed difference between having 145 or 360 Speed during a single glide's worth of movement.
 
@@ -305,6 +305,8 @@ This small oddity doesn't seem to happen at all with Samurai-style characters.
 - [Soul splitting](#Soul-splitting)
 - [Attacking through walls](#Attacking-through-walls)
 - [Garrison gate clip](#Garrison-gate-clip)
+- [Sloped floor clip](#Sloped-floor-clip)
+- [Special attack offset bug](#Special-attack-offset-bug)
 
 ### Angled glitch
 
@@ -396,19 +398,33 @@ Some applications of the garrison clip do not work in the original WO3, for what
 1, AKheon's demonstration:\
 https://www.youtube.com/watch?v=YOV41v-SfrM
 
-### Sloped floor clip pt. 1 - special attack bug
+### Sloped floor clip
 
-There are a few ways to go through sloped floor (like staircases) in this game. One of the easiest yet at the same time most elusive methods is an esoteric bug present in a few of this game's special attacks. Interrupting an ongoing action with a buggy special attack, your character will immediately "zip" to the direction opposite to where they were travelling, essentially quite close to their original starting location. This lets you move your character up to 3 meters in only a frame or two, although to get a full benefit from this glitch, you need a long "dash"-type attack (longer projected movement means a larger zip) as well as good timing.
+Sloped floor means any walkable area that has a steep elevation, such as staircases. Sloped floor operates under different rules than other collision, and any character who can just get a high enough velocity can clip through it.
 
-All the known attacks for this purpose are Taigong Wang's ground special, Motonari Mori's air special, Kotaru Fuma's air special and the horse Musou. Taigong Wang is the easiest to utilize. For instance, do his sprint attack but interrupt it before it's over with ground special. This makes Taigong Wang zip backwards maybe a length of 2 meters. If you do this while running down stairs, you will sink into floor while at it.
+Usually clipping through sloped floor isn't very helpful. If there's nothing underneath, your character will be returned back to ground level as soon as they are neutral, preventing you from staying out of bounds. However, in certain levels you can find sloped floor that has a second floor underneath, such as the small stairways in Anegawa. At places like this, sloped floor clipping could offer an alternative route through the level. But still... as a glitch tactic, it only has some fairly niche uses.
 
-Motonari Mori and Kotaru Fuma are slightly different and arguably harder to use since all of their zip-compatible ground moves have to cancel into their air special. So, while f.e. Motonari Mori can overall zip a longer distance than Taigong Wang, he also rises a little higher in air while zipping, thus making it harder to actually pass through floor. This also means you cannot use Motonari Mori or Kotaru Fuma to zip in the original WO3, since it didn't have air specials.
+The best character for clipping through sloped floor is Taigong Wang thanks to a special attack offset bug which allows him to "zip" backwards controllably. Second best is Jia Xu thanks to his C1 that temporarily gives him such a high velocity that he can easily clip through most sloped floor. See which other characters are able to do this glitch from the [tier list](#Character-tier-lists) section.
 
-As for doing this trick with the horse: the animation in which the horse gradually slows down after a sprint can be used for backwards zipping if you use Musou during it. Although it's quite easy to clip through sloped floor by doing this, staying out of bounds can be hard because the horse will soon sprint forward, leaving its spot under the sloped floor. To prevent this, save & quit lets you keep your coordinates out of bounds, and the horse stays there as well.
+It should be added that most tactics for going through sloped floor work better on vsync 30. Sloped floor collision seems much tighter and harder to breach on higher frame rates.
 
-Most attacks in the game project forward, and thus interrupting them with a buggy special attack zips your character backwards. However, Motonari Mori is able to project backwards and thus zip forward with his C3 combo. Categorically it seems to be almost the same thing, however.
+**Videos:**\
+1, Akheon's vid\
+https://www.youtube.com/watch?v=JTSHQmneesw
 
-In rare situations, like if you're squeezed between an open gate and a wall, it's possible to use a buggy special zip to breach the gate. Perhaps this tactic would work as a general gate clip in some rare situations, but so far it doesn't seem to work very consistently, and it doesn't seem like you can use a horse to create an artificial cramped space for clipping through gates either. At any rate, this potential application needs a bit more research.
+### Special attack offset bug
+
+This is an obscure mechanics bug which impacts certain special moves. If you interrupt an attack with a special that has an offset bug, your character's location will be immediately reset to the point where it was at the start of the attack. In practice, this will make the character zip forward or backwards the same distance they had moved since start of the attack. So, what's the use of this? The most obvious use (and it's not particularly obvious) is that zipping gives your character an extremely high velocity for a moment, which may allow them to clip sloped floor.
+
+To try this out for yourself, pick Taigong Wang. Start doing his sprint attack but interrupt it with his ground special before the attack animation is over. He should now zip backwards up to 2 meters as the special move begins, and if you do this on a staircases, he will clip through it. You can use the ground special to interrupt almost any regular move in Taigong Wang's movelist to do a zip, but his sprint attack is likely his best attack for this purpose since it has so much forward movement.
+
+Some characters like Motonari Mori and Kotaru Fuma have a buggy air special instead. There aren't as many opportunities to interrupt attacks with an air special than there are with a ground special because grounded attacks by default always cancel into ground specials. However, especially the Samurai-characters have many attacks which cancel into air specials instead, even when it seems like it shouldn't make sense. For example: you can interrupt Motonari Mori's sprint attack with his air special to do an even bigger zip than with Taigong Wang.
+
+Sadly, air specials are a bit harder to use for sloped floor clipping because they usually position your character upwards, making it harder to stay below ground level after clipping. This also means you can't use these characters for clipping sloped floor in the original WO3, because it didn't have air specials.
+
+Not all instances of offset bug are helpful. For instance, your horse's musou also has an offset bug. This is pretty easy to observe by doing a Dynasty-style horse boost during the first second or two after you start running with your horse. Your horse will noticeably zip backwards as the musou begins, which is usually a hindrance since it slows down navigation. On the plus side, you can clip through staircases and even take your horse out of bounds by using this trick.
+
+In rare situations, it seems it's possible to clip through a wall using a large zip. For instance, this can happen if you use Taigong Wang or Motonari Mori to zip while inside a very tight space between an opened gate and a wall. Perhaps this tactic would work as a general gate clip in some rare situations, but so far it doesn't seem to work very consistently, and it doesn't seem like you can use a horse to create an artificial cramped space for clipping through gates either. At any rate, this potential application needs a bit more research.
 
 **Videos:**\
 1, Akheon's vid\
