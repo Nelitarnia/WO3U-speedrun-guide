@@ -3,11 +3,11 @@
 This section takes an in-depth look at each character in the game from the perspective of speedrun utility. Still a work-in-progress...
 
 ### *Wei*
-Cao Cao, Cao Pi
+Cao Cao, [Cai Wenji](#Cai-Wenji)
 ### *Wu*
 Lu Xun
 ### *Shu*
-Liu Bei, Liu Shan, Xingcai
+Liu Bei, Liu Shan, [Xingcai](#Xingcai)
 ### *Jin*
 Sima Zhao
 ### *Other 1*
@@ -28,13 +28,11 @@ Motonari Mori
 
 ### Top speed movement
 
-Benkei's biggest asset is his unique air special. This attack features a leap high into the air followed by a quick forward downsmash that leaves him underground in a "digging" state.
-
-This attack uses Benkei's base Speed but also gains a percentage-based bonus from Agility on his weapon, allowing him to break the Speed cap. The average Speed of this technique is hard to estimate, but it's probably in the 420-440 range. It's useful to note that it's not only the grounded digging state which breaks Speed cap but also the aerial downsmash preceding it, so Benkei can fly through the air a very long distance if you set up the right circumstance for it.
+Benkei's air special makes him leap high into the air followed by a quick forward downsmash that leaves him underground in a "digging" state. This action uses Benkei's base Speed and it also gains a percentage-based speed bonus from Agility 10. Conveniently for speedrunners, it ignores Speed cap and allows movement at such a high velocity it can even be difficult to control. The average Speed of this technique is hard to estimate, but it's probably in the 420-440 range.
 
 Benkei speed digging is explained in more detail [here](https://github.com/Nelitarnia/WO3U-speedrun-guide/blob/main/WO3U-speedrun-guide.md#Benkei-speed-tech).
 
-This is the most commonly used movement tactic in individual level runs since it's so fast and versatile. It even works in areas with tricky terrain since Benkei can bypass water surface, angled surfaces and ledges while digging. It's harder to utilize in full game runs since it requires you to setup Benkei with a maxed out Speed and Agility 10 first, plus it's quite costly as far as musou is concerned.
+This is the most commonly used movement tactic in individual level runs since it's so fast and versatile. It even works in areas with tricky terrain since Benkei can bypass water surface, angled surfaces and ledges while digging. However, it's harder to utilize in full game runs since it requires you to setup Benkei with a maxed out Speed and Agility 10 first, plus it's quite costly as far as musou is concerned.
 
 ### Top high jump
 
@@ -58,15 +56,35 @@ Benkei cannot fall while digging. If you dig over a ledge, Benkei will simply te
 
 His air special can hit enemies through walls, but at such a short range it's unlikely to be useful.
 
+## Cai Wenji
+
+• Wonder / Wonder + Impact
+
+### Average angled glitch
+
+She can bypass thin obstacles by using her sprint attack.
+
+### Average infinite jump
+
+Her air special is rather slow, but it lets her hover in place as a part of an infinite jump chain.
+
+### Neutral L-stick bug
+
+Her regular air attack has a [neutral L-stick bug](https://github.com/Nelitarnia/WO3U-speedrun-guide/blob/main/WO3U-speedrun-guide.md#Neutral-L-stick-bugs) and it can gain extreme forward Speed (rivalling Zuo Ci) if you do it from a running jump and leave L-stick neutral. It's somewhat hard to utilize effectively, though, since you need a lot of starting height to really benefit from the glitchy momentum. The attack falls down fairly fast and Cai Wenji doesn't have double jump either, making it a bit more arduous to setup. Also, you only gain super speed on vsync 30.
+
+### Other notes
+
+Her air charge attack features a flashy looking somersault through the air. Unfortunately, most of its apparent height gain is fake, so it can't be used in Save & Quit infinite jumps very effectively.
+
+It looks like Cai Wenji gets a buff from her EX-attack, but I'm not sure what kind of an effect it actually has.
+
 ## Hanzo Hattori
 
 • Speed / Efficacy + Vigor
 
 ### Top infinite jump
 
-Hanzo Hattori's air special zips him forward and upward a couple of meters. The animation is short too, allowing it to be done quickly in a jump. He is arguably the best character in the game for chainable vertical air movement, i.e. an infinite jump going for pure height, and maybe in the Top 10 for chainable horizontal air movement too. Having access to double jump is a nice cherry on top.
-
-The worst part is that air specials that are interrupted with a double jump may randomly lose all their height afterwards. This may only happen 10-15% of the time, but it still creates a small degree of inconsistency to vertical infinite jumping. The same is true for almost every other infinite jumping character in the game, though.
+Hanzo Hattori is arguably the best character in the game for chainable vertical air movement, i.e. an infinite jump going for pure height, and maybe in the Top 10 for chainable horizontal air movement too. His air special zips him forward and upward a couple of meters. The animation is short too, allowing it to be repeated quickly in a jump. Having access to double jump is very useful as well.
 
 ### Top high jump
 
@@ -76,13 +94,13 @@ Hanzo Hattori's naturally high ground jump, air special and ability to double ju
 
 He can go past up to medium-thick walls with his sprint attack. He can also be used to setup angled glitch.
 
-The forward zip of his air special is not impacted by angle, which allows him to do infinite jumping even while angled.
+As a side note, the forward zip of his air special is not impacted by angle, which allows him to be a solid infinite jumper even while angled.
 
 ### Unique clone power
 
 Hanzo Hattori can create two clones of himself using C5. These clones use the same input and have the same speed as the playable character, although their movement does have a few additional limitations. The clones cannot block, double jump, use special moves, turn while attacking or create additional clones with C5. They also disappear after you wait around 10-15 seconds, or even sooner if you switch characters or try to get on horse.
 
-For some reason switching characters while in air, water, slippery collision or climbing a ladder allows you to switch characters without the clones disappearing. After this, you are even able to get on horse without the clones vanishing as well. The clones will always disappear if you try to switch characters back to Hanzo Hattori from any other character, even if you are in air, water, ladder, etc.
+However, for some reason switching characters while in air, water, slippery collision or climbing a ladder allows you to switch characters without the clones disappearing. The clones will always disappear if you try to switch characters back to Hanzo Hattori from any other character, even if you are in air, water, ladder, etc.
 
 Besides increasing Hanzo Hattori's immediate combat power, the clones have two other potentially quite powerful utility in speedruns. First is that he can separate the clones and move them an arbitrary distance away from himself by running against some thin obstacle that doesn't block the clone next to him. It should be possible to snipe officers who spawn with a delay from a great distance away with a far-away clone, which could save navigation time.
 
@@ -92,19 +110,49 @@ Other observations regarding clones:
 
 • The clones are able to do musou. The clones' musou gauge is probably shared with Hanzo himself, so at high levels they can endlessly spam musou as long as they remain on the map.
 
-• You can make a clone get on a ladder. Clones have no collision while they're on the ladder, and any input just makes them drop down. This same trick doesn't seem to work for mounting a horse or a war machine with a clone.
+• You can make a clone get on a ladder. Clones have no collision while they're on the ladder, and any input just makes them drop down. This same input doesn't seem to work for mounting a horse or a war machine with a clone.
 
-• Normally clones disappear when you're on a war machine, but if you did the character switch trick, they will stay active instead. It seems you can't control the clones at all while on a war machine, though.
+• Normally clones disappear when you mount a horse or a war machine, but if you did the character switch trick first, they will stay around instead. It seems you can't control the clones at all while mounted, though.
 
 • Clones created during TTA will have a golden glow on them. The glow doesn't end even after TTA ends, they just stay golden until vanishing.
 
-• The characters generated by the special attacks of Kyubi, Sun Wukong and Yueying remain separate from Hanzo's clones.
-
-• I tried using various characters' different specials (like Xiahou Ba's speed buff) while the clones are on the field just to see if there would be an interaction, but so far I didn't notice any.
+• I tried using some of the other characters' different specials (like Xiahou Ba's speed buff) while the clones are on the field just to see if there would be an interaction, but so far I didn't notice any. The NPC characters generated by the special attacks of Kyubi, Sun Wukong and Yueying remain separate from Hanzo's clones.
 
 ### Other notes
 
 Hanzo Hattori is able to breach some sloped floor since his air special gives him such a high velocity forward zip. However, it's difficult to stay out of bounds afterwards because the air special also gives him a lot of height and usually pushes him back up above ground level. He needs very steep angled floor (or to save & reload mid-attack) for this to work.
+
+## Xingcai
+
+• Speed / Speed + Recovery
+
+### Top infinite jumper
+
+Xingcai is the 2nd best in the game for horizontal chainable air movement thanks to her fast, forward-propelling air special and double jump. She is only slightly worse in this regard than Yukimura Sanada since her air special's animation is slightly longer and doesn't cross as much distance.
+
+To make up for this, Xingcai is much better at gaining height during infinite jumps compared to Yukimura Sanada - she is arguably in the overall Top 3 in this regard. Her air charge attack gives good height and it can be interrupted with her air special, so it can be incorporated inside an infinite jump combo to gain height faster. And since this additional height comes from a regular attack, it's not subject to random height loss like air specials are, which is really good for jump consistency.
+
+Using the air charge attack can be a bit tricky at first. If you mess up your timing, Xingcai will do a downsmash which will make you lose a lot of height. Still, learning to use it is essential for getting the most out of your infinite jumps with this character.
+
+All of this makes her the most reliable infinite jump team member in the game, good for any kind of a situation. There's rarely any reason not to use her as the other infinite jump character whenever she's available.
+
+### Top angled glitch
+
+Xingcai is able to bypass even thick walls very quickly by using either her ground or air special. Musou and C5 also work for medium-thick walls, although both of these options are slower.
+
+She becomes unable to infinite jump effectively while angled because the forward movement in her air special makes her lose all her height.
+
+### Good speed movement
+
+Her ground special makes her ride around on her shield. This movement benefits from Agility and can be sped up with jump cancelling. With Agility 10, this should correspond to around 205 or 210 speed, and as such, it can obsolete a horse. The worst part is that it costs a lot of musou to move around like this.
+
+Repeatedly doing her air special is also a speed movement tactic, although overall this is slightly slower than using the ground special.
+
+### Other notes
+
+She can technically hit a short range through walls using her air special (and maybe musou?) but the range is so short that it's unlikely to help.
+
+The downsmash of her air charge attack has one of the fastest falling speeds in the game. Knowing this might be useful in the rare circumstance where it's necessary to descend quickly.
 
 ## Yukimura Sanada
 
@@ -112,7 +160,7 @@ Hanzo Hattori is able to breach some sloped floor since his air special gives hi
 
 ### Top infinite jumper
 
-Yukimura Sanada is a very useful team member with a lot of different utility. His most unique feature is his air special which quickly propels him forward around 8 meters in air. It's easily the best air special in the game for chainable horizontal aerial movement, and he has a double jump to help too. Although his height gain is only good instead of great, if you want an infinite jump that wants to cross a long distance quick, he is your #1 person for this purpose.
+Yukimura Sanada's most distinguishing feature is his air special which quickly propels him forward around 8 meters in air. It's easily the best air special in the game for chainable horizontal aerial movement, and he has a double jump to help too. Although his height gain is only good instead of great, if you want an infinite jump that wants to cross a long distance quick, he is your #1 person for this purpose.
 
 His favorite team member for quick horizontal infinite jumping is Xingcai, who is the 2nd best in the game for this purpose with her similar forward dashing air special. Alternating their air specials with Agility 10 corresponds to around 240 Speed aerial movement. However, he makes for a surprisingly good pair with any character with a short air special animation, such as Jiang Wei or Zhurong. Although these character don't carry the infinite jump, they allow Yukimura Sanada to spam his exceptional air special that much quicker. Alternating Yukimura Sanada's and Jiang Wei's air specials corresponds to around 200 Speed aerial movement.
 
