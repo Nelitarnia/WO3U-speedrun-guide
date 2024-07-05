@@ -15,7 +15,7 @@ Zhang Jiao, Dong Zhuo
 ### *Other 2*
 [Benkei](#Benkei)
 ### *Samurai 1*
-[Yukimura Sanada](#Yukimura-Sanada), Hanzo Hattori
+[Yukimura Sanada](#Yukimura-Sanada), [Hanzo Hattori](#Hanzo-Hattori)
 ### *Samurai 2*
 Ina
 ### *Samurai 3*
@@ -34,7 +34,7 @@ This attack uses Benkei's base Speed but also gains a percentage-based bonus fro
 
 Benkei speed digging is explained in more detail [here](https://github.com/Nelitarnia/WO3U-speedrun-guide/blob/main/WO3U-speedrun-guide.md#Benkei-speed-tech).
 
-This is the most commonly used movement tactic in individual level runs since it's so fast and versatile. It even works in areas with tricky terrain since Benkei can bypass water surface, angled surfaces and ledges while digging. It's harder to utilize in full game runs since it requires you to setup Benkei with a maxed out Speed and Agility 10 first.
+This is the most commonly used movement tactic in individual level runs since it's so fast and versatile. It even works in areas with tricky terrain since Benkei can bypass water surface, angled surfaces and ledges while digging. It's harder to utilize in full game runs since it requires you to setup Benkei with a maxed out Speed and Agility 10 first, plus it's quite costly as far as musou is concerned.
 
 ### Top high jump
 
@@ -44,7 +44,7 @@ Unfortunately, Benkei can't contribute to infinite jumps in any other capacity s
 
 ### Good angled glitch
 
-Benkei can go past medium-thick walls with his sprint attack, C3 or C7. He can go past thick walls with C3.
+Benkei can go past even thick walls with his C3. Additionally, his sprint attack and C7 let him go past up to medium-thick walls. He can be used to setup angled glitch with his Samurai-style musou, although realistically, you'd probably rather use his energy for speed movement.
 
 ### Skill breakpoints
 
@@ -57,6 +57,54 @@ Benkei's C2 also makes him dig. It works the same way as the air special, except
 Benkei cannot fall while digging. If you dig over a ledge, Benkei will simply teleport to ground level instantly.
 
 His air special can hit enemies through walls, but at such a short range it's unlikely to be useful.
+
+## Hanzo Hattori
+
+• Speed / Efficacy + Vigor
+
+### Top infinite jump
+
+Hanzo Hattori's air special zips him forward and upward a couple of meters. The animation is short too, allowing it to be done quickly in a jump. He is arguably the best character in the game for chainable vertical air movement, i.e. an infinite jump going for pure height, and maybe in the Top 10 for chainable horizontal air movement too. Having access to double jump is a nice cherry on top.
+
+The worst part is that air specials that are interrupted with a double jump may randomly lose all their height afterwards. This may only happen 10-15% of the time, but it still creates a small degree of inconsistency to vertical infinite jumping. The same is true for almost every other infinite jumping character in the game, though.
+
+### Top high jump
+
+Hanzo Hattori's naturally high ground jump, air special and ability to double jump allow him to gain respectable height even while solo. He can cross tier 2 in Luoyang with double jump -> air special -> double jump.
+
+### Good angled glitch
+
+He can go past up to medium-thick walls with his sprint attack. He can also be used to setup angled glitch.
+
+The forward zip of his air special is not impacted by angle, which allows him to do infinite jumping even while angled.
+
+### Unique clone power
+
+Hanzo Hattori can create two clones of himself using C5. These clones use the same input and have the same speed as the playable character, although their movement does have a few additional limitations. The clones cannot block, double jump, use special moves, turn while attacking or create additional clones with C5. They also disappear after you wait around 10-15 seconds, or even sooner if you switch characters or try to get on horse.
+
+For some reason switching characters while in air, water, slippery collision or climbing a ladder allows you to switch characters without the clones disappearing. After this, you are even able to get on horse without the clones vanishing as well. The clones will always disappear if you try to switch characters back to Hanzo Hattori from any other character, even if you are in air, water, ladder, etc.
+
+Besides increasing Hanzo Hattori's immediate combat power, the clones have two other potentially quite powerful utility in speedruns. First is that he can separate the clones and move them an arbitrary distance away from himself by running against some thin obstacle that doesn't block the clone next to him. It should be possible to snipe officers who spawn with a delay from a great distance away with a far-away clone, which could save navigation time.
+
+Second is that with a precise angle, it's possible to do C5 in a way which spawns a clone through a thin barricade like a garrison gate. This is likely quite a powerful way to attack enemies through walls, although it should be tested in practice to see just how effective it actually is.
+
+Other observations regarding clones:
+
+• The clones are able to do musou. The clones' musou gauge is probably shared with Hanzo himself, so at high levels they can endlessly spam musou as long as they remain on the map.
+
+• You can make a clone get on a ladder. Clones have no collision while they're on the ladder, and any input just makes them drop down. This same trick doesn't seem to work for mounting a horse or a war machine with a clone.
+
+• Normally clones disappear when you're on a war machine, but if you did the character switch trick, they will stay active instead. It seems you can't control the clones at all while on a war machine, though.
+
+• Clones created during TTA will have a golden glow on them. The glow doesn't end even after TTA ends, they just stay golden until vanishing.
+
+• The characters generated by the special attacks of Kyubi, Sun Wukong and Yueying remain separate from Hanzo's clones.
+
+• I tried using various characters' different specials (like Xiahou Ba's speed buff) while the clones are on the field just to see if there would be an interaction, but so far I didn't notice any.
+
+### Other notes
+
+Hanzo Hattori is able to breach some sloped floor since his air special gives him such a high velocity forward zip. However, it's difficult to stay out of bounds afterwards because the air special also gives him a lot of height and usually pushes him back up above ground level. He needs very steep angled floor (or to save & reload mid-attack) for this to work.
 
 ## Yukimura Sanada
 
