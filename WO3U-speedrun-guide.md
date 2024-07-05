@@ -52,17 +52,17 @@ I've divided the various glitch techniques into the following categories:
 - [Wallzipping](#Wallzipping)
 - [Xu Shu high jump](#Xu-Shu-high-jump)
 
-### General advice
-
 Most walls in this game are essentially infinitely high, and there's no hope of jumping past them. However, different kind of doors, gateways and other temporary obstacles have a finite height. So when you're doing these jump tactics, you should always aim for the doorways. Sometimes it can be hard to discern which part of the level design is an infinitely tall outer boundary and which is a gateway. In these cases, looking closer at the map should be helpful, as various kinds of openable doors are marked with a different color.
 
-Note that it's not always possible to tell the height of collision by just looking. Although many garrison gates are exactly as high as they look, some are blocked by additional invisible boundary. Experimentation is useful.
+Note that it's not always possible to tell the height of collision by just looking. Although many garrison gates are exactly as high as they look, some are blocked by additional invisible boundary. You may need to experiment a bit to find out how high something is.
 
 ### Basic infinite jump
 
-The basic infinite jump is done by chaining together air specials to gain essentially infinite height and/or horizontal movement in air. Although normally you can only use a single air special while airborne, you can bypass this limitation by switching characters in air. With some practice, it's possible to chain together air specials and character switching pretty seamlessly.
+The basic infinite jump is done by chaining together air specials to gain essentially infinite height and/or horizontal movement in air. Although normally you can only use a single air special while airborne, you can bypass this limitation by switching characters in air.
 
-Not every team member is equally good at infinite jumping. Some characters have an air special which ends in a downsmash, making them unusable for infinite jumps. Many have an air special which lets them at least hover, but they'll need to be paired with a better infinite jumper for the jump to actually go anywhere. Speed-type characters are especially valuable since they can use double jump in between air specials to make it easier to avoid losing height while switching characters.
+Not every team member is equally good at infinite jumping. Some characters have an air special which ends in a downsmash, making them unusable for infinite jumps. Many have an air special which lets them at least hover, but they'll need to be paired with a better infinite jumper for the jump to actually go anywhere. Speed-type characters are especially valuable since they can use double jump in between air specials, making it easier to avoid losing height while chaining together jump actions.
+
+As one unfortunate quirk, air specials that are interrupted with a double jump may randomly lose their gained height at the end. This only happens 10-15% of the time, but it still creates a small degree of inconsistency to vertical infinite jumping for most characters. However, there are a few characters (like Xingcai) who can use their air charge attack during an infinite jump to gain additional height which is never lost due to this quirk, which can be highly valuable during longer infinite jumps.
 
 There's a [tier list](#Character-tier-lists) further below detailing which characters are the best for infinite jumping.
 
@@ -90,11 +90,11 @@ https://www.youtube.com/watch?v=fag415dCR6Y
 
 One small quality-of-life improvement added in WO3U is the ability to sprint off with your horse while mounting instead of having to wait for the mounting animation to complete first. However, it turns out that this innocuous detail allows a unique high jump tactic.
 
-If you immediately do a horse jump as you begin mounting your horse, your character gains access to some inputs that are normally disabled in air, including dismounting. Dismounting mid-jump gives you a fair amount of unintended height. This is pretty simple to setup, and it works with every character in the game too.
+If you immediately do a horse jump as you begin mounting your horse, your character gains access to some inputs that are normally disabled in air. This includes dismounting, and doing so mid-jump gives you a fair amount of unintended height. This is pretty simple to setup, and it works with every character in the game too.
 
 It seems you gain slightly more height if you do this trick with the special horses (e.g. Red Hare) since they are taller and jump higher.
 
-You can also use the exploit to switch characters, block or do horseback attacks during a horse jump, but so far I haven't noticed any particularly devastating effects from these inputs. Any horseback attacks appear to cancel upon landing from the jump. Using TTA during this time is not possible. Doing a Samurai-style musou in air works normally, but a Dynasty-style musou interrupts the jump and immediately returns the horse back to the ground level. If done over water surface, you become fully submerged, which looks funny.
+You can also use the exploit to switch characters, block or do horseback attacks during a horse jump, but so far I haven't noticed any particularly devastating effects from these inputs. Any horseback attacks appear to cancel upon landing from the jump. Using TTA during this time is not possible. Doing a Samurai-style musou in air works normally, but a Dynasty-style musou interrupts the jump and immediately returns the horse back to the ground level. If done over water surface, you become fully submerged for a moment, which looks funny.
 
 This trick doesn't work in the original WO3 since you can't run or jump with your horse as you are mounting it.
 
@@ -146,8 +146,6 @@ https://www.youtube.com/watch?v=rQpd9hFCiyg
 - [Neutral L-stick bugs](#Neutral-L-stick-bugs)
 - [Dynasty running cycle bug](#Dynasty-running-cycle-bug)
 
-### General advice
-
 Speed movement tactics could be generally divided into three different types: ground movement, aerial movement or a hybrid of the two. It's useful to consider all of them when devising the fastest route through a level. For example: in some level it might be useful to start an infinite jump early and then move some distance airborne to get over multiple invisible walls with a single jump.
 
 This game has a Speed cap of 360. Although you can use upgrade stone duping to get a character's Speed all the way to 500, I haven't noticed any circumstances where this makes a difference compared to having 360 Speed.
@@ -172,13 +170,17 @@ Other characters like Zhang Liao and Ranmaru Mori can also buff their own speed 
 
 ### Benkei speed tech
 
-This is one of the game's fastest movement tactics. It breaks the speed cap and can be done nearly universally - all you need is Benkei with a maxed out Speed and a weapon with Agility 10.
+Benkei's air special makes him leap high into the air followed by a quick forward downsmash that leaves him underground in a "digging" state. This action uses Benkei's base Speed and it also gains a percentage-based speed bonus from Agility 10. Conveniently for speedrunners, it ignores Speed cap and allows movement at such a high velocity it can even be difficult to control. The average Speed of this technique is hard to estimate, but it's probably in the 420-440 range.
 
-This trick relies on Benkei's air special which makes him leap into the air and then dig underground for around 4 seconds. While digging, Benkei moves at his usual base Speed, but the attack also gains a percentage-based speed bonus from Agility 10, therefore allowing Benkei to bypass the Speed cap. Each dig is followed by a short cooldown, but you can skip most of it with a character switch. It's a bit of a bother, but this saves a second or two per use.
+It's useful to note that it's not only the grounded digging state which breaks Speed cap but also the aerial downsmash preceding it, so Benkei can fly through the air a very long distance if you set up the right circumstances for it. He can't be steered at all until he hits ground level, though.
 
-One big benefit of Benkei's speed digging is that it's extremely steerable. Although it's a little difficult to control since you move so quick, it's fundamentally a highly responsive movement tactic that you can even use in narrow areas with tight corners. Benkei is also immune to water and slippery collision while digging, allowing him to move quickly even through challenging terrain.
+Besides being very fast, one huge advantage of Benkei's speed digging is that it's extremely steerable. Although it's a little difficult to control since you move so quick, it's fundamentally a highly responsive movement tactic that you can even use in narrow areas with tight corners with some practice. Benkei is also immune to water and slippery collision while digging, allowing him to move quickly even through challenging terrain.
 
-This movement tactic is more situational on PS4 because it only works at low frame rate. On PC, you can do it everywhere with vsync 30.
+Each dig is followed by a short cooldown, but you can skip most of it with a character switch. It's a bit of a bother, but this saves a second or two per use.
+
+This movement tactic is incredibly useful in individual level categories, but it's harder to utilize in full game runs - for best results, you first have to setup Benkei with maxed out Speed and Agility 10. It's also very costly as far as musou is concerned if you try relying on it early game.
+
+Benkei speed digging is more situational on PS4 because it only works at low frame rate. You can do it everywhere with vsync 30 on PC.
 
 This glitch does not exist in the original WO3 since it doesn't have air specials.
 
@@ -194,11 +196,11 @@ This is another near-universal way to move faster than the Speed cap. To do it, 
 
 This trick relies on a [neutral L-stick bug](#Neutral-L-stick-bugs). Xiahou Yuan's regular air attack has buggy physics, and it will build up momentum exponentially (up to a certain limit) if you just keep L-stick neutral. To try this out, do a running jump, then quickly let go of L-stick and do his regular air attack. You can see Xiahou Yuan build up some glitchy momentum as long as he stays in air and you don't touch the L-stick.
 
-Timing tests have shown that in optimal conditions this movement tech is faster than Benkei speed digging. However, in practice using Benkei speed digging is often more convenient because it's less terrain-dependent and far more steerable. Xiahou Yuan speed tech only has a pure advantage over Benkei in open spaces or when moving downhill.
+Timing tests have shown that in optimal conditions this movement tech is faster than Benkei speed digging. However, in practice using Benkei speed digging is often more convenient because it's less terrain-dependent and far more steerable. Xiahou Yuan speed tech only has a strict advantage over Benkei in open spaces or when moving downhill.
 
-Furthermore, it's nearly impossible to do this movement tactic optimally every single time because of its strange input which requires a precise use of L-stick. It doesn't help that most Dynasty-characters have a [run cycle oddity](#Dynasty-running-cycle-bug) that makes them gain a lot of Speed during the first frame or two after they start running, and this movement tactic can also gain a lot of speed from it.
+Furthermore, it's nearly impossible to do this movement tactic optimally every single time because of its strange input which requires a precise use of L-stick. It doesn't help that most Dynasty-characters have a [run cycle oddity](#Dynasty-running-cycle-bug) that makes them gain a lot of Speed during the first frame or two after they start running, and this movement tactic can also gain or lose a lot of velocity from it.
 
-As mentioned, this tactic works surprisingly well even with a completely vanilla Xiahou Yuan. This makes it useful in many run categories, especially in the original WO3, where it may very well be the fastest way to move on foot in the absence of Benkei's speed digging. Plus, it doesn't cost any musou to use either.
+As mentioned, this tactic works surprisingly well even with a completely vanilla Xiahou Yuan. This makes it useful in many run categories, especially in the original WO3, where it's the fastest way to move on foot in the absence of Benkei's speed digging. Plus, it doesn't cost any musou to use either.
 
 Like Benkei's speed tech, this movement tactic only works at low frame rates, making it inconsistent on PS4. But it works 100% consistently on PC with vsync 30.
 
@@ -228,11 +230,9 @@ This trick relies on a [neutral L-stick bug](#Neutral-L-stick-bugs). If you do W
 
 The effect is different depending on your frame rate. At higher frame rates, the trick is more controllable and it only sends you flying forward at an extremely high speed. At low frame rate, your velocity increases past all comprehension and your coordinates may end up wrapping (?), causing Wang Yi to essentially teleport somewhere with a small degree of randomness.
 
-This is without a doubt the single fastest movement tactic in the game - it's so fast that it literally breaks the game's physics. It's difficult to control, but being able to go nearly instantly from spot A to spot B can be very handy in speedruns. This is also the only known way to teleport past level boundaries, which is a rather unique utility.
+This is without a doubt the single fastest movement tactic in the game - it's so fast that it literally breaks the game's physics. It's difficult to control, but being able to go nearly instantly from spot A to spot B can be very handy in speedruns. This is also the only known way to teleport past level boundaries, which is a rather unique utility. Unfortunately, the high difficulty and randomness of this trick makes it mostly relevant for individual level runs. You also need a lot of height to really make use of the exponential speed gain.
 
-Unfortunately, the high difficulty and randomness of this trick makes it mostly relevant for individual level runs. You also need a lot of height to really make use of the exponential speed gain.
-
-This trick DOES work in the original WO3, but it's much harder to set up since your ways of gaining a lot of height are limited.
+This trick DOES work in the original WO3, but it's much harder to set up since your ways of gaining a lot of height are far more limited.
 
 **Videos:**\
 1, AKheon's video of using this trick at Battle of Yiling:\
@@ -258,9 +258,7 @@ https://www.youtube.com/watch?v=rQpd9hFCiyg
 
 This trick relies on a [neutral L-stick bug](#Neutral-L-stick-bugs). If you do Zuo Ci's air special with L-stick neutral, you get far more speed than intended and move at a velocity that easily breaks the Speed cap as long as you stay in air.
 
-Timing tests have shown that with Agility 10 your movement speed is equal to Benkei's speed digging (disregarding other factors such as terrain or cooldowns). However, this tactic is overall far more situational and hard to use. First of all, you need more than a single jump's worth of height to make the most out of your buggy momentum. You also lose the super speed if you touch the L-stick or Zuo Ci brushes any walls at any point. This means you can't really steer while doing this tech, and it's not practical to use in tight spaces either.
-
-Xingcai and Zuo Ci make a surprisingly good duo because Xingcai is able to gain consistent, quick and chainable height with her air attacks. A movement tactic where you start with Xingcai, jump -> air C1 -> air special to quickly gain height, then double jump and switch to Zuo Ci and use his air special is actually not that much slower than Benkei speed digging. 
+Timing tests have shown that with Agility 10 your movement speed is equal to Benkei's speed digging (disregarding other factors such as terrain or cooldowns). However, this tactic is overall far more situational and hard to use. First of all, you need more than a single jump's worth of height to make the most out of your buggy velocity. You also lose your super speed if you touch the L-stick or Zuo Ci brushes any walls at any point. This means you can't really steer while doing this tech, and it's not practical to use in tight spaces either.
 
 Getting super speed also requires a low frame rate. Although it's inconsistent on PS4, it can be done reliably on PC with vsync 30. You get a bit of extra speed to this attack by keeping L-stick neutral even on vsync 60, but it's not quite as much.
 
@@ -268,7 +266,7 @@ This movement tactic doesn't exist in regular WO3 because it doesn't have air sp
 
 ### Pang Tong speed tech
 
-Pang Tong has an air special that lets him propel through the air like a rocket. This attack is rather floaty, allowing you to move in air a very long distance at an impressive speed which almost certainly breaks the Speed cap with Agility 10. It's also much more steerable than most other fast movement techniques.
+Pang Tong has an air special that lets him propel through the air like a rocket. This attack is rather floaty, allowing you to move in air a fairly long distance at a speed which just barely breaks the Speed cap with Agility 10. It's also much more steerable than most other fast movement techniques.
 
 As for drawbacks, you need some starting height to really make use of this movement tactic. It's also slightly inflexible in the sense that you can't interrupt it early - you're stuck flying in air until you slowly descend back to ground level.
 
@@ -276,9 +274,9 @@ This movement tactic doesn't exist in regular WO3 because it doesn't have air sp
 
 ### Sanzang and Seimei Abe gliding
 
-Sanzang and Seimei Abe have a nearly identical air charge attack that turns them into a glider for a time. This movement tactic is impacted by Agility as well as your character's current velocity. As such, it's better if you can start this movement tactic from a running jump, but having maxed out Speed is not necessary since you'll hit this movement's Speed cap at far lower Speeds already. One timing test suggested there's no significant speed difference between having 145 or 360 Speed during a single glide's worth of movement.
+Sanzang and Seimei Abe have a nearly identical air charge attack that turns them into a glider for a time. This movement tactic is impacted by Agility as well as your character's current velocity. As such, it's better if you can start this movement tactic from a running jump, but having maxed out Speed is not necessary since you'll hit this movement's Speed cap at a far lower Speed already. One timing test suggested there's no significant speed difference between having 145 or 360 Speed during a single glide's worth of movement.
 
-Even in optimal circumstances this movement tactic does not break the Speed cap. The main advantage of this tactic is the ability to glide an unparalleled distance through air. Even though you are slightly slower than Pang Tong, you can stay in air for much longer than him. This movement tactic is also highly steerable and more flexible since you can cancel it early to fall down once you've reached your destination.
+Even in optimal circumstances this movement tactic does not break the Speed cap - the average Speed is closer to something like 320. However, the main advantage of this tactic is the ability to glide an unparalleled distance through air. Even though you are slightly slower than Pang Tong, you can stay in air for much longer than him. This movement tactic is also highly steerable and more flexible since you can cancel it to fall down early once you've reached your destination.
 
 Seimei Abe can get a bit more starting height to his glide by doing jump -> regular air attack -> charge air attack. He also falls down faster after you are done gliding. Both of these things make him the better choice in speedruns in my opinion. But Seimei Abe was only added in WO3U, which means Sanzang is the only character you can use for gliding in the original WO3.
 
@@ -288,7 +286,7 @@ https://www.youtube.com/watch?v=1vhMfdkbOyU
 
 ### Neutral L-stick bugs
 
-A number of air attacks in this game have buggy physics and they gain additional momentum if you keep L-stick neutral. Sometimes this effect is barely noticeable, but sometimes it makes your character's speed increase exponentially, resulting in incredibly fast movement. The most useful cases of neutral L-stick bugs are listed above, and more will be listed in the character-specific section... eventually, once it's written.
+A number of air attacks in this game have buggy physics and they gain additional momentum if you keep L-stick neutral. Sometimes this effect is barely noticeable, but sometimes it makes your character's speed increase exponentially, resulting in incredibly fast movement. The most useful cases of neutral L-stick bugs are listed above, and the rest can be found in the [individual characters section](https://github.com/Nelitarnia/WO3U-speedrun-guide/blob/main/character-notes.md)
 
 ### Dynasty running cycle bug
 
@@ -301,15 +299,18 @@ This small oddity doesn't seem to happen at all with Samurai-style characters.
 ## Other tech
 
 - [Angled glitch](#Angled-glitch)
-- [Soul splitting](#Soul-splitting)
 - [Attacking through walls](#Attacking-through-walls)
 - [Garrison gate clip](#Garrison-gate-clip)
 - [Sloped floor clip](#Sloped-floor-clip)
+- [Sloped floor clip with a mount](#Sloped-floor-clip-with-a-mount)
 - [Special attack offset bug](#Special-attack-offset-bug)
+- [Soul splitting](#Soul-splitting)
+- [Delayed input bugs](#Delayed-input-bugs)
+- [Escort mission time saves](#Escort-mission-time-saves)
 
 ### Angled glitch
 
-This is a glitch which impacts your character's z-axis so that they gain a slight forward angle. When angled, your character will sink into the ground when doing attacks. If you sink deep enough, you are able to go under walls!
+This is a glitch which impacts your character's z-axis so that they gain a slight forward angle. When angled, your character will sink into the ground when doing attacks. Sink deep enough and you are able to go under walls!
 
 This trick is a useful alternative to infinite jumping for bypassing finite height obstacles. However, it has a few limitations as well. The biggest of them is that you need a ladder to give your character an angle, which means this glitch is not possible to do in every map. (Ladders are generally only present in maps adapted from Dynasty Warriors.)
 
@@ -334,6 +335,83 @@ This glitch DOES work in the original Warriors Orochi 3, where it comes in frequ
 **Videos:**\
 1, AKheon's video:\
 https://www.youtube.com/watch?v=TWWu6AsrHUU
+
+### Attacking through walls
+
+Some characters have attacks that can hit enemies through the walls. Especially the new attacks added in WO3U (f.e. various air specials) are usually less glitch-proofed and have the unintended property of being able to hit enemies through collision.
+
+Sniping an officer early from tens of meters away can be a viable, faster alternative to other speed tactics talked above. However, usually you have to have a maxed out character with a powerful weapon to be able to do respectable amounts of damage from such a long distance, making this idea more relevant for individual level runs.
+
+Nezha (Human) is currently the best known character for attacking through walls. His fully charged C1 travels an insanely long distance - up to 30 meters? - and hits really hard as well.
+
+Some characters like Xiahou Yuan, Guo Jia and Gyuki have an air special that shoots a downwards aerial projectile at a fairly steep angle. This projectile goes through walls and has an effectively near-infinite range, but you need a specific setup which gives you a lot of height to use it for officer sniping.
+
+This glitch should work in the original WO3 too, but it's bound to be far less effective since the most useful attacks for hitting through walls were only added in WO3U.
+
+**Videos:**\
+1, AKheon's video example of doing this in Battle of Nanjun:\
+https://www.youtube.com/watch?v=S3EqbtcYUO8
+
+### Garrison gate clip
+
+There is a recurring garrison gate asset in WO3U that has a gap to its side, allowing you to clip through it from either side. The difficulty of doing this varies depending on the area, but it's usually not too hard. 
+
+To go from outside to inside, you usually have to be on foot. Get a character with a high base Speed, then repeatedly attempt to run through the side of the gate. Press L1 repeatedly at a certain rhythm to stop and start running again and again. This should work quite well with Dynasty-characters at least. Most attacks that move your character at a high speed also work for doing this clip.
+
+To go from inside to outside, you usually need a horse. Direct a horse to the corner of the gate, get a good angle and use a horse musou boost.
+
+Some applications of the garrison clip do not work in the original WO3, for whatever reason. I've never seen the version where you go from outside to inside work, although inside to outside using horse musou boosting can work. Perhaps the collision of the gate is different?
+
+**Videos:**\
+1, AKheon's demonstration:\
+https://www.youtube.com/watch?v=YOV41v-SfrM
+
+### Sloped floor clip
+
+Sloped floor means any walkable area that has a steep elevation, such as staircases. Sloped floor operates under different rules than other collision, and any character who can just get a high enough velocity can clip through it. Having Agility on your weapon makes sloped floor clipping more consistent, as Agility increases the effective velocity your character has during attacks.
+
+Usually clipping through sloped floor isn't very helpful. If there's nothing underneath, your character will be returned back to ground level as soon as they are neutral, preventing you from staying out of bounds. However, in certain levels you can find sloped floor with a second floor underneath, such as the small stairways in Anegawa. At places like this, sloped floor clipping could potentially offer an alternative route through the level. But still... as a glitch tactic, it only has some fairly niche uses.
+
+The best character for clipping through sloped floor is Taigong Wang thanks to a special attack offset bug which allows him to "zip" backwards controllably. Second best is Jia Xu thanks to his C1 that temporarily gives him such a high velocity that he can easily clip through most sloped floor. See which other characters are able to do this glitch from the [tier list](#Character-tier-lists) section.
+
+It should be added that most tactics for going through sloped floor work better on vsync 30. Sloped floor collision seems much tighter and harder to breach on higher frame rates.
+
+Since the original Warriors Orochi 3 did not have infinite jumping, sloped floor clip might be more useful in that game to f.e. do some unique shortcuts in levels like Anegawa or Honnoji.
+
+**Videos:**\
+1, Akheon's vid\
+https://www.youtube.com/watch?v=JTSHQmneesw
+
+### Sloped floor clip with a mount
+
+Sloped floor clip becomes universally doable with any character with the help of a mount.
+
+Simply leaving your mount standing on sloped floor and then pushing against it from below at high speed can give you additional leverage for clipping through. The "ceiling" provided by the collision of your mount lets you to clip sloped floor without needing such a high velocity as you normally would, this giving new characters access to sloped floor clips. This can be done with any of your mounts, but elephant and bear are easier than the horse in my opinion.
+
+The bear is particularly unique. With some setups, all you need to do to clip through steep sloped floor is to run against the bear at a high speed. This means that essentially any character with a high enough running speed can now do sloped floor clip, making this rather esoteric trick much more accessible for a larger variety of different teams.
+
+With bear or elephant, dismounting while the mount's back-left side is against some collision like a railing can also create a sloped floor breach. You can use the repelling force of the railing and the mount to "zip" you at a high enough speed upstairs that you clip through the floor. The positioning is easier to do with characters like Momiji and Hundun who leap a maximally long distance away from the mount when dismounting. Bear is much easier for this kind of a clip than elephant since elephant is a much taller mount.
+
+2, AKheon's vid of sloped floor clipping with a mount:\
+https://www.youtube.com/watch?v=rn7_53Zts6k
+
+### Special attack offset bug
+
+This is an obscure mechanics bug which impacts certain special moves. If you interrupt an attack with a special that has an offset bug, your character's location will be immediately reset to the point where it was at the start of the attack. In practice, this will make the character zip forward or backwards the same distance they had moved since start of the attack. So, what's the use of this? The most obvious use (and it's not particularly obvious) is that zipping gives your character an extremely high velocity for a moment, which may allow them to clip sloped floor.
+
+To try this out for yourself, pick Taigong Wang. Start doing his sprint attack but interrupt it with his ground special before the attack animation is over. He should now zip backwards up to 2 meters as the special move begins, and if you do this on a staircases, he will clip through it. You can use the ground special to interrupt almost any regular move in Taigong Wang's movelist to do a zip, but his sprint attack is likely his best attack for this purpose since it has so much forward movement.
+
+Some characters like Motonari Mori and Kotaru Fuma have a buggy air special instead. There aren't as many opportunities to interrupt attacks with an air special than there are with a ground special because grounded attacks by default always cancel into ground specials. However, especially the Samurai-characters have many attacks which cancel into air specials instead, even when it seems like it shouldn't make sense. For example: you can interrupt Motonari Mori's sprint attack with his air special to do an even bigger zip than with Taigong Wang.
+
+Sadly, air specials are a bit harder to use for sloped floor clipping because they usually position your character upwards, making it harder to stay below ground level after clipping. This also means you can't use these characters for clipping sloped floor in the original WO3, because it didn't have air specials.
+
+Not all instances of offset bug are helpful. For instance, your horse's musou also has an offset bug. This is pretty easy to observe by doing a Dynasty-style horse boost during the first second or two after you start running with your horse. Your horse will noticeably zip backwards as the musou begins, which is usually a hindrance since it slows down navigation. On the plus side, you can clip through staircases and even take your horse out of bounds by using this trick.
+
+In rare situations, it seems it's possible to clip through a wall using a large zip. For instance, this can happen if you use Taigong Wang or Motonari Mori to zip while inside a very tight space between an opened gate and a wall. Perhaps this tactic would work as a general gate clip in some rare situations, but so far it doesn't seem to work very consistently, and it doesn't seem like you can use a horse to create an artificial cramped space for clipping through gates either. At any rate, this potential application needs a bit more research.
+
+**Videos:**\
+1, Akheon's vid\
+https://www.youtube.com/watch?v=JTSHQmneesw
 
 ### Soul splitting
 
@@ -367,120 +445,25 @@ This glitch didn't exist in the original Warriors Orochi 3 since you couldn't us
 1, AKheon's video:\
 https://www.youtube.com/watch?v=5wnc4scTubE
 
-### Attacking through walls
+### Delayed input bugs
 
-Some characters have attacks that can hit enemies through the walls. Especially the new attacks added in WO3U (f.e. various air specials) are usually less glitch-proofed and have the unintended property of being able to hit enemies through collision.
+This is an obscure trick with some very niche uses that works at least in Dynasty Warriors 7 and this title.
 
-Sniping an officer early from tens of meters away can be a viable, faster alternative to other speed tactics talked above. However, usually you have to have a maxed out character with a powerful weapon to be able to do respectable amounts of damage from such a long distance, making this idea more relevant for individual level runs.
+All the characters/weapons in these games have their own canned combo strings that consist of regular attacks and charge attacks. However, if you avoid tapping buttons and instead give precise input at the last possible moment, your attack animations will usually look much more janky than usual. So what's up with that?
 
-Nezha (Human) is currently the best known character for attacking through walls. His fully charged C1 travels an insanely long distance - up to 30 meters? - and hits really hard as well.
+With only a few exceptions, all the combo animations run at a set timer. No matter how fast or slow you press buttons, the next attack in the combo always starts at a specific frame in relation to the first attack in the combo. If you avoid tapping buttons and instead only give one precise input as late as possible as you continue the combo, the game does not get an early signal to seamlessly switch between attack animations, and the new animation will instead start instantly with some frames dropped from the start so that it would still fit the general timing scheme of the current combo.
 
-Some characters like Xiahou Yuan, Guo Jia and Gyuki have an air special that shoots a downwards aerial projectile at a fairly steep angle. This projectile goes through walls and has an effectively near-infinite range, but you need a specific setup which gives you a lot of height to use it for officer sniping.
+These dropped frames cause the janky looking visual effect, and occasionally they may cause other effects too. In Dynasty Warriors 7, doing combos with delayed input could cause projectile weapons to not fire projectiles, or other miscellaneous effects. Missing projectiles are less common in WO3U, but this can still happen if you do certain horseback combos with delayed input.
 
-This glitch should work in the original WO3 too, but it's bound to be far less effective since the most useful attacks for hitting through walls were only added in WO3U.
+Small zips are also a possible result. Your character's relative position is adjusted at the start of each attack to where they're supposed to be at that point in the combo string. If there is an attack which features a lot of movement and lenient buffers make it drop many frames, your character will be moved from spot A to spot B with no interpolation - as if zipping. Very large zips let your character clip through sloped floor, although in practice doing this is extremely uncommon.
 
-**Videos:**\
-1, AKheon's video example of doing this in Battle of Nanjun:\
-https://www.youtube.com/watch?v=S3EqbtcYUO8
+Another obscure use case is doing extra damage within certain combo strings. Due to how input buffering works in this game, it's usually possible to buffer something like two regular attacks (S1 -> S2) and still lead into second charge attack (C2) in the same combo. With some characters like Wang Yuanji and Zhenji, with precise timing the buffered S2 actually hits enemies before C2 starts, allowing you to do an S1 -> S2 -> C2 combo and increase your DPS slightly compared to just doing S1 -> C2. To do this, press 'regular attack' twice at a quick succession, then 'charge attack' at last possible moment after S2 has already started.
 
-### Garrison gate clip
-
-There is a recurring garrison gate asset in WO3U that has a gap to its side, allowing you to clip through it from either side. The difficulty of doing this varies depending on the area, but it's usually not too hard.
-
-To go from outside to inside, you usually have to be on foot. Get a character with a high base Speed, then repeatedly attempt to run through the side of the gate. Press L1 repeatedly at a certain rhythm to stop and start running again and again. This should work quite well with Dynasty-characters at least. Most attacks that move your character at a high speed also work for doing this clip.
-
-To go from inside to outside, you usually need a horse. Direct a horse to the corner of the gate, get a good angle and use a horse musou boost.
-
-Some applications of the garrison clip do not work in the original WO3, for whatever reason. I've never seen the version where you go from outside to inside work, although inside to outside using horse musou boosting can work. Perhaps the collision of the gate is different?
-
-**Videos:**\
-1, AKheon's demonstration:\
-https://www.youtube.com/watch?v=YOV41v-SfrM
-
-### Sloped floor clip
-
-Sloped floor means any walkable area that has a steep elevation, such as staircases. Sloped floor operates under different rules than other collision, and any character who can just get a high enough velocity can clip through it.
-
-Usually clipping through sloped floor isn't very helpful. If there's nothing underneath, your character will be returned back to ground level as soon as they are neutral, preventing you from staying out of bounds. However, in certain levels you can find sloped floor that has a second floor underneath, such as the small stairways in Anegawa. At places like this, sloped floor clipping could offer an alternative route through the level. But still... as a glitch tactic, it only has some fairly niche uses.
-
-The best character for clipping through sloped floor is Taigong Wang thanks to a special attack offset bug which allows him to "zip" backwards controllably. Second best is Jia Xu thanks to his C1 that temporarily gives him such a high velocity that he can easily clip through most sloped floor. See which other characters are able to do this glitch from the [tier list](#Character-tier-lists) section.
-
-It should be added that most tactics for going through sloped floor work better on vsync 30. Sloped floor collision seems much tighter and harder to breach on higher frame rates.
-
-**Videos:**\
-1, Akheon's vid\
-https://www.youtube.com/watch?v=JTSHQmneesw
-
-### Special attack offset bug
-
-This is an obscure mechanics bug which impacts certain special moves. If you interrupt an attack with a special that has an offset bug, your character's location will be immediately reset to the point where it was at the start of the attack. In practice, this will make the character zip forward or backwards the same distance they had moved since start of the attack. So, what's the use of this? The most obvious use (and it's not particularly obvious) is that zipping gives your character an extremely high velocity for a moment, which may allow them to clip sloped floor.
-
-To try this out for yourself, pick Taigong Wang. Start doing his sprint attack but interrupt it with his ground special before the attack animation is over. He should now zip backwards up to 2 meters as the special move begins, and if you do this on a staircases, he will clip through it. You can use the ground special to interrupt almost any regular move in Taigong Wang's movelist to do a zip, but his sprint attack is likely his best attack for this purpose since it has so much forward movement.
-
-Some characters like Motonari Mori and Kotaru Fuma have a buggy air special instead. There aren't as many opportunities to interrupt attacks with an air special than there are with a ground special because grounded attacks by default always cancel into ground specials. However, especially the Samurai-characters have many attacks which cancel into air specials instead, even when it seems like it shouldn't make sense. For example: you can interrupt Motonari Mori's sprint attack with his air special to do an even bigger zip than with Taigong Wang.
-
-Sadly, air specials are a bit harder to use for sloped floor clipping because they usually position your character upwards, making it harder to stay below ground level after clipping. This also means you can't use these characters for clipping sloped floor in the original WO3, because it didn't have air specials.
-
-Not all instances of offset bug are helpful. For instance, your horse's musou also has an offset bug. This is pretty easy to observe by doing a Dynasty-style horse boost during the first second or two after you start running with your horse. Your horse will noticeably zip backwards as the musou begins, which is usually a hindrance since it slows down navigation. On the plus side, you can clip through staircases and even take your horse out of bounds by using this trick.
-
-In rare situations, it seems it's possible to clip through a wall using a large zip. For instance, this can happen if you use Taigong Wang or Motonari Mori to zip while inside a very tight space between an opened gate and a wall. Perhaps this tactic would work as a general gate clip in some rare situations, but so far it doesn't seem to work very consistently, and it doesn't seem like you can use a horse to create an artificial cramped space for clipping through gates either. At any rate, this potential application needs a bit more research.
-
-**Videos:**\
-1, Akheon's vid\
-https://www.youtube.com/watch?v=JTSHQmneesw
-
-### Sloped floor clip part 2 - high velocity
-
-Any character who can acquire a high enough velocity is able to sink into and eventually breach sloped floor. The number of characters who are able to do this is actually fairly large! Having Agility on your weapon makes it more consistent and easier, as Agility increases the effective speed your character has during attacks.
-
-Jia Xu's C1 makes him almost immediately zip forward over 2 meters. Especially with Agility 10, this becomes an incredibly useful tool for sloped floor clipping of most types. He can breach your typical steep sloped floor like the stairs at Nanzhong as well as shorter and less steep stairs like the ones at Anegawa or Honnoji. The fact that he projects a decent distance forward while doing this also means that he can potentially zip under smaller gates that are uphill.
-
-Xiahou Yuan has a rather unique sloped floor clipping utility. His bugged regular air attack allows him to easily get a huge speed while flying forward near ground level. This lets him clip through even just very mildly sloped floor that no other character is able to clip, f.e. the various mildly inclined walkways in Escape from the Mirror Realm. However, it should be noted that this game has an esoteric mechanism where certain aspects of your character's speed become capped to around 150 when over staircases or slippery floor. This affects Xiahou Yuan's regular air attack as well, which means that although he is masterful at sloped floor clipping in general, he can't clip through actual staircases particularly well. C5 can help with clipping steep staircases, but that's about it.
-
-You can also breach sloped floor using Ryu Hayabusa and Ayane. Both of these characters have a slightly glitchy air charge attack where they sink inside the floor a little bit upon landing. Simply run towards the stairs, do an air charge attack close to ground level and hope you clip through. A high base Speed and having Agility on your weapon seems to help.
-
-Other characters who are able to achieve high enough speed to sloped floor clip include Hanzo Hattori (air special), Liu Shan (C3 combo), Sima Shi (C3 combo), Kasumi (C1 combo) and Zhao Yun (ground special). There are possibly more.
-
-### Sloped floor clip part 3 - clipping with mounts
-
-Simply leaving your mount standing on sloped floor and then pushing against it from below at high speed can give you additional leverage for clipping through. The "ceiling" provided by the collision of your mount lets you to clip sloped floor without needing such a high velocity as you normally would, this giving new characters access to sloped floor clips. This can be done with any of your mounts, but elephant and bear are easier than the horse in my opinion.
-
-The bear is particularly unique. With some setups, all you need to do to clip through steep sloped floor is to run against the bear at a high speed. This means that essentially any character with a high enough running speed can now do sloped floor clip, making this rather esoteric trick much more accessible for a larger variety of different teams.
-
-With bear or elephant, dismounting while the mount's back-left side is against some collision like a railing can also create a sloped floor breach. You can use the repelling force of the railing and the mount to "zip" you at a high enough speed upstairs that you clip through the floor. The positioning is easier to do with characters like Momiji and Hundun who leap a maximally long distance away from the mount when dismounting. Bear is much easier for this kind of a clip than elephant since elephant is a much taller mount.
-
-2, AKheon's vid of sloped floor clipping with a mount:\
-https://www.youtube.com/watch?v=rn7_53Zts6k
-
-### Sloped floor clip part 4 - general info
-
-Although quite a rich and storied glitch, the sloped floor clip unfortunately has a rather selective use in speedruns. You need to find the correct type of geometry for it, for instance a floor with a 45 degree angle. For certain types of clips like Taigong Wang's backward zips, there also needs to be a second layer of floor underneath. Otherwise, your character is simply returned back on ground level after the clip, and nothing is gained from the clip.
-
-Any velocity-based sloped floor clip becomes easier to use with a lower frame rate. Therefore, if you want to try this stuff out, keep vsync at 30.
-
-Many of the principles here should work in other Warriors-games from this era too. F.e. the horse Musou backwards zip has been proven to exist in Dynasty Warriors 7 as well.
-
-Since the original Warriors Orochi 3 did not have infinite jumping or easily accessible wallclimb, sloped floor clip might be more useful in that game to f.e. do some unique shortcuts in levels like Anegawa or Honnoji.
-
-### Delayed input glitch
-
-This is an obscure trick with mostly theoretical use that works at least in Dynasty Warriors 7 and this title.
-
-As you know, all the characters/weapons in these games have their own canned combo strings that consist of regular attacks and charge attacks. But if you avoid tapping buttons and instead give precise input at the last possible moment, your character's attack animations will look much more janky than usual. So what's up with that?
-
-Each character's combo animations run at a set timer. No matter how fast or slow you press buttons, the next attack in a combo always starts at a specific frame. If you avoid tapping buttons and instead only give one precise input as late as possible, the game does not get an early signal to seamlessly switch between attack animations. The new animation will instead start instantly with some frames dropped at the start so that it will still fit the general timing scheme of the combo string.
-
-These dropped frames cause the janky looking effect, and occasionally they may cause other effects too. In Dynasty Warriors 7, doing combos with delayed input can cause projectiles to not fire. Curved sword combos also happen with the sword sheathed, although that is strictly a graphical effect. I haven't noticed this kind of miscellaneous effects in WO3U, though, other than projectiles disappearing with some characters when giving delayed input on horseback.
-
-Small zips are also a possible result. Your character's relative position is adjusted at the start of each attack to where they're supposed to be at that point in the combo string. So if there is an attack which features a lot of movement and lenient buffers make it drop many frames, your character will be moved from spot A to spot B with no interpolation - as if zipping. Very large zips would let your character breach sloped floor, although this is a strictly theoretical application so far.
-
-Due to how input buffering works in this game, it's possible to buffer something like two regular attacks (S1 -> S2) and still lead into second charge attack (C2) in the same combo. With some characters like Wang Yuanji and Zhenji, with precise timing the buffered S2 actually hits enemies before C2 starts, allowing you to do an S1 -> S2 -> C2 combo and increase your DPS slightly compared to just doing S1 -> C2. To do this, press 'regular attack' twice at a quick succession, then 'charge attack' at last possible moment after S2 has already started.
-
-As another obscure detail, if you instead do the above example by first pressing 'regular attack', then 'regular attack' -> 'charge attack' at a quick succession during the last possible moment, your character will start S2 which is interrupted by C2 which does NOT drop frames. So, in practice, the attack comes out with a maybe 10 frame delay compared to normal. So even though I said earlier that all the game's combo strings always run at a set timer, this actually does objectively delay the timer and the timing of the next attack. But could such a subtle detail matter, even in high-level gameplay...?
+As one strange detail, if you instead do the above example by first pressing 'regular attack', then 'regular attack' -> 'charge attack' at a quick succession during the last possible moment, your character will start S2 which is interrupted by C2 which does NOT drop frames. So, in practice, the attack comes out with a maybe 10 frame delay compared to normal. Normally it's not possible to create this kind of delay within combo strings, but could such a subtle detail matter even in high-level gameplay...?
 
 ### Escort mission time saves
 
-You can speed up escort missions by pushing the escort NPC around instead of waiting for them to run to their destination. You can do this on foot, but it's generally recommended to use a horse for this purpose since they have a slightly wider collision. Red Hare is bigger and faster than a regular horse, and probably your best option for NPC pushing, although it can be difficult to do an extended push since NPCs tend to slip past your horse quite easily.
+You can speed up some escort missions by pushing the escorted NPC around instead of waiting for them to run to their destination. You can do this on foot, but it's generally recommended to use a horse for this purpose since they have a slightly wider collision. Red Hare is bigger and faster than a regular horse, and probably your best option for NPC pushing, although it can be difficult to do an extended push since NPCs tend to slip past your horse quite easily.
 
 This trick only works when the NPC is in "navigation" mode, i.e. they're intentionally trying to head for a specific destination. Stationary NPCs resist attempts to move them, and they soon run back to their original location if you move them more than a few meters.
 
@@ -494,9 +477,9 @@ Getting your characters in a perfect shape requires a lot of grinding, there's j
 
 ## Gauntlet-Mode is the key
 
-This is an infinitely replayable mode where it's very easy to get experience. There are also a ton of unique resources you can't get in any other modes, such as ingredients from which you can craft orbs and unique 5-star weapons for each character. Doing this mode is the key to building the perfect characters.
+This is an infinitely replayable mode where it's very easy to get experience. There are also a ton of unique resources you can't get in any other modes, such as ingredients from which you can craft orbs and unique 5-star weapons for each character. Doing this mode is the key to building perfect characters.
 
-Every time you replay Gauntlet-mode, you unlock new type of levels (as indicated by their color in the level select-screen). The only difference between level types is that later levels start with a higher miasma; this can speed up grinding since certain good items drop more frequently (or: can only drop?) on higher miasma levels.
+Every time you replay Gauntlet-mode, you unlock new type of levels (as indicated by their color in the level select-screen). The only difference between level types is that later levels start with a higher miasma; this can speed up grinding since certain good items drop more frequently (or: can only drop?) at higher miasma levels.
 
 ## Starting out
 
@@ -504,9 +487,9 @@ It all starts from having decent level characters who can survive for extended p
 
 When starting out with weak characters, try to stay inside levels a fairly short amount of time since difficulty escalates quickly as the Miasma level grows. Use a formation that has "Dem. Eye" (or later "Getaway") to find the exit portal quickly when needed.
 
-Search for purple portals to get experience fast. Gaining a lot of experience awards a lot of growth points afterwards too, which is also a big help to leveling up your characters. Focus on getting a single character to lv. 100 first. Lv. 100 is a game changer, because this is when you can promote them and start using upgrade stones.
+Search for purple portals to get experience fast. Gaining a lot of experience awards a lot of growth points afterwards too, which is also a big help for leveling up your characters. Focus on getting a single character to lv. 100 first. Lv. 100 is a game changer, because this is when you can promote them and start using upgrade stones.
 
-Out of the regular Gauntlet-mode starting characters, Zhou Yun is the best for grinding experience with. While he runs slower than Hanzo Hattori, he can be a real beast at taking down large groups of enemies. Try spamming the air special (jump cancelling in between uses) to destroy hundreds of troops in seconds.
+Out of the regular Gauntlet-mode starting characters, Zhou Yun is the best for grinding experience with. Althogh he runs slower than Hanzo Hattori, he can be a real beast at taking down large groups of enemies. Try spamming the air special (jump cancelling in between uses) to destroy hundreds of troops in seconds.
 
 As an additional tip for survival, try to form a team with a lot of Thrift-type characters, since having them around makes it easier to spam specials or Musou. Stay on the lookout for Thrifty people! For the record, all the characters with Thrift are Liu Shan, Motochika Chosokabe, No, Zhang Jiao, Xu Shu, Dong Zhuo, Nene, Hundun, Yinglong, Ayane, Mitsuhide Akechi, Wei Yan and Liu Bei. Some of them only unlock Thrift after you have promoted them.
 
