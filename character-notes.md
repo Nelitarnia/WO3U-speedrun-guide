@@ -146,21 +146,23 @@ He can basically hover in place inside an infinite jump chain, but that's it.
 
 ### Unique musou
 
-Shuten Doji's musou is preceded by a short animation which makes him grow gigantic. Likewise, after his musou ends, he will shrink back to his normal size. Quite uniquely, these animations are not influenced by weapon speed modifiers.
+Shuten Doji's musou is preceded by a short animation which makes him grow gigantic. Likewise, he shrinks back to his normal size after his musou is over. Quite uniquely, these animations are not influenced by weapon speed modifiers.
 
-Growing gigantic doesn't influence Shuten Doji's Speed or collision. However, it does make the horizontal movement of many of his animations scale up, giving him more general velocity and reach during attacks. This boost also influences the first few frames of his running cycle, allowing him to move around slightly faster when gigantic, and he can also gain impressive momentary speed if you have Speed 360 and do his air charge attack from a low running jump.
+Growing gigantic doesn't influence Shuten Doji's Speed or collision size. However, it does make the horizontal movement of many of his animations scale up, giving him more general velocity and reach during attacks. This boost also influences the first few frames of his running cycle, allowing him to move around slightly faster when gigantic.
 
-It would be a rather unique way to boost a character's attack-based movement past what is normally allowed by Agility 10, so it's a pity Shuten Doji's movelist doesn't have good, quick "dash" type attacks that would let him convert this into a speed movement tactic or similar. Since only horizontal movement is affected, jumping and falling speed don't change from being gigantic.
+This would be a rather unique way to boost a character's attack-based movement past what is normally allowed by Agility 10, so it's a pity Shuten Doji's movelist doesn't have good, quick "dash" type attacks that would let him convert this into a speed movement tactic or similar. For example, he can gain truly impressive momentary speed if you have 360 Speed and do his air charge attack early from a running jump, but this attack has a lengthy cooldown and you lose most of your speed on staircases anyway, preventing this tactic from working as either speed movement or for sloped floor clipping.
 
 Other observations regarding Shuten Doji's musou:
 
+- Since only horizontal movement is affected, jumping and falling speed don't change from being gigantic.
+
 - Unlike a normal Samurai-style musou, you can't mount a horse during Shuten Doji's musou. However, you CAN climb a ladder, which looks quite amusing with his gigantic size. Mounting a war machine is also not allowed.
 
-- If you start Shuten Doji's musou on horse, he will not grow gigantic at all.
+- If you start Shuten Doji's musou on horse, he will not grow gigantic at all. It otherwise works the same, though.
 
 - Hitting water or angled surface ends the musou and shrinks Shuten Doji back to normal size immediately. In some circumstances (precise timing?) interrupting the growing or shrinking animation won't instantly cancel it but instead makes Shuten Doji grow or shrink during his normal moveset. However, this lasts a very short time and I'm not sure if you could turn it into some kind of a lasting effect. I tried switching characters during this time, but nothing unusual happened.
 
-## Other notes
+### Other notes
 
 Slowing down Shuten Doji's attack speed with Precision + Potency makes his ground and air special hit more times than usual since the damaging effect stays active for longer.
 
