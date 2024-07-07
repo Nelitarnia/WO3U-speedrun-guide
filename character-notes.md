@@ -13,7 +13,7 @@ Sima Zhao
 ### *Other 1*
 Zhang Jiao, Dong Zhuo
 ### *Other 2*
-[Benkei](#Benkei)
+[Benkei](#Benkei), [Shuten Doji](#Shuten-Doji)
 ### *Samurai 1*
 [Yukimura Sanada](#Yukimura-Sanada), [Hanzo Hattori](#Hanzo-Hattori)
 ### *Samurai 2*
@@ -106,7 +106,7 @@ For some reason switching characters while not neutral (i.e. if you are jumping,
 
 Besides increasing Hanzo Hattori's immediate combat power, the clones have two other potentially quite powerful utility in speedruns. First is that the clones can be separated to cover a larger range with their attacks. It should even be possible to defeat officers from a great distance away with a separated clone, which could save navigation time.
 
-Second is that with a precise angle, it's possible to do C5 in a way that spawns a clone through a thin barricade like a garrison gate. This is likely quite a powerful way to attack enemies through walls, although it should be tested in practice to see just how effective it actually is.
+Second is that with a precise positioning, it's possible to spawn clones through thin walls like garrison gates. Using C5 for it requires precise positioning, but it seems quite easy if you activate true musou instead. This is likely quite a powerful way to attack enemies through walls, but its exact maximum range and overall effectiveness are still yet to be estimated. It's difficult to hit enemies without any visibility at a distance using Hanzo Hattori'c basic moveset which has a limited range and a lot of criss-cross movement.
 
 Other observations regarding clones:
 
@@ -115,6 +115,8 @@ Other observations regarding clones:
 • You can make a clone get on a ladder. Clones have no collision while they're on the ladder, and any input just makes them drop down. This same input doesn't seem to work for mounting a horse or a war machine with a clone.
 
 • Normally clones disappear when you mount a horse or a war machine, but if you did the character switch trick first, they will stay around instead. It seems you can't control the clones at all while mounted, though.
+
+* If you try to create clones with a true musou that is also a double musou, no clones become created.
 
 • Clones created during TTA will have a golden glow on them. The glow doesn't end even after TTA ends, they just stay golden until vanishing.
 
@@ -125,6 +127,43 @@ Other observations regarding clones:
 Hanzo Hattori is able to breach some sloped floor with his air special which allows him to do a controllable forward zip. However, it's difficult to stay out of bounds afterwards because the air special also gives him a lot of height and usually pushes him back up above ground level. He needs very steep angled floor (or to save & reload mid-attack) for this to work.
 
 Alternatively, his true musou makes him zip around at a high enough velocity that he can clip sloped floor. To have the right angle, turn Hanzo Hattori so that he is facing away from the direction you want to clip. Clipping through something like the staircases in Nanzhong is easy, but I couldn't get this to work on smaller staircases in Anegawa. This tactic might be a bit too uncontrollable for precision clips, or perhaps it just needs a better setup.
+
+## Shuten Doji
+
+• Wonder / Fortitude + Recovery
+
+### Average angled glitch
+
+Shuten Doji can bypass thin walls using either his sprint attack or basic musou attack.
+
+### Average attacking through walls
+
+His air special can hit 5-7 meters through walls.
+
+### Average infinite jump
+
+He can basically hover in place inside an infinite jump chain, but that's it.
+
+### Unique musou
+
+Shuten Doji's musou is preceded by a short animation which makes him grow gigantic. Likewise, after his musou ends, he will shrink back to his normal size. Quite uniquely, these animations are not influenced by weapon speed modifiers.
+
+Growing gigantic doesn't influence Shuten Doji's Speed or collision. However, it does make the horizontal movement of many of his animations scale up, giving him more general velocity and reach during attacks. This boost also influences the first few frames of his running cycle, allowing him to move around slightly faster when gigantic, and he can also gain impressive momentary speed if you have Speed 360 and do his air charge attack from a low running jump.
+
+It would be a rather unique way to boost a character's attack-based movement past what is normally allowed by Agility 10, so it's a pity Shuten Doji's movelist doesn't have good, quick "dash" type attacks that would let him convert this into a speed movement tactic or similar. Since only horizontal movement is affected, jumping and falling speed don't change from being gigantic.
+
+Other observations regarding Shuten Doji's musou:
+
+- Unlike a normal Samurai-style musou, you can't mount a horse during Shuten Doji's musou. However, you CAN climb a ladder, which looks quite amusing with his gigantic size. Mounting a war machine is also not allowed.
+
+- If you start Shuten Doji's musou on horse, he will not grow gigantic at all.
+
+- Hitting water or angled surface ends the musou and shrinks Shuten Doji back to normal size immediately. In some circumstances (precise timing?) interrupting the growing or shrinking animation won't instantly cancel it but instead makes Shuten Doji grow or shrink during his normal moveset. However, this lasts a very short time and I'm not sure if you could turn it into some kind of a lasting effect. I tried switching characters during this time, but nothing unusual happened.
+
+## Other notes
+
+Slowing down Shuten Doji's attack speed with Precision + Potency makes his ground and air special hit more times than usual since the damaging effect stays active for longer.
+
 
 ## Xingcai
 
