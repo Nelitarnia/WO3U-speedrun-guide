@@ -2,6 +2,7 @@
 
 - [Contents](#Contents)
   - [Introduction](#Introduction)
+  - [Terminology](#Terminology)
   - [Glitch tech](#Glitch-tech)
   - [Tips for preparing your save file](#Tips-for-preparing-your-save-file)
   - [Selecting your team](#Selecting-your-team)
@@ -32,17 +33,31 @@ This may very well be my favorite out of all the Musou-games. It has a great ros
 
 - Several levels contain escort missions, which are fairly slow.
 
+# Terminology
+
+- WO3 and WO3U = Warriors Orochi 3 and Warriors Orochi 3 Ultimate, respectively. These two main different versions of the game have some significant mechanical differences which makes it worthwhile to sometimes distinguish between the two.
+
+- double musou. A coordinated musou attack where multiple nearby characters do it simultaneously.
+
+- slippery collision/floor. A kind of a level element. If a character lands on floor like this, they lose control and slide downward until they reach normal floor again. If reaching normal ground directly is not possible, they will instead teleport to last known ground coordinates after a few seconds have passed.
+
+- stairs speed rule. Your character's Speed is capped at around 150 if they are in air over stairs or slippery collision. Probably a countermeasure by the developers to prevent clipping through sloped surfaces with high-speed aerial movement. However, this does not affect strictly ground-based movement or any other movement which is not based on your character's current Speed (like most air specials).
+
+- true musou. Characters will do true musou if they are low on health or have Verity on their weapon. With Dynasty-characters, this means their musou has more attack power. Samurai-characters get a new finisher to their musou instead.
+
+- TTA = True Triple Attack. You need a full TTA-gauge to do this move. It's a slow and flashy attack which makes enemies slow down and become very floaty at the slightest touch. Generates crystals.
+
+- zip. Any kind of extremely high-velocity movement. Not to be confused with [wallzipping](#Wallzipping), which is a glitch technique for gaining height fast.
+
 # Glitch tech
-
-First, a note about terminology. On PS3 and PS4, the internal frame rate of the game fluctuates at random. This is important to note because certain glitch effects can only happen - or work better - when frame rate is lower. In the past, I've called this effect "lag" or "background lag", and these terms may still crop up here and there in this guide.
-
-The PC version allows the user to set their own frame rate. Setting vsync to 30 forces the game to always be in slower frame rate. In other words, PC is the more reliable platform for running any kind of glitched categories in WO3U. I will make a specific note about which glitches are influenced by vsync in the sections below.
 
 I've divided the various glitch techniques into the following categories:
 
 - [Jump tech](#Jump-tech). Different methods of gaining unintended height.
 - [Speed movement](#Speed-movement). Different methods of fast movement.
 - [Other tech](#Other-tech). Other uncategorizable tricks.
+
+But first, a note about frame rate. On PS3 and PS4, the internal frame rate of the game fluctuates at random. This is important to note because certain glitch effects can only happen - or work better - when frame rate is lower. The PC version allows the user to set their own frame rate, and setting vsync to 30 forces the game to always be in slower frame rate. In other words, PC is the more reliable platform for running any kind of glitched categories in WO3U. I will make a specific note about which glitches are influenced by vsync in the sections below.
 
 ## Jump tech
 
@@ -372,7 +387,9 @@ Sloped floor means any walkable area that has a steep elevation, such as stairca
 
 Usually clipping through sloped floor isn't very helpful. If there's nothing underneath, your character will be returned back to ground level as soon as they are neutral, preventing you from staying out of bounds. However, in certain levels you can find sloped floor with a second floor underneath, such as the small stairways in Anegawa. At places like this, sloped floor clipping could potentially offer an alternative route through the level. But still... as a glitch tactic, it only has some fairly niche uses.
 
-The best character for clipping through sloped floor is Taigong Wang thanks to a special attack offset bug which allows him to "zip" backwards controllably. Second best is Jia Xu thanks to his C1 that temporarily gives him such a high velocity that he can easily clip through most sloped floor. See which other characters are able to do this glitch from the [tier list](#Character-tier-lists) section.
+The game has a subtle mechanical limitation - the "stairs speed rule" - which caps a character's aerial Speed at under 150 and notably slows them down if they are in air over most staircases or angled collision. This is probably a counteracting measure by the developers to try to prevent sloped floor clipping with high-speed air attacks, and it does make it harder or impossible in some cases. However, it doesn't impact speed tactics which are strictly ground-based or which don't use the character's base Speed (like most air specials).
+
+The best character for clipping through sloped floor is Taigong Wang thanks to a special attack offset bug which allows him to zip backwards controllably. Second best is Jia Xu thanks to his C1 that temporarily gives him such a high velocity that he can easily clip through most sloped floor. See which other characters are able to do this glitch from the [tier list](#Character-tier-lists) section.
 
 It should be added that most tactics for going through sloped floor work better on vsync 30. Sloped floor collision seems much tighter and harder to breach on higher frame rates.
 
@@ -662,6 +679,10 @@ D : everyone else.
 Nezha (Human), Xiahou Dun, Xiahou Yuan, Guo Jia, Gyuki, Zhong Hui
 
 (testing is still in process)
+
+# More reading
+
+Also check out [individual characters section](https://github.com/Nelitarnia/WO3U-speedrun-guide/blob/main/character-notes.md) for more detail on characters.
 
 # Credits
 
