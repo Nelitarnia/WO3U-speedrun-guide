@@ -72,7 +72,7 @@ Her air special is rather slow, but it lets her hover in place as a part of an i
 
 ### Average combat setup
 
-Her EX causes damaging projectiles to fall from the sky for around 5 seconds while she is free to move and do attacks. It might help to prepare for a fight somewhere, although I would assume the damage from the falling projectiles is largely inconsistent.
+Her EX causes damaging projectiles to fall from the sky for around 5 seconds while she is free to move and do attacks. Doing it pre-emptively might help to prepare for a fight somewhere, although I would assume the damage from the falling projectiles is largely inconsistent.
 
 ### Neutral L-stick bug
 
@@ -82,7 +82,7 @@ Her regular air attack has a [neutral L-stick bug](https://github.com/Nelitarnia
 
 Her air charge attack features a flashy looking somersault through the air. Unfortunately, most of its apparent height gain is fake, so it can't be used in Save & Quit infinite jumps very effectively.
 
-Cai Wenji gains an aura around her after doing her EX. I'm not sure if this is an actual buff, or if it's just an indication that 
+Cai Wenji gains an aura around her after doing her EX. I'm not sure if this is an actual buff, or if it's just an indication that the falling projectile effect is still active.
 
 ## Hanzo Hattori
 
