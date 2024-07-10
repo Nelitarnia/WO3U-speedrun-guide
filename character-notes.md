@@ -5,23 +5,23 @@ This section takes an in-depth look at each character in the game from the persp
 It's recommended to read the terminology and glitch tech sections of the [the main WO3U speedrun guide](https://github.com/Nelitarnia/WO3U-speedrun-guide/blob/main/WO3U-speedrun-guide.md) first because their terms and ideas will be mentioned quite often in the below sections.
 
 ### *Wei*
-Xiahou Dun, Dian Wei, Cao Cao, [Cai Wenji](#Cai-Wenji)
+Xiahou Dun, Dian Wei, Zhang Liao, Cao Cao, Xu Zhu, Xiahou Yuan, Xu Huang, Zhang He, Cao Ren, Cao Pi, Zhenji, [Cai Wenji](#Cai-Wenji), Jia Xu, Pang De, Wang Yi, Guo Jia
 ### *Wu*
-Lu Xun, Zhou Yu
+Zhou Yu, Lu Xun, Sun Shangxiang, Gan Ning, Sun Jian, Taishi Ci, Lu Meng, Huang Gai, Zhou Tai, Ling Tong, Sun Ce, Sun Quan, Xiaoqiao, Daqiao, Ding Feng, Lianshi
 ### *Shu*
-Liu Bei, Liu Shan, [Xingcai](#Xingcai)
+Zhao Yun, Guan Yu, Zhang Fei, Zhuge Liang, Liu Bei, Ma Chao, Huang Zhong, Wei Yan, Guan Ping, Pang Tong, Yueying, Jiang Wei, Liu Shan, [Xingcai](#Xingcai), Ma Dai, Guan Suo, Bao Sanniang, Xu Shu
 ### *Jin*
-Sima Zhao
+Sima Yi, Sima Shi, Sima Zhao, Deng Ai, Wang Yuanji, Zhong Hui, Zhuge Dan, Xiahou Ba, Guo Huai
 ### *Other 1*
-Zhang Jiao, Dong Zhuo
+Diaochan, Lu Bu, Dong Zhuo, Yuan Shao, Zhang Jiao, Meng Huo, Zhurong, Zuo Ci, Orochi, Dai Ji, Taigong Wang, Sun Wukong, Fu Xi, Nuwa, Yoshitsune Minamoto, Kiyomori Taira
 ### *Other 2*
-[Benkei](#Benkei), [Shuten Doji](#Shuten-Doji)
+Himiko, Orochi X, Dodomeki, Gyuki, Sanzang, [Benkei](#Benkei), Kaguya, Susano'o, Nezha, [Shuten Doji](#Shuten-Doji), Ryu Hayabusa, Ayane, Joan of Arc, Nemea, Achilles, Seimei Abe, Rachel, Shennong, Momiji, Tamamo, Yinglong, Nezha, Kyubi, Hundun, Kasumi, Sterkenburg, Sophitia
 ### *Samurai 1*
-[Yukimura Sanada](#Yukimura-Sanada), [Hanzo Hattori](#Hanzo-Hattori)
+[Yukimura Sanada](#Yukimura-Sanada), Keiji Maeda, Nobunaga Oda, Mitsuhide Akechi, Kenshin Uesugi, Oichi, Okuni, Kunoichi, Magoichi Saika, Shingen Takeda, Masamune Date, No, [Hanzo Hattori](#Hanzo-Hattori), Ranmaru Mori, Hideyoshi Toyotomi
 ### *Samurai 2*
-Ina
+Yoshimoto Imagawa, Tadakatsu Honda, Ina, Ieyasu Tokugawa, Mitsunari Ishida, Nagamasa Azai, Sakon Shima, Yoshihiro Shimazu, Ginchiyo Tachibana, Kanetsugu Naoe, Nene, Kotaru Fuma, Toshiie Maeda, Motochika Chosokabe
 ### *Samurai 3*
-Motonari Mori
+Gracia, Katsuie Shibata, Kiyomasa Kato, Kanbei Kuroda, Muneshige Tachibana, Kai, Ujiyasu Hojo, Hanbei Takenaka, Motonari Mori, Aya, Masanori Fukushima, Goemon Ishikawa, Musashi Miyamoto, Kojiro Sasaki
 
 
 ## Benkei
