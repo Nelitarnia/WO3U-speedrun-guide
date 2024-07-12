@@ -2,11 +2,11 @@
 
 - [Contents](#Contents)
   - [Introduction](#Introduction)
-  - [Terminology](#Terminology)
   - [Glitch tech](#Glitch-tech)
   - [Tips for preparing your save file](#Tips-for-preparing-your-save-file)
   - [Selecting your team](#Selecting-your-team)
   - [Character tier lists](#Character-tier-lists)
+  - [Terminology](#Terminology)
   - [Credits](#Credits)
 
 # Introduction
@@ -33,22 +33,6 @@ This may very well be my favorite out of all the Musou-games. It has a great ros
 
 - Several levels contain escort missions, which are fairly slow.
 
-# Terminology
-
-- WO3 and WO3U = Warriors Orochi 3 and Warriors Orochi 3 Ultimate, respectively. These two main different versions of the game have some significant mechanical differences which makes it worthwhile to sometimes distinguish between the two.
-
-- double musou. A coordinated musou attack where multiple nearby characters do it simultaneously.
-
-- slippery collision/floor. A kind of a level element. If a character lands on floor like this, they lose control and slide downward until they reach normal floor again. If reaching normal ground directly is not possible, they will instead teleport to last known ground coordinates after a few seconds have passed.
-
-- stairs speed rule. Your character's Speed is capped at around 150 if they are in air over stairs or slippery collision. Probably a countermeasure by the developers to prevent clipping through sloped surfaces with high-speed aerial movement. However, this does not affect strictly ground-based movement or any other movement which is not based on your character's current Speed (like most air specials).
-
-- true musou. Characters will do true musou if they are low on health or have Verity on their weapon. With Dynasty-characters, this means their musou has more attack power. Samurai-characters get a new finisher to their musou instead.
-
-- TTA = True Triple Attack. You need a full TTA-gauge to do this move. It's a slow and flashy attack which makes enemies slow down and become very floaty at the slightest touch. Generates crystals.
-
-- zip. Any kind of extremely high-velocity movement. Not to be confused with [wallzipping](#Wallzipping), which is a glitch technique for gaining height fast.
-
 # Glitch tech
 
 I've divided the various glitch techniques into the following categories:
@@ -57,19 +41,21 @@ I've divided the various glitch techniques into the following categories:
 - [Speed movement](#Speed-movement). Different methods of fast movement.
 - [Other tech](#Other-tech). Other uncategorizable tricks.
 
-But first, a note about frame rate. On PS3 and PS4, the internal frame rate of the game fluctuates at random. This is important to note because certain glitch effects can only happen - or work better - when frame rate is lower. The PC version allows the user to set their own frame rate, and setting vsync to 30 forces the game to always be in slower frame rate. In other words, PC is the more reliable platform for running any kind of glitched categories in WO3U. I will make a specific note about which glitches are influenced by vsync in the sections below.
+But first, a note about frame rate. On PS3 and PS4, the frame rate of the game changes between 30 and 60 fps at random. This is important to note because certain glitch effects can only happen - or work better - when frame rate is lower. The PC version allows the user to set their own frame rate, and setting vsync to 30 forces the game to always be in slower frame rate. In other words, PC is the more reliable platform for running any kind of glitched categories in WO3U. I will make a specific note about which glitches are influenced by vsync in the sections below.
+
+If you see terms that are unfamiliar, check out the [terminology](#Terminology) section.
 
 ## Jump tech
+
+Most walls in this game are essentially infinitely high, and there's no hope of jumping past them. However, different kind of doors, gateways and other temporary obstacles have a finite height. So when you're doing these jump tactics, you should always aim for the doorways. Sometimes it can be hard to discern which part of the level design is an infinitely tall outer boundary and which is a gateway. In these cases, looking closer at the map should be helpful, as various kinds of openable doors are marked with a different color.
+
+Note that it's not always possible to tell the height of collision by just looking. Although many garrison gates are exactly as high as they look, some are blocked by additional invisible boundary. You may need to experiment a bit to find out how high something is.
 
 - [Basic infinite jump](#Basic-infinite-jump)
 - [Save and quit infinite jump](#Save-and-quit-infinite-jump)
 - [Horse high jump](#Horse-high-jump)
 - [Wallzipping](#Wallzipping)
 - [Xu Shu high jump](#Xu-Shu-high-jump)
-
-Most walls in this game are essentially infinitely high, and there's no hope of jumping past them. However, different kind of doors, gateways and other temporary obstacles have a finite height. So when you're doing these jump tactics, you should always aim for the doorways. Sometimes it can be hard to discern which part of the level design is an infinitely tall outer boundary and which is a gateway. In these cases, looking closer at the map should be helpful, as various kinds of openable doors are marked with a different color.
-
-Note that it's not always possible to tell the height of collision by just looking. Although many garrison gates are exactly as high as they look, some are blocked by additional invisible boundary. You may need to experiment a bit to find out how high something is.
 
 ### Basic infinite jump
 
@@ -149,6 +135,12 @@ https://www.youtube.com/watch?v=rQpd9hFCiyg
 
 ## Speed movement
 
+Speed movement tactics could be generally divided into three different types: ground movement, aerial movement or a hybrid of the two. It's useful to consider all of them when devising the fastest route through a level. For example, in some level it might be useful to start an infinite jump early and then move some distance airborne to get over multiple invisible walls with a single jump.
+
+This game has a Speed cap of 360. Although you can use upgrade stone duping to get a character's Speed all the way to 500, I haven't noticed any circumstances where this makes a difference compared to having 360 Speed.
+
+Some characters are able to use some kind of a technique to bypass the Speed cap. Of course, this is extremely valuable in speedruns, and the best methods for doing so are listed below.
+
 - [Speed buffing](#Speed-buffing)
 - [Benkei speed tech](#Benkei-speed-tech)
 - [Xiahou Yuan speed tech](#Xiahou-Yuan-speed-tech)
@@ -160,12 +152,6 @@ https://www.youtube.com/watch?v=rQpd9hFCiyg
 - [Sanzang and Seimei Abe gliding](#Sanzang-and-Seimei-Abe-gliding)
 - [Neutral L-stick bugs](#Neutral-L-stick-bugs)
 - [Dynasty running cycle bug](#Dynasty-running-cycle-bug)
-
-Speed movement tactics could be generally divided into three different types: ground movement, aerial movement or a hybrid of the two. It's useful to consider all of them when devising the fastest route through a level. For example: in some level it might be useful to start an infinite jump early and then move some distance airborne to get over multiple invisible walls with a single jump.
-
-This game has a Speed cap of 360. Although you can use upgrade stone duping to get a character's Speed all the way to 500, I haven't noticed any circumstances where this makes a difference compared to having 360 Speed.
-
-Some characters are able to use some kind of a technique to bypass the Speed cap. Of course, this is extremely valuable in speedruns, and the best methods for doing so are listed below.
 
 As a general rule, if you're not playing on a NG+ save file with maxed out characters, a horse is your best option for fast movement. A horse has a 200 base Speed, whereas the highest natural Speed of all your characters is only 170 (Sun Wukong). Some characters have specific techniques to go even faster than 200 Speed, but only a handful (like Xiahou Yuan) can replace a horse in runs without any set-up.
 
@@ -683,6 +669,22 @@ Nezha (Human), Xiahou Dun, Xiahou Yuan, Guo Jia, Gyuki, Zhong Hui
 # More reading
 
 Also check out [individual characters section](https://github.com/Nelitarnia/WO3U-speedrun-guide/blob/main/character-notes.md) for more detail on characters.
+
+# Terminology
+
+- WO3 and WO3U = Warriors Orochi 3 and Warriors Orochi 3 Ultimate, respectively. These two main different versions of the game have some significant mechanical differences which makes it worthwhile to sometimes distinguish between the two.
+
+- double musou. A coordinated musou attack where multiple nearby characters do it simultaneously.
+
+- slippery collision/floor. A kind of a level element. If a character lands on floor like this, they lose control and slide downward until they reach normal floor again. If reaching normal ground directly is not possible, they will instead teleport to last known ground coordinates after a few seconds have passed.
+
+- stairs speed rule. Your character's Speed is capped at around 150 if they are in air over stairs or slippery collision. Probably a countermeasure by the developers to prevent clipping through sloped surfaces with high-speed aerial movement. However, this does not affect strictly ground-based movement or any other movement which is not based on your character's current Speed (like most air specials).
+
+- true musou. Characters will do true musou if they are low on health or have Verity on their weapon. With Dynasty-characters, this means their musou has more attack power. Samurai-characters get a new finisher to their musou instead.
+
+- TTA = True Triple Attack. You need a full TTA-gauge to do this move. It's a slow and flashy attack which makes enemies slow down and become very floaty at the slightest touch. Generates crystals.
+
+- zip. Any kind of extremely high-velocity movement. Not to be confused with [wallzipping](#Wallzipping), which is a glitch technique for gaining height fast.
 
 # Credits
 
