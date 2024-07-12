@@ -479,13 +479,13 @@ Replacing an escort character with their generic officer variant, f.e. turning M
 
 ## Weapons
 
-## Big-star weapons
+### Big-star weapons
 
 Every character in the game has a selection of big-star weapons. They start with a very low attack power but gain a large boost after you build their compatibility, enough to usually (but not always) end up being more powerful than fully powered lv. 4 weapons.
 
-Big-star weapons also have hidden character-specific effects. Credits to [wowitsyugi's weapon FAQ](https://gamefaqs.gamespot.com/ps4/778279-warriors-orochi-3-ultimate/faqs/64178) which contains some original information regarding this. It's unknown if every character has a hidden big-star weapon effect. If true, most of them are unknown to this date.
+Big-star weapons also have hidden character-specific effects. Credits to [wowitsyugi's weapon FAQ](https://gamefaqs.gamespot.com/ps4/778279-warriors-orochi-3-ultimate/faqs/64178) which contains some original information regarding this. It's unknown if every character has a hidden big-star weapon effect. If they do, most are unknown to this date.
 
-## Mystic weapons
+### Mystic weapons
 
 Mystic weapons are a special category of weapons which were added in Warriors Orochi 3 Ultimate and can only be unlocked in specific levels with specific characters. Their power level is above lv. 4 weapons but under lv. 5 weapons, which means they unfortunately end up becoming obsolete in late game.
 
@@ -504,7 +504,7 @@ I did some testing to figure out just how much these attributes actually change 
 
 At first it seems that there's a steady pattern of 1.3% and 2.7% increase with every odd and even level, respectively. However, the pattern resets at lv. 6, and lv. 8 doesn't give any speed boost at all. What a ripoff!
 
-Building up Agility for certain characters might be a worthwhile endeavor in a 100% category, so it might be useful to know that even numbers are the best milestones to aim for until you reach Agility 5.
+Building up Agility for certain characters might be a worthwhile endeavor in some longer category, so it might be useful to know that even numbers are the best milestones to aim for until you reach Agility 5.
 
 To do: does Agility 1 save any frames with normal length attack animations?
 
@@ -520,7 +520,7 @@ To do: I hope these numbers aren't too wonky, might be useful to re-time at some
 
 This item enables Power- and Technique-characters to interrupt charge attacks with a jump after a certain breakpoint. Speed-type characters have something resembling this skill naturally. If both Dragon's Eye and Heavenly Sash are equipped, Heavenly Sash takes priority.
 
-It seems that jump canceling an attack where a character's model is in air actually grants you extra height?
+It seems that jump cancelling an attack where a character's model is in air actually grants you extra height?
 
 ### Heavenly Sash
 
