@@ -3,6 +3,7 @@
 - [Contents](#Contents)
   - [Introduction](#Introduction)
   - [Glitch tech](#Glitch-tech)
+  - [Other mechanics details](#Other-mechanics-details)
   - [Tips for preparing your save file](#Tips-for-preparing-your-save-file)
   - [Selecting your team](#Selecting-your-team)
   - [Character tier lists](#Character-tier-lists)
@@ -287,7 +288,7 @@ https://www.youtube.com/watch?v=1vhMfdkbOyU
 
 ### Neutral L-stick bugs
 
-A number of air attacks in this game have buggy physics and they gain additional momentum if you keep L-stick neutral. Sometimes this effect is barely noticeable, but sometimes it makes your character's speed increase exponentially, resulting in incredibly fast movement. The most useful cases of neutral L-stick bugs are listed above, and the rest can be found in the [individual characters section](https://github.com/Nelitarnia/WO3U-speedrun-guide/blob/main/character-notes.md)
+A number of air attacks in this game have buggy physics and they gain additional momentum if you keep L-stick neutral. Sometimes this effect is barely noticeable, but sometimes it makes your character's speed increase exponentially, resulting in incredibly fast movement. The most useful cases of neutral L-stick bugs are listed above, and the rest can be found in the [individual characters section](https://github.com/Nelitarnia/WO3U-speedrun-guide/blob/main/character-notes.md).
 
 ### Dynasty running cycle bug
 
@@ -473,6 +474,57 @@ This trick only works when the NPC is in "navigation" mode, i.e. they're intenti
 There are some areas in the game where NPCs have a hard time moving around. They may constantly get stuck on doorways or collision, wasting a lot of time. In a situation like this, it might not be worth it to try pushing the NPC. Better option might be to move away from them and look away - being off-camera makes an NPC move towards their destination without getting stuck as much.
 
 Replacing an escort character with their generic officer variant, f.e. turning Ma Chao into Ma Teng in Breakthrough in Yiling, seems to be a bad idea. It seems generic officers all have an abysmal running speed, probably somewhere in the 100-110 range. At any rate, they always seem to run slower than even the slowest of your playable characters.
+
+# Other mechanics details
+
+## Weapons
+
+## Big-star weapons
+
+Every character in the game has a selection of big-star weapons. They start with a very low attack power but gain a large boost after you build their compatibility, enough to usually (but not always) end up being more powerful than fully powered lv. 4 weapons.
+
+Big-star weapons also have hidden character-specific effects. Credits to [wowitsyugi's weapon FAQ](https://gamefaqs.gamespot.com/ps4/778279-warriors-orochi-3-ultimate/faqs/64178) which contains some original information regarding this. It's unknown if every character has a hidden big-star weapon effect. If true, most of them are unknown to this date.
+
+## Mystic weapons
+
+Mystic weapons are a special category of weapons which were added in Warriors Orochi 3 Ultimate and can only be unlocked in specific levels with specific characters. Their power level is above lv. 4 weapons but under lv. 5 weapons, which means they unfortunately end up becoming obsolete in late game.
+
+## Weapon attributes
+
+### Agility
+
+The game has three weapon attributes - Agility, Potency and Precision - which give a percentage based buff or a debuff to your character's attack speed. Agility can be boosted up to lv. 10, but Potency and Precision are golden attributes that only have one level.
+
+I did some testing to figure out just how much these attributes actually change attack speed by observing the frames of Orochi X's ground special at different levels of Agility. It turns out the logic behind Agility is a bit stranger than expected. Here's a table to illustrate it:
+
+| Agility | Lv. 1 | Lv. 2 | Lv. 3 | Lv. 4 | Lv. 5 | Lv. 6 | Lv. 7 | Lv. 8 | Lv. 9 | Lv. 10 |
+| ------- | ----- | ----- | ----- | ----- | ----- | ----- | ----- | ----- | ----- | ------ |
+| Level bonus | 1.3% | 2.7% | 1.3% | 2.7% | 1.3% | 1.3% | 2.7% | 0% | 2.7% | 1% |
+| Current total | 1.3% | 4% | 5.3% | 8% | 9.3% | 10.6% | 13.3% | 13.3% | 16% | 17% |
+
+At first it seems that there's a steady pattern of 1.3% and 2.7% increase with every odd and even level, respectively. However, the pattern resets at lv. 6, and lv. 8 doesn't give any speed boost at all. What a ripoff!
+
+Building up Agility for certain characters might be a worthwhile endeavor in a 100% category, so it might be useful to know that even numbers are the best milestones to aim for until you reach Agility 5.
+
+To do: does Agility 1 save any frames with normal length attack animations?
+
+### Potency / Precision
+
+Potency and Precision on the other hand slow down your character's attack speed. Either Potency or Precision alone in your weapon seems to give the attack speed penalty of -14.7%. If you have both, the penalty increases to -27.5%.
+
+To do: I hope these numbers aren't too wonky, might be useful to re-time at some point.
+
+## Equipment
+
+### Dragon's Eye
+
+This item enables Power- and Technique-characters to interrupt charge attacks with a jump after a certain breakpoint. Speed-type characters have something resembling this skill naturally. If both Dragon's Eye and Heavenly Sash are equipped, Heavenly Sash takes priority.
+
+It seems that jump canceling an attack where a character's model is in air actually grants you extra height?
+
+### Heavenly Sash
+
+This item enables Technique-type characters to sidestep from charge attacks after a certain breakpoint. It does absolutely nothing for other type of characters?
 
 # Tips for preparing your save file
 
@@ -666,10 +718,6 @@ Nezha (Human), Xiahou Dun, Xiahou Yuan, Guo Jia, Gyuki, Zhong Hui
 
 (testing is still in process)
 
-# More reading
-
-Also check out [individual characters section](https://github.com/Nelitarnia/WO3U-speedrun-guide/blob/main/character-notes.md) for more detail on characters.
-
 # Terminology
 
 - WO3 and WO3U = Warriors Orochi 3 and Warriors Orochi 3 Ultimate, respectively. These two main different versions of the game have some significant mechanical differences which makes it worthwhile to sometimes distinguish between the two.
@@ -685,6 +733,10 @@ Also check out [individual characters section](https://github.com/Nelitarnia/WO3
 - TTA = True Triple Attack. You need a full TTA-gauge to do this move. It's a slow and flashy attack which makes enemies slow down and become very floaty at the slightest touch. Generates crystals.
 
 - zip. Any kind of extremely high-velocity movement. Not to be confused with [wallzipping](#Wallzipping), which is a glitch technique for gaining height fast.
+
+# More reading
+
+Also check out [individual characters section](https://github.com/Nelitarnia/WO3U-speedrun-guide/blob/main/character-notes.md) for more detail on characters.
 
 # Credits
 
