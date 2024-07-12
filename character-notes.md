@@ -5,9 +5,9 @@ This section takes an in-depth look at each character in the game from the persp
 It's recommended to read the terminology and glitch tech sections of the [the main WO3U speedrun guide](https://github.com/Nelitarnia/WO3U-speedrun-guide/blob/main/WO3U-speedrun-guide.md) first because their terms and ideas will be mentioned quite often in the below sections.
 
 ### *Wei*
-Xiahou Dun, Dian Wei, Zhang Liao, Cao Cao, Xu Zhu, Xiahou Yuan, Xu Huang, Zhang He, Cao Ren, Cao Pi, Zhenji, [Cai Wenji](#Cai-Wenji), Jia Xu, Pang De, Wang Yi, Guo Jia
+[Xiahou Dun](#Xiahou-Dun), Dian Wei, Zhang Liao, Cao Cao, Xu Zhu, Xiahou Yuan, Xu Huang, Zhang He, Cao Ren, Cao Pi, Zhenji, [Cai Wenji](#Cai-Wenji), Jia Xu, Pang De, Wang Yi, Guo Jia
 ### *Wu*
-Zhou Yu, Lu Xun, Sun Shangxiang, Gan Ning, Sun Jian, Taishi Ci, Lu Meng, Huang Gai, Zhou Tai, Ling Tong, Sun Ce, Sun Quan, Xiaoqiao, Daqiao, Ding Feng, Lianshi
+Zhou Yu, Lu Xun, Sun Shangxiang, Gan Ning, Sun Jian, [Taishi Ci](#Taishi-Ci), Lu Meng, Huang Gai, Zhou Tai, Ling Tong, Sun Ce, Sun Quan, Xiaoqiao, Daqiao, Ding Feng, Lianshi
 ### *Shu*
 Zhao Yun, Guan Yu, Zhang Fei, Zhuge Liang, Liu Bei, Ma Chao, Huang Zhong, Wei Yan, Guan Ping, Pang Tong, Yueying, Jiang Wei, Liu Shan, [Xingcai](#Xingcai), Ma Dai, Guan Suo, Bao Sanniang, Xu Shu
 ### *Jin*
@@ -172,6 +172,57 @@ Other observations regarding Shuten Doji's musou:
 
 Slowing down Shuten Doji's attack speed with Precision + Potency makes his ground and air special hit more times than usual since the damaging effect stays active for longer.
 
+## Taishi Ci
+
+• Power / Stamina + Vigor
+
+### Average angled glitch
+
+You can breach thin obstacles while angled with either sprint attack or C6.
+
+### Good infinite jump
+
+Taishi Ci is actually a surprisingly solid infinite jump team member. His air special has a fairly quick animation and it gives height in an infinite jump combo. Furthermore, he is able to use air charge attack before each air special to gain a bit of 100% consistent extra height per cycle. The only drawbacks are that he doesn't have a double jump and also that he doesn't have a lot of musou to spare for jumps at low level.
+
+### Good high jump
+
+His highest solo jump is jump -> air charge attack -> air special -> air charge attack. This doesn't cross tier 2 at Luoyang, but it can cross over the half-way point between tier 1 and 2.
+
+### Average attacking through walls
+
+The shockwave of the air special hits a few meters past walls.
+
+## Xiahou Dun
+
+• Power / Trinity + Potence
+
+### Good angled glitch
+
+Xiahou Dun can bypass up to medium-thick walls while angled using his sprint attack.
+
+### Top attacking through walls
+
+Xiahou Dun's air special fires a wide, cross-shaped projectile with a mild downward angle. It catches any enemies in its range, hitting them multiple times and pushing them away over its impressive range of over 20 meters.
+
+The projectile passes freely through walls, so it can be used for officer sniping from a distance. However, each individual hit of the air special only does low damage. Its pushback also re-positions enemies, which might make it challenging to hit a single target with multiple air specials in a row. You probably need to setup Xiahou Dun first by getting his lv. 5 weapon and infusing the weapon attributes Aerial and Frenzy, and even then I'm slightly skeptical of this attack's ability to work as a quick solution against more powerful enemies. Like all officer sniping tactics, it's mostly relevant for individual level runs on lower difficulties.
+
+### Average high jump
+
+Xiahou Dun's air charge attack might work as a minor high jump in a pinch. It gets around 1.5 tiers worth of height at Luoyang.
+
+### Average infinite jump
+
+Xiahou Dun can hover and move slowly forward as a part of infinite jump combos.
+
+### Average combat setup
+
+His air special creates lingering long-range damage that gives Xiahou Dun a bit of extra flexibility in dealing with late spawning officers. The damage could be better, though.
+
+### Other notes
+
+Xiahou Dun falls down very quickly during the downsmash of his air charge attack. Might be useful to know if you ever need to fall fast.
+
+His air special hits huge crowds of enemies at once, which makes him great for farming on Gauntlet-mode.
 
 ## Xingcai
 
