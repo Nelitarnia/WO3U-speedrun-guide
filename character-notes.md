@@ -30,7 +30,7 @@ Gracia, Katsuie Shibata, Kiyomasa Kato, Kanbei Kuroda, Muneshige Tachibana, Kai,
 
 ### Top speed movement
 
-Benkei's air special makes him leap high into the air followed by a quick forward downsmash that leaves him underground in a "digging" state. This action uses Benkei's base Speed and it also gains a percentage-based speed bonus from Agility 10. Conveniently for speedrunners, it ignores Speed cap and allows movement at such a high velocity it can even be difficult to control. The average Speed of this technique is hard to estimate, but it's probably in the 420-440 range.
+Benkei's air special makes him leap high into the air followed by a quick forward downsmash that leaves him underground in a "digging" state. This action uses Benkei's base Speed and it also gains a percentage-based Speed bonus from Agility 10. Since Agility can give a character up to a 17% attack speed boost, a quick calculation would suggest that the maximum Speed of this movement is 421,2. However, in practice the average Speed is slightly slower than that since the air special does have some cooldown between uses.
 
 Benkei speed digging is explained in more detail [here](https://github.com/Nelitarnia/WO3U-speedrun-guide/blob/main/WO3U-speedrun-guide.md#Benkei-speed-tech).
 
@@ -64,7 +64,7 @@ His air special can hit enemies through walls, but at such a short range it's un
 
 ### Average angled glitch
 
-She can bypass thin obstacles while angled by using her sprint attack.
+She can bypass thin obstacles while angled using her sprint attack.
 
 ### Average infinite jump
 
