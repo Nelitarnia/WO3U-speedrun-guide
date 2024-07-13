@@ -2,10 +2,10 @@
 
 This section takes an in-depth look at each character in the game from the perspective of speedrun utility. Still a work-in-progress...
 
-It's recommended to read the terminology and glitch tech sections of the [the main WO3U speedrun guide](https://github.com/Nelitarnia/WO3U-speedrun-guide/blob/main/WO3U-speedrun-guide.md) first because their terms and ideas will be mentioned quite often in the below sections.
+It's recommended to read the terminology and glitch tech sections of the [the main WO3U speedrun guide](https://github.com/Nelitarnia/WO3U-speedrun-guide/blob/main/WO3U-speedrun-guide.md) first because their terms and ideas will be mentioned quite often in the below sections. There's also more elaboration on the process with which I evaluated the characters at the [end of the file](#Technical-stuff).
 
 ### *Wei*
-[Xiahou Dun](#Xiahou-Dun), Dian Wei, Zhang Liao, Cao Cao, Xu Zhu, Xiahou Yuan, Xu Huang, Zhang He, Cao Ren, Cao Pi, Zhenji, [Cai Wenji](#Cai-Wenji), Jia Xu, Pang De, Wang Yi, Guo Jia
+[Xiahou Dun](#Xiahou-Dun), [Dian Wei](#Dian-Wei), [Zhang Liao](#Zhang-Liao), [Cao Cao](#Cao-Cao), Xu Zhu, Xiahou Yuan, Xu Huang, Zhang He, Cao Ren, Cao Pi, Zhenji, [Cai Wenji](#Cai-Wenji), Jia Xu, Pang De, Wang Yi, Guo Jia
 ### *Wu*
 Zhou Yu, Lu Xun, Sun Shangxiang, Gan Ning, Sun Jian, [Taishi Ci](#Taishi-Ci), Lu Meng, Huang Gai, Zhou Tai, Ling Tong, Sun Ce, Sun Quan, Xiaoqiao, Daqiao, Ding Feng, Lianshi
 ### *Shu*
@@ -28,6 +28,14 @@ Gracia, Katsuie Shibata, Kiyomasa Kato, Kanbei Kuroda, Muneshige Tachibana, Kai,
 
 • Technique / Technique + Dexterity
 
+### Great angled glitch
+
+Benkei can go past even thick walls with his C3 while angled. Additionally, his sprint attack and C7 allow him go past up to medium-thick walls. Since he has a Samurai-style musou, he can also be used to setup angled glitch, although realistically, you'd probably rather use his energy for speed movement.
+
+### Top high jump
+
+The leap at the start of Benkei's air special gives him a surprising amount of height in a very short span of time, so this attack works as a high jump or a high jump finisher all by itself. Benkei can cross tier 2 in Luoyang staircase solo, which is a feat only a few characters in the game are capable of.
+
 ### Top speed movement
 
 Benkei's air special makes him leap high into the air followed by a quick forward downsmash that leaves him underground in a "digging" state. This action uses Benkei's base Speed and it also gains a percentage-based Speed bonus from Agility 10. Since Agility can give a character up to a 17% attack speed boost, a quick calculation would suggest that the maximum Speed of this movement is 421,2. However, in practice the average Speed is slightly slower than that since the air special does have some cooldown between uses.
@@ -36,27 +44,19 @@ Benkei speed digging is explained in more detail [here](https://github.com/Nelit
 
 This is the most commonly used movement tactic in individual level runs since it's so fast and versatile. It even works in areas with tricky terrain since Benkei can bypass water surface, angled surfaces and ledges while digging. However, it's harder to utilize in full game runs since it requires you to setup Benkei with a maxed out Speed and Agility 10 first, plus it's quite costly as far as musou is concerned.
 
-### Top high jump
-
-The leap at the start of Benkei's air special gives him a surprising amount of height in a very short span of time, so this attack works as a high jump or a high jump finisher all by itself. Benkei can cross tier 2 in Luoyang staircase solo, which is a feat only a few characters in the game are capable of.
-
-Unfortunately, Benkei can't contribute to infinite jumps in any other capacity since his air special ends in a downsmash.
-
-### Good angled glitch
-
-Benkei can go past even thick walls with his C3 while angled. Additionally, his sprint attack and C7 allow him go past up to medium-thick walls. Since he has a Samurai-style musou, he can also be used to setup angled glitch, although realistically, you'd probably rather use his energy for speed movement.
-
 ### Skill breakpoints
 
-Each use of his air special costs 45 musou. At lv. 1, you can do it 3 times without having to refill your musou. Lv. 7 gives you 4 uses, lv. 20+ gives you 5 uses.
+Each use of his air special costs 45 musou. At lv. 1, you can do it 3 times without having to refill your musou. At lv. 7 you get 4 uses, lv. 20+ you get 5 uses, lv. 100, you get 9 uses.
 
 ### Other notes
+
+Benkei's air special can hit enemies through walls, but at such a short range it's unlikely to be useful.
+
+Benkei can't contribute to infinite jumps in any other capacity than as a jump finisher since his air special ends in a downsmash. This also prevents him from doing a good wallzip.
 
 Benkei's C2 also makes him dig. It works the same way as the air special, except it has such a slow speed that it generally isn't useful in speedruns. However, the fact that you can do it while grounded without having to move much can occasionally give it a niche use: one time I got stuck in a pit out of bounds, surrounded by angled surfaces which prevented me from infinite jumping or using Benkei's air special to get out, but doing C2 let me controllably climb out of the pit instead.
 
 Benkei cannot fall while digging. If you dig over a ledge, Benkei will simply teleport to ground level instantly.
-
-His air special can hit enemies through walls, but at such a short range it's unlikely to be useful.
 
 ## Cai Wenji
 
@@ -65,6 +65,10 @@ His air special can hit enemies through walls, but at such a short range it's un
 ### Average angled glitch
 
 She can bypass thin obstacles while angled using her sprint attack.
+
+### Average high jump
+
+Her highest known jump is jump -> air charge attack. This is enough to cross tier 1 in Luoyang.
 
 ### Average infinite jump
 
@@ -76,31 +80,85 @@ Her EX causes damaging projectiles to fall from the sky for around 5 seconds whi
 
 ### Neutral L-stick bug
 
-Her regular air attack has a [neutral L-stick bug](https://github.com/Nelitarnia/WO3U-speedrun-guide/blob/main/WO3U-speedrun-guide.md#Neutral-L-stick-bugs) and it can gain extreme forward velocity (rivalling Zuo Ci) if you do it from a running jump and leave L-stick neutral. It's somewhat hard to utilize effectively, though, since you need a lot of starting height to really benefit from the glitchy speed. The attack falls down fairly fast and Cai Wenji doesn't have double jump either, making it a bit more arduous to setup. Also, you only gain super speed on vsync 30.
+Her regular air attack has a [neutral L-stick bug](https://github.com/Nelitarnia/WO3U-speedrun-guide/blob/main/WO3U-speedrun-guide.md#Neutral-L-stick-bugs) and it can gain extreme forward velocity (rivalling Zuo Ci) if you do it from a running jump and leave L-stick neutral. This only works on vsync 30, and it's somewhat hard to utilize effectively since you need a lot of starting height to really benefit from the glitchy speed.
 
 ### Other notes
+
+She has no known way to attack through walls.
 
 Her air charge attack features a flashy looking somersault through the air. Unfortunately, most of its apparent height gain is fake, so it can't be used in Save & Quit infinite jumps very effectively.
 
 Cai Wenji gains an aura around her after doing her EX. I'm not sure if this is an actual buff, or if it's just an indication that the falling projectile effect is still active.
 
+## Cao Cao
+
+• Technique / Impact + Stamina
+
+### Good angled glitch
+
+He can bypass up to medium-thick obstacles while angled with his sprint attack or C6.
+
+### Good attacking through walls
+
+The projectiles fired by his air special fly through walls and can hit up to around 10 meters. The range is extended even further if you do the attack higher in air.
+
+### Good high jump
+
+His highest know jump is jump -> air special -> air charge attack, which is enough to jump up from the half-way point between tiers 1 and 2 in Luoyang.
+
+### Average infinite jump
+
+Cao Cao's air special helps him hover and also gives slight height inside an infinite jump chain. You don't fall very quickly after the air special, which makes it slightly more consistent than you'd expect, but still not truly useful.
+
+### Average combat setup
+
+His ground special leaves a kind of a force field which lingers a few seconds after the attack animation has ended, potentially allowing multi-tasking.
+
+### Other notes
+
+He might be able to slightly speed up his regular running Speed with Heavenly Sash by sidestepping out of C1 repeatedly.
+
+## Dian Wei
+
+• Power / Potence + Fortitude
+
+### Good angled glitch
+
+He can bypass up to medium-thick walls with his sprint attack or ground special while angled.
+
+### Average attacking through walls
+
+The axe throw of his air special can hit a few meters through walls.
+
+### Average high jump
+
+His highest known jump is jump -> air charge attack, which is enough to cross around 1 tier and 2 steps in Luoyang.
+
+### Average combat setup
+
+He can buff his attacks with explosion effects using his EX, although I'm not sure if this offers a straight damage increase or adds a crowd damage effect to his attacks. Regardless, it might come in handy in some combat scenario.
+
+### Other notes
+
+He can't contribute to infinite jumps since his air special ends in a downsmash. This makes him bad for wallzipping as well. He actually gains a surprising amount of height during a wallzip before the downsmash and he *could* probably get over some wall with it, but the lack of steering while in air makes utilizing the extra height that much more difficult. Overall, you'd have to be quite desperate to consider using Dian Wei for a wallzip.
+
 ## Hanzo Hattori
 
 • Speed / Efficacy + Vigor
 
+### Good angled glitch
+
+He can go past up to medium-thick walls with his sprint attack. He can also be used to setup angled glitch since he is a Samurai-style character.
+
+As a side note, the forward zip of his air special is not impacted by angle, which allows him to be a good infinite jumper even while angled.
+
 ### Top infinite jump
 
-Hanzo Hattori is arguably the best character in the game for chainable vertical air movement, and maybe in the Top 10 for chainable horizontal air movement too. His air special zips him forward and upward a couple of meters. The animation is short too, allowing it to be repeated quickly in a jump. Having access to double jump is very useful as well.
+Hanzo Hattori is arguably the best character in the game for chainable vertical air movement, and maybe in the Top 10 for chainable horizontal air movement too. His air special zips him forward and upward a couple of meters. The animation is short too, allowing it to be repeated quickly in a jump, and having access to double jump is just a cherry on top.
 
 ### Top high jump
 
 Hanzo Hattori's naturally high ground jump, air special and ability to double jump allow him to gain respectable height even while solo. He can cross tier 2 in Luoyang with double jump -> air special -> double jump.
-
-### Good angled glitch
-
-He can go past up to medium-thick walls with his sprint attack. He can also be used to setup angled glitch.
-
-As a side note, the forward zip of his air special is not impacted by angle, which allows him to be a solid infinite jumper even while angled.
 
 ### Average sloped floor clip
 
@@ -180,17 +238,21 @@ Slowing down Shuten Doji's attack speed with Precision + Potency makes his groun
 
 You can breach thin obstacles while angled with either sprint attack or C6.
 
-### Good infinite jump
+### Average attacking through walls
 
-Taishi Ci is actually a surprisingly solid infinite jump team member. His air special has a fairly quick animation and it gives height in an infinite jump combo. Furthermore, he is able to use air charge attack before each air special to gain a bit of 100% consistent extra height per cycle. The only drawbacks are that he doesn't have a double jump and also that he doesn't have a lot of musou to spare for jumps at low level.
+The shockwave of the air special hits a few meters past walls.
 
 ### Good high jump
 
 His highest solo jump is jump -> air charge attack -> air special -> air charge attack. This doesn't cross tier 2 at Luoyang, but it can cross over the half-way point between tier 1 and 2.
 
-### Average attacking through walls
+### Good infinite jump
 
-The shockwave of the air special hits a few meters past walls.
+Taishi Ci is actually a surprisingly solid infinite jump team member. His air special has a fairly quick animation and it gives height in an infinite jump combo. Furthermore, he is able to use air charge attack before each air special to gain a bit of 100% consistent extra height per cycle. The only drawbacks are that he doesn't have a double jump and also that he doesn't have a lot of musou to spare for jumps at low level.
+
+### Other notes
+
+Taishi Ci has one of the most damaging musou-attacks of all the early game characters, which makes him quite useful for combat in any% runs.
 
 ## Xiahou Dun
 
@@ -228,6 +290,12 @@ His air special hits huge crowds of enemies at once, which makes him great for f
 
 • Speed / Speed + Recovery
 
+### Top angled glitch
+
+Xingcai is able to bypass even thick walls very quickly by using either her ground or air special. Musou and C5 also work for medium-thick walls, although both of these options are slower.
+
+As a side note, she becomes unable to infinite jump effectively while angled because the forward movement in her air special makes her lose all her height.
+
 ### Top infinite jumper
 
 Xingcai is the 2nd best in the game for horizontal chainable air movement thanks to her fast, forward-propelling air special and double jump. She is only slightly worse in this regard than Yukimura Sanada since her air special's animation is slightly longer and doesn't cross as much distance.
@@ -237,12 +305,6 @@ To make up for this, Xingcai is much better at gaining height during infinite ju
 Using the air charge attack can be a bit tricky at first. If you mess up your timing, Xingcai will start her downsmash which makes you lose a lot of height. Still, learning to use it is essential for getting the most out of your infinite jumps with this character.
 
 All of this makes her the most reliable infinite jump team member in the game, good for any kind of a situation. There's rarely any reason not to use her as the other infinite jump character whenever she's available.
-
-### Top angled glitch
-
-Xingcai is able to bypass even thick walls very quickly by using either her ground or air special. Musou and C5 also work for medium-thick walls, although both of these options are slower.
-
-As a side note, she becomes unable to infinite jump effectively while angled because the forward movement in her air special makes her lose all her height.
 
 ### Good speed movement
 
@@ -260,6 +322,12 @@ The downsmash of her air charge attack has one of the fastest falling speeds in 
 
 • Speed / Stamina + Impulse
 
+### Top angled glitch
+
+Yukimura Sanada's air special lets him go under even thick walls with almost no setup while angled, making him one of the most efficient angled glitch characters. Alternatively, you can go under medium-thick walls without expending any musou with his sprint attack or C1. Since he is a Samurai-character, you can use him to set up the glitch in full game runs.
+
+To note, he becomes an incredibly bad infinite jumper when angled because you lose all your height every time you do his air special.
+
 ### Top infinite jumper
 
 Yukimura Sanada's most distinguishing feature is his air special which quickly propels him forward around 8 meters in air. It's easily the best air special in the game for chainable horizontal aerial movement, and he has double jump to help out too. Although his height gain is only good instead of great, if you want an infinite jump that wants to cross a long distance quick, he is your #1 person for this purpose.
@@ -272,12 +340,6 @@ Before you have maxed out Speed, simply jumping and doing Yukimura Sanada's air 
 
 Alternatively, simply doing C1 to sprint forward, doing two swings and jump cancelling out of the second attack with Agility 10 gives you a nearly 240 Speed hybrid movement without costing any musou.
 
-### Top angled glitch
-
-Yukimura Sanada's air special lets him go under even thick walls with almost no setup, making him one of the most efficient angled glitch characters as well. Alternatively, you can go under medium-thick walls without expending any musou with his sprint attack or C1. Since he is a Samurai-character, you can use him to set up the glitch in full game runs.
-
-He becomes an incredibly bad infinite jumper when angled because you lose all your height every time you do his air special.
-
 ### Skill breakpoints
 
 Each use of his air special costs 20 musou. At lv. 1, you can do it 9 times without having to refill your musou. Lv. 10 gives you 11 uses, lv. 17 gives you 12 uses and lv. 25 gives you 13 uses.
@@ -286,6 +348,45 @@ Each use of his air special costs 20 musou. At lv. 1, you can do it 9 times with
 
 His air special can hit a few meters through walls, but it's usually too little to be useful.
 
+## Zhang Liao
+
+• Technique / Fellowship + Trinity
+
+### Great angled glitch
+
+He can breach up to thick walls while angled using his musou. Sprint attack and C4 also work for thin obstacles.
+
+### Average high jump
+
+His highest known jump is jump (side towards wall) -> air special -> (turning towards wall) air charge attack, which allows him to get over around 1 tier and 3 steps in Luoyang.
+
+### Good infinite jump
+
+His air special has a fairly quick animation and it moves him forward and upward a short distance. It can be a useful part of an infinite jump combo even though he doesn't have double jump.
+
+### Speed buff ability
+
+Zhang Liao can temporarily buff himself with his EX to make all of his animations roughly 25-30% faster. This even affects non-combat animations like swimming and ladder climbing. The combo to reach EX is lengthy and it takes a few seconds to set up, but the animation of the EX itself can be cut short early if you have Dragon's Eye or Heavenly Sash. The speed buff will end by itself after around 6-8 seconds or if you do Zhang Lioa's musou.
+
+Like other speed buffs, it gives diminishing results later in the game since you're still limited by the universal Speed cap. Jumping everywhere instead of running might help increase your overall Speed, like it does with Xiahou Ba / Zhang He speed buff, but I'm not sure if it's enough to consistently break Speed cap.
+
+The slow setup prevents this from being used as an universal speed movement tactic, but it could still come in handy if you can do it during forced waiting.
+
+### Good wallzip?
+
+Zhang Liao is theoretically a more consistent wallzip character than most because he can buff the speed of his animations.
+
+### Average combat setup
+
+The animation speed buff could also help him prepare ahead for complex combat scenarios.
+
+### Other notes
+
+He has no known way to attack through walls.
+
+If you end Zhang Liao's speed buff early by doing his musou, the speed buff's visual effect will still be active afterwards for a few seconds even though his actions are no longer sped up.
+
+While speed buffed, riding a horse makes the entire horse emit a double image like Zhang Liao himself. Sadly, the speed of the horse is not increased.
 
 ## Technical stuff
 
@@ -315,7 +416,7 @@ I've used the following criteria for determining speedrun usefulness:
 - Wallzipping. How good is a character in wallzipping? Zhang He and Xiahou Ba belong in a tier of their own because of their superb speed buff that makes wallzipping more consistent for them than anyone else.
 - - 0 = characters who have no wallzip-compatible attacks. 1 = characters who can do a wallzip. 2 = characters who can buff their own speed for more consistent wallzips. 3 = Zhang He and Xiahou Ba.
 
-- Combat setup. Does a character have any tools to save time in combat encounters where you have to wait for enemies to spawn. For instance, Dong Zhuo can leave multiple bombs which can kill multiple officers in different parts of the same room right as they spawn, saving a lot of time compared to another character who would have to take care of them with normal attacks.
+- Combat setup. Does a character have any tools to save time in less straightforward combat encounters, for instance if officers spawn with a delay or from multiple directions. For instance, Dong Zhuo can leave multiple bombs which can kill multiple officers in different parts of the same room right as they spawn, saving a lot of time compared to another character who would have to take care of them with normal attacks.
 - - 0 = no way to setup delayed damage or prepare in any other way. 1 = inconsistent or weak delayed damage or setup. 2 = good delayed damage or setup. 3 = incredible delayed damage or setup.
 
 - Sloped floor clip. Can a character clip through sloped floor?
