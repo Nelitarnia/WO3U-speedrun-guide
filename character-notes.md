@@ -366,11 +366,11 @@ His air special has a fairly quick animation and it moves him forward and upward
 
 ### Speed buff ability
 
-Zhang Liao can temporarily buff himself with his EX to make all of his animations roughly 25-30% faster. This even affects non-combat animations like swimming and ladder climbing. The combo to reach EX is lengthy and it takes a few seconds to set up, but the animation of the EX itself can be cut short early if you have Dragon's Eye or Heavenly Sash. The speed buff will end by itself after around 6-8 seconds or if you do Zhang Lioa's musou.
+Zhang Liao can use his EX to give himself a 10-second buff which makes all of his animations roughly 25-30% faster. This even affects non-combat animations like swimming and ladder climbing. The combo for reaching EX is a bit lengthy so the speed buff takes a few seconds to set up, but the animation of the EX itself can be cut short early if you have Dragon's Eye or Heavenly Sash. The speed buff will end by itself after the timer runs out, switch characters or do a musou.
 
-Like other speed buffs, it gives diminishing results later in the game since you're still limited by the universal Speed cap. Jumping everywhere instead of running might help increase your overall Speed, like it does with Xiahou Ba / Zhang He speed buff, but I'm not sure if it's enough to consistently break Speed cap.
+Zhang Liao is still limited by the universal Speed cap while his speed is buffed. Jumping everywhere instead of running might help increase your overall speed, like it does with Xiahou Ba / Zhang He speed buff, but I'm not sure if it's enough to consistently break Speed cap.
 
-The slow setup prevents this from being used as an universal speed movement tactic, but it could still come in handy if you can do it during forced waiting.
+The slow setup prevents this from being used as an universal speed movement tactic, but it could still come in handy if you can start it during forced waiting.
 
 ### Good wallzip?
 
@@ -378,15 +378,17 @@ Zhang Liao is theoretically a more consistent wallzip character than most becaus
 
 ### Average combat setup
 
-The animation speed buff could also help him prepare ahead for complex combat scenarios.
+The animation speed buff could help him prepare ahead for complex combat scenarios.
 
 ### Other notes
 
 He has no known way to attack through walls.
 
+If you interrupt his C3 grab animation during its first frames with Dragon's Eye, he will do a sidestep to a seemingly random direction. Heavenly Sash cannot cancel the grab like this and instead has no effect.
+
 If you end Zhang Liao's speed buff early by doing his musou, the speed buff's visual effect will still be active afterwards for a few seconds even though his actions are no longer sped up.
 
-While speed buffed, riding a horse makes the entire horse emit a double image like Zhang Liao himself. Sadly, the speed of the horse is not increased.
+Riding a horse while speed buffed makes the entire horse emit a double image like Zhang Liao himself. Sadly, the speed of the horse is not increased.
 
 ## Technical stuff
 
