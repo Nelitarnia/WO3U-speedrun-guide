@@ -138,9 +138,13 @@ https://www.youtube.com/watch?v=rQpd9hFCiyg
 
 Speed movement tactics could be generally divided into three different types: ground movement, aerial movement or a hybrid of the two. It's useful to consider all of them when devising the fastest route through a level. For example, in some level it might be useful to start an infinite jump early and then move some distance airborne to get over multiple invisible walls with a single jump.
 
+As a general rule, if you're not playing on a NG+ save file with maxed out characters, a horse is your best option for fast movement. A horse has a 200 base Speed, whereas the highest natural Speed of all your characters is only 170 (Sun Wukong). Some characters have specific techniques to go even faster than 200 Speed, but only a handful (like Xiahou Yuan) can replace a horse in runs without any set-up.
+
+If using a horse or one of those naturally speedy characters is not an option, your next best option would be to use a Speed-type character and double jump everywhere. This is a guaranteed way to move at a 170-180 Speed everywhere. Some characters can also extend their double jump with an air attack to do this slightly more efficiently.
+
 This game has a Speed cap of 360. Although you can use upgrade stone duping to get a character's Speed all the way to 500, I haven't noticed any circumstances where this makes a difference compared to having 360 Speed.
 
-Some characters are able to use some kind of a technique to bypass the Speed cap. Of course, this is extremely valuable in speedruns, and the best methods for doing so are listed below.
+Some characters are able to use some kind of a technique to bypass the Speed cap. Of course, this is extremely valuable in speedruns, and the best methods for doing so (as well as other useful tactics) are listed below.
 
 - [Speed buffing](#Speed-buffing)
 - [Benkei speed tech](#Benkei-speed-tech)
@@ -154,10 +158,6 @@ Some characters are able to use some kind of a technique to bypass the Speed cap
 - [Neutral L-stick bugs](#Neutral-L-stick-bugs)
 - [Dynasty running cycle bug](#Dynasty-running-cycle-bug)
 
-As a general rule, if you're not playing on a NG+ save file with maxed out characters, a horse is your best option for fast movement. A horse has a 200 base Speed, whereas the highest natural Speed of all your characters is only 170 (Sun Wukong). Some characters have specific techniques to go even faster than 200 Speed, but only a handful (like Xiahou Yuan) can replace a horse in runs without any set-up.
-
-If using a horse or one of those naturally speedy characters is not an option, your next best option would be to use a Speed-type character and double jump everywhere. This is a guaranteed way to move at a 170-180 Speed everywhere. Some characters can also extend their double jump with an air attack to do this slightly more efficiently.
-
 ### Speed buffing
 
 Some characters - most notably Zhang He and Xiahou Ba - have a powerful special move which doubles the speed of all their actions for a short time. Besides making all combat much faster, this speed buff even affects general navigation animations like swimming or climbing ladders. As mentioned above, a speed buff also makes [wallzipping](#Wallzipping) easier to perform.
@@ -168,11 +168,11 @@ There is a way to increase your average speed over the Speed cap while speed buf
 
 Xiahou Ba is somewhat less effective compared to Zhang He since he starts with a lower base Speed (125), and his ground special is both costlier and slower to perform than Zhang He's air special. However, Zhang He can't be used for speed buffing in the original WO3, since that game doesn't have air specials.
 
-Other characters like Zhang Liao and Ranmaru Mori can also buff their own speed temporarily, but these speed buffs are different and much less powerful.
+Other characters like Zhang Liao and Ranmaru Mori can also buff their own speed temporarily, but these speed buffs are generally less powerful and have less utility for speed movement purposes.
 
 ### Benkei speed tech
 
-Benkei's air special makes him leap high into the air followed by a quick forward downsmash that leaves him underground in a "digging" state. This action uses Benkei's base Speed and it also gains a percentage-based speed bonus from Agility 10. Conveniently for speedrunners, it ignores Speed cap and allows movement at such a high velocity it can even be difficult to control. The average Speed of this technique is hard to estimate, but it's probably in the 420-440 range.
+Benkei's air special makes him leap high into the air followed by a quick forward downsmash that leaves him underground in a "digging" state. This action uses Benkei's base Speed and it also gains a percentage-based Speed bonus from Agility 10. Since Agility can give a character up to a 17% attack speed boost, a quick calculation would suggest that the maximum Speed of this movement is 421,2. However, in practice the average Speed is slightly slower than that since the air special does have some cooldown between uses.
 
 It's useful to note that it's not only the grounded digging state which breaks Speed cap but also the aerial downsmash preceding it, so Benkei can fly through the air a very long distance if you set up the right circumstances for it. He can't be steered at all until he hits ground level, though.
 
@@ -204,7 +204,7 @@ Furthermore, it's nearly impossible to do this movement tactic optimally every s
 
 As mentioned, this tactic works surprisingly well even with a completely vanilla Xiahou Yuan. This makes it useful in many run categories, especially in the original WO3, where it's the fastest way to move on foot in the absence of Benkei's speed digging. Plus, it doesn't cost any musou to use either.
 
-Like Benkei's speed tech, this movement tactic only works at low frame rates, making it inconsistent on PS4. But it works 100% consistently on PC with vsync 30.
+Like Benkei's speed digging, this movement tactic only works at low frame rates, making it inconsistent on PS4. But it works 100% consistently on PC with vsync 30.
 
 **Videos:**\
 1, AKheon's example:\
@@ -309,6 +309,7 @@ This small oddity doesn't seem to happen at all with Samurai-style characters.
 - [Soul splitting](#Soul-splitting)
 - [Delayed input bugs](#Delayed-input-bugs)
 - [Escort mission time saves](#Escort-mission-time-saves)
+- [Upgrade stone and promotion duping](#Upgrade-stone-and-promotion-duping)
 
 ### Angled glitch
 
@@ -475,6 +476,22 @@ There are some areas in the game where NPCs have a hard time moving around. They
 
 Replacing an escort character with their generic officer variant, f.e. turning Ma Chao into Ma Teng in Breakthrough in Yiling, seems to be a bad idea. It seems generic officers all have an abysmal running speed, probably somewhere in the 100-110 range. At any rate, they always seem to run slower than even the slowest of your playable characters.
 
+### Upgrade stone and promotion duping
+
+The game has a menu glitch which allows you to duplicate upgrade stones or hand out infinite promotions to everyone as soon as you just have a single character who can be promoted.
+
+To dupe promotions, enter the promotion menu, place the cursor on your lv. 100 character, then quickly press up or down at the same time as you press 'X' (or equivalent) to affirm. Done correctly, the "are you sure?" sub-menu opens up, but the graphics in the background change to display the wrong character. If you now choose 'yes', the wrong character will get promoted. The original character stays at lv. 100, allowing this to be repeated indefinitely.
+
+As a side note, if you promote a character through this glitch, you will not unlock their extra item slots. If you want to have them, it's advisable to promote the character only once, then give them a second promotion with growth points or normal level-ups. Once you reach lv. 100, you unlock all four additional item slots for them at once.
+
+To do this glitch with upgrade stones, put the cursor on a character who has a lot of upgrade stones, then press 'X' (or equivalent) at the same time as you press up or down. This will dupe all the upgrade stones to the other promoted character, although you won't see the number get updated until you try using the upgrade stones or back out of the menu.
+
+Upgrade stone duping lets you upgrade any character's stats to maximum, which is essential for preparing your save for NG+ runs. You can even boost a character's Speed up to 500, even though the menu normally only allows increasing Speed to 180/200. To do this, dupe upgrade stones from a character who has less than 180/200 Speed without cancelling out of the menu. The game is only checking if the character you started the glitch with is able to increase their Speed, which leaves the currently selected character free to upgrade their Speed past their current limit. However, so far upgrading Speed past 360 seems redundant, as there are no known instances where having a speed of 500 makes a difference compared to having a Speed of 360 (universal Speed cap).
+
+**Videos:**\
+1, AKheon's video:\
+https://www.youtube.com/watch?v=jJ58lzDG5Uo
+
 # Other mechanics details
 
 ## Weapons
@@ -506,7 +523,7 @@ At first it seems that there's a steady pattern of 1.3% and 2.7% increase with e
 
 Building up Agility for certain characters might be a worthwhile endeavor in some longer category, so it might be useful to know that even numbers are the best milestones to aim for until you reach Agility 5.
 
-To do: does Agility 1 save any frames with normal length attack animations?
+To do: test if having Agility 1 even saves any frames with normal length attack animations.
 
 ### Potency / Precision
 
@@ -518,13 +535,15 @@ To do: I hope these numbers aren't too wonky, might be useful to re-time at some
 
 ### Dragon's Eye
 
-This item enables Power- and Technique-characters to interrupt charge attacks with a jump after a certain breakpoint. Speed-type characters have something resembling this skill naturally. If both Dragon's Eye and Heavenly Sash are equipped, Heavenly Sash takes priority.
+This item enables Power- and Technique-characters to interrupt charge attacks with a jump after a certain breakpoint. Speed-type characters have something resembling this skill naturally. Wonder-characters get no benefit from this item.
 
-It seems that jump cancelling an attack where a character's model is in air actually grants you extra height?
+If both Dragon's Eye and Heavenly Sash are equipped on a Technique-character, Heavenly Sash takes priority.
 
 ### Heavenly Sash
 
-This item enables Technique-type characters to sidestep from charge attacks after a certain breakpoint. It does absolutely nothing for other type of characters?
+This item enables Technique-type characters to cancel charge attacks with a sidestep after a certain breakpoint. It does absolutely nothing for other type of characters?
+
+The sidesteps created with Heavenly Sash seem to have some different properties compared to regular sidesteps. Their directionality can change on the fly, causing your character to slowly turn around during the sidestep. Certain characters like Ling Tong also "zip" a little bit during a forward sidestep, giving the movement more reach than normal.
 
 # Tips for preparing your save file
 
@@ -532,39 +551,29 @@ Getting your characters in a perfect shape requires a lot of grinding, there's j
 
 ## Gauntlet-Mode is the key
 
-This is an infinitely replayable mode where it's very easy to get experience. There are also a ton of unique resources you can't get in any other modes, such as ingredients from which you can craft orbs and unique 5-star weapons for each character. Doing this mode is the key to building perfect characters.
+Gauntlet-mode is an infinitely replayable mode where it's very easy to get experience. There are also many unique resources you can't get on any other mode, such as some equippable items as well as 5-star weapon ingredients.
 
-Every time you replay Gauntlet-mode, you unlock new type of levels (as indicated by their color in the level select-screen). The only difference between level types is that later levels start with a higher miasma; this can speed up grinding since certain good items drop more frequently (or: can only drop?) at higher miasma levels.
+Every time you replay Gauntlet-mode, you unlock new type of levels (as indicated by their color in the level select-screen). The only difference between level types is that later levels start with a higher miasma; this can speed up grinding since certain good items can only drop at higher miasma levels.
 
 ## Starting out
 
-It all starts from having decent level characters who can survive for extended periods of time on Gauntlet-mode.
+It all starts from having decent characters who can survive for extended periods of time on Gauntlet-mode.
 
-When starting out with weak characters, try to stay inside levels a fairly short amount of time since difficulty escalates quickly as the Miasma level grows. Use a formation that has "Dem. Eye" (or later "Getaway") to find the exit portal quickly when needed.
+Your characters are quite weak when you are first starting out. Try to stay inside levels a fairly short amount of time since difficulty escalates quickly as the Miasma level grows. Use a formation that has "Dem. Eye" (or later "Getaway") to find the exit portal quickly when needed.
 
-Search for purple portals to get experience fast. Gaining a lot of experience awards a lot of growth points afterwards too, which is also a big help for leveling up your characters. Focus on getting a single character to lv. 100 first. Lv. 100 is a game changer, because this is when you can promote them and start using upgrade stones.
+Search for purple portals to get experience fast. Gaining experience awards a lot of growth points afterwards, which is also a big help for leveling up your characters. Focus on getting a single character to lv. 100 first. Lv. 100 is a game changer, because this is when you can promote them and start using upgrade stones.
 
-Out of the regular Gauntlet-mode starting characters, Zhou Yun is the best for grinding experience with. Althogh he runs slower than Hanzo Hattori, he can be a real beast at taking down large groups of enemies. Try spamming the air special (jump cancelling in between uses) to destroy hundreds of troops in seconds.
+Zhou Yun is the best for grinding experience with out of the regular Gauntlet-mode starter characters. Althogh he runs slower than Hanzo Hattori, he can be a real beast at taking down large groups of enemies. Try spamming the air special (jump cancelling in between uses) to destroy hundreds of troops in seconds.
 
-As an additional tip for survival, try to form a team with a lot of Thrift-type characters, since having them around makes it easier to spam specials or Musou. Stay on the lookout for Thrifty people! For the record, all the characters with Thrift are Liu Shan, Motochika Chosokabe, No, Zhang Jiao, Xu Shu, Dong Zhuo, Nene, Hundun, Yinglong, Ayane, Mitsuhide Akechi, Wei Yan and Liu Bei. Some of them only unlock Thrift after you have promoted them.
+As an additional tip for survival, try to form a team with a lot of Thrift-type characters, since having them around makes it easier to spam specials or Musou. Stay on the lookout for Thrifty people! For the record, all the characters who have Thrift as their main skills are Dong Zhuo, Liu Shan, Motochika Chosokabe, No, Xu Shu and Zhang Jiao. Additionally, Ayane, Hundun, Liu Bei, Mitsuhide Akechi, Nene, Wei Yan and Yinglong unlock Thrift after you've promoted them once.
 
 ## After getting your first lv. 100 character
 
-The game has a promotion exploit that allows you to hand out promotions to any character as soon as you just have a single character who can be promoted. To do this, enter the promotion menu, place cursor on your lv. 100 character, then quickly press up or down at the same time as you press 'X' (or equivalent) to affirm. Done correctly, the "are you sure?" sub-menu opens up, but the graphics in the background change to display the wrong character. If you now choose 'yes', the wrong character will get promoted. The original character stays at lv. 100, and so this can be repeated indefinitely.
-
-**Videos:**\
-1, AKheon's video:\
-https://www.youtube.com/watch?v=jJ58lzDG5Uo
-
-Meanwhile, upgrade stones are a way to enhance stats beyond the normal limit. The same menu glitch works with upgrade stones as well, allowing you to dupe them at will. Put cursor on a character who has a lot of upgrade stones, then press 'X' (or equivalent) at the same time as you press up or down. This will dupe all the upgrade stones to the other promoted character.
-
-This is also an easy way to get your speed to the maximum speed cap, which is 360. Normally you can't boost your character's speed more than 180 / 200 (depending on their promotion level) with upgrade stones. However, if you put the cursor on a low speed character, then do the same menu glitch again, the game assumes your second character's speed is in fact the first character's low speed, and therefore doesn't restrict you as much.
-
-It's much faster to play Gauntlet-mode with a bunch of maximum speed, maximum stat characters compared to doing things the regular way! Although, having good weapons is actually more significant than having max stats as far as dealing damage goes. On that same note...
+Once you have at least one character at lv. 100, you can [dupe upgrade stones and promotions](#Upgrade-stone-and-promotion-duping) to gain a dramatic increase in power very quick. It's especially recommended to give your characters a high life to survive for longer and 360 Speed to make navigation faster. Upgrading Attack also helps, but overall, I think you get much more benefit from having good weapons and weapon properties than good stats. And while we're on the topic of weapons...
 
 ## Acquiring 5-star weapons
 
-The Gauntlet-mode shop is trash; you'll never unlock decent weapons there. To get good weapons to start with, it's recommended to play Story-mode up to later chapters (like Chapter 4) and use the Story-mode shop to purchase yourself 4-star weapons.
+The Gauntlet-mode shop is trash; you'll never unlock decent weapons there. It's recommended to play Story-mode up to later chapters (like Chapter 4) and use the Story-mode shop instead to purchase yourself 4-star weapons. Getting Mystic Weapons at this point is also an option, but they will become obsolete fairly quickly and might be more trouble than they're worth.
 
 Unlocking 5-star weapons is a painful grind. To get the right ingredients, you have to defeat famous officers at a high miasma level so that they may randomly drop their personal item. You need at least two for any 5-star weapon. You can see the names of the officers who will appear in any given level from the level select-menu if you want to go hunting for these items.
 
@@ -576,11 +585,11 @@ Try to unlock Mystic Bells so that dropped items are vacuumed towards your chara
 
 In short, anything that boosts damage: Brawn, Might, Frenzy, Blast, Aerial, etc. depending on what type of damage you're planning on doing with the character.
 
-Agility increases all weapon attack speeds. It's a must for speedrunning; not only does it increase your damage-per-second, but it also helps with the speed of any movement technique that is based around attacks, f.e. Benkei's or Pang Tong's air specials.
+Agility increases all weapon attack speeds up to 17%. It's a must for speedrunning; not only does it increase your damage-per-second, but it also increases the speed of any movement technique that is based around attack movement, f.e. Benkei's or Pang Tong's air specials. Agility *can* make combat with certain characters more tricky, but this is not a particularly noticeable drawback in speedrunning.
 
 Osmosis is a life-saver if you decide to break Gauntlet-mode with a Samurai-style Thrift character like No. Start your musou to become invulnerable and keep supplying yourself with infinite energy by doing a charge attack every now and then, simple as that.
 
-Alacrity gives you a health & musou refill at every 500-hit combo, which again completely breaks Gauntlet-mode if you have a Samurai-style character who can generate a lot of combo, f.e. Motonari Mori.
+Alacrity gives you a health & musou refill with every 500-hit combo, which again wil completely break Gauntlet-mode if you have a Samurai-style character who can generate a lot of combo, f.e. Motonari Mori.
 
 Bombast is similar, giving you some free musou-energy every 500 hits of a combo. If you are playing as a character who has good specials and can generate combo easily, this can make them nearly invulnerable.
 
@@ -600,25 +609,41 @@ But still, even in the best case scenario, building up weapon exp is very, very 
 
 ## Building up skills
 
-Developing your characters' passive skills such as Thrift is similar but somewhat faster than building up weapon experience. You should generally get S-rank skills by the time you've finished building up your 5-star weapon too. If you got problems with building up skills, you could always try putting Industry on your weapon or getting characters with Aptitude (i.e. Dodomeki or Gyuki) on your team.
+Developing your characters' passive skills such as Thrift is similar but much faster than building up weapon experience. You should generally have S-rank skills by the time you've finished building up your 5-star weapon too. If you got problems with building up skills, you could always try putting Industry on your weapon or getting characters with Aptitude (i.e. Dodomeki or Gyuki) on your team.
 
 ## Anything else?
 
 You can also get some unique gear from Gauntlet-mode. You might not strictly need these items for NG+ speedruns, but they can't hurt. Belt of Concentration (continuous Musou regen) helps with some tactics, for instance.
 
-Playing through Story-mode is necessary to unlock all the levels. Some individual levels also can make use of Matsukaze or Red Hare, so those are helpful to unlock as well.
+Some individual levels also can make use of Matsukaze or Red Hare, so those are helpful to unlock as well.
 
 # Selecting your team
+
+General guidelines for team building (especially on NG+ categories):
+
+- Always try to take Benkei or Xiahou Yuan for fast navigation.
+
+- If you want to infinite jump, always get Xingcai. If you need a lot of horizontal reach, pair her with Yukimura Sanada. Or if you need fast height gain, Hanzo Hattori.
+
+- If you want to wallzip, always get Zhang He. If you want to keep flying through the air afterwards, consider Pang Tong, Sanzang, Seimei Abe or two infinite jumpers.
+
+- If you want to use angled glitch with Samurai-setup, have some low-level Samurai-character specifically prepared for this purpose. I like Muneshige Tachibana since he has a low base musou and he can use his sprint attack to bypass thick walls without needing to use any musou.
+
+- If you want to use angled glitch with TTA-setup, Wang Yuanji with a Confluence on her weapon can build a full TTA-bar almost instantly against a large enemy crowd.
+
+- If you need to prepare for late spawning officers, Dong Zhuo is probably one of the best characters. He has a high base damage and he can set up a completely controllable bomb-based ambush to take out multiple targets at once.
+
+Also check out the [character tier lists](#Character-tier-lists) and [individual characters section](https://github.com/Nelitarnia/WO3U-speedrun-guide/blob/main/character-notes.md) for more detail on specific characters.
 
 ## Helpful skills
 
 - Efficacy
 
-Efficacy increases damage inflicted upon enemy officers. This skill doesn't influence character stats; rather, it just seems to increase your raw damage output against officers. This means it works even if your characters already have max stats, and is therefore very useful in categories where you use maxed out characters.
+Efficacy increases damage inflicted upon enemy officers. This skill doesn't influence character stats; rather, it just seems to increase your raw damage output against officers. This means it works even if your characters already have max stats, and is therefore useful even in categories where you use maxed out characters.
 
 - Vigor
 
-Increases damage inflicted with combo attacks. This is another skill which should influence your raw damage output. Intuitively, I've always thought Efficacy might be more useful in runs since you don't really combo enemies all that much, but I can't say for sure.
+Vigor increases damage inflicted with combo attacks. This is another skill which should influence your raw damage output. Intuitively, I've always thought Efficacy might be more useful in runs since you don't really combo enemies all that much, but I can't say for sure.
 
 - Regeneration
 
@@ -626,7 +651,7 @@ Increases passive Musou regeneration. Might help in situations where you use a l
 
 - Thrift
 
-Thrift reduces all Musou costs, and it has some specific uses in speedruns. If you have a team with three Thrift-characters, doing Musou on horse is so cheap that you can keep spamming it over and over, which is a good, unique fast movement tactic. Thrift is also the main way to break Gauntlet-mode in half.
+Thrift reduces all Musou costs, and it has some specific uses in speedruns. If you have a team with three Thrift-characters, doing Musou on horse is so cheap that you can keep spamming it over and over, which is a good fast movement tactic. Thrift is also the main way to break Gauntlet-mode in half.
 
 ## Skills that are not useful for NG+ runs:
 
@@ -722,6 +747,8 @@ Nezha (Human), Xiahou Dun, Xiahou Yuan, Guo Jia, Gyuki, Zhong Hui
 
 - WO3 and WO3U = Warriors Orochi 3 and Warriors Orochi 3 Ultimate, respectively. These two main different versions of the game have some significant mechanical differences which makes it worthwhile to sometimes distinguish between the two.
 
+- S1, S2, C1, C2, etc. = these abbreviations refer to a character's regular attacks and charge attacks.
+
 - double musou. A coordinated musou attack where multiple nearby characters do it simultaneously.
 
 - slippery collision/floor. A kind of a level element. If a character lands on floor like this, they lose control and slide downward until they reach normal floor again. If reaching normal ground directly is not possible, they will instead teleport to last known ground coordinates after a few seconds have passed.
@@ -733,10 +760,6 @@ Nezha (Human), Xiahou Dun, Xiahou Yuan, Guo Jia, Gyuki, Zhong Hui
 - TTA = True Triple Attack. You need a full TTA-gauge to do this move. It's a slow and flashy attack which makes enemies slow down and become very floaty at the slightest touch. Generates crystals.
 
 - zip. Any kind of extremely high-velocity movement. Not to be confused with [wallzipping](#Wallzipping), which is a glitch technique for gaining height fast.
-
-# More reading
-
-Also check out [individual characters section](https://github.com/Nelitarnia/WO3U-speedrun-guide/blob/main/character-notes.md) for more detail on characters.
 
 # Credits
 
