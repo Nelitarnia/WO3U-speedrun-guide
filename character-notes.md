@@ -5,7 +5,7 @@ This section takes an in-depth look at each character in the game from the persp
 It's recommended to read the terminology and glitch tech sections of the [the main WO3U speedrun guide](https://github.com/Nelitarnia/WO3U-speedrun-guide/blob/main/WO3U-speedrun-guide.md) first because their terms and ideas will be mentioned quite often in the below sections. There's also more elaboration on the process with which I evaluated the characters at the [end of the file](#Technical-stuff).
 
 ### *Wei*
-[Xiahou Dun](#Xiahou-Dun), [Dian Wei](#Dian-Wei), [Zhang Liao](#Zhang-Liao), [Cao Cao](#Cao-Cao), Xu Zhu, Xiahou Yuan, Xu Huang, Zhang He, Cao Ren, Cao Pi, Zhenji, [Cai Wenji](#Cai-Wenji), Jia Xu, Pang De, Wang Yi, Guo Jia
+[Xiahou Dun](#Xiahou-Dun), [Dian Wei](#Dian-Wei), [Zhang Liao](#Zhang-Liao), [Cao Cao](#Cao-Cao), [Xu Zhu](#Xu-Zhu), Xiahou Yuan, Xu Huang, Zhang He, Cao Ren, Cao Pi, Zhenji, [Cai Wenji](#Cai-Wenji), Jia Xu, Pang De, Wang Yi, Guo Jia
 ### *Wu*
 Zhou Yu, Lu Xun, Sun Shangxiang, Gan Ning, Sun Jian, [Taishi Ci](#Taishi-Ci), Lu Meng, Huang Gai, Zhou Tai, Ling Tong, Sun Ce, Sun Quan, Xiaoqiao, Daqiao, Ding Feng, Lianshi
 ### *Shu*
@@ -112,11 +112,7 @@ Cao Cao's air special helps him hover and also gives slight height inside an inf
 
 ### Average combat setup
 
-His ground special leaves a kind of a force field which lingers a few seconds after the attack animation has ended, potentially allowing multi-tasking.
-
-### Other notes
-
-He might be able to slightly speed up his regular running Speed with Heavenly Sash by sidestepping out of C1 repeatedly.
+His ground special leaves a kind of a force field which lingers a few seconds after the attack animation has ended, potentially allowing slight multi-tasking.
 
 ## Dian Wei
 
@@ -317,6 +313,28 @@ Repeatedly doing her air special is also a speed movement tactic, although overa
 She can hit a short range through walls using her air special (and maybe musou?) but the range is so short that it's unlikely to help.
 
 The downsmash of her air charge attack has one of the fastest falling speeds in the game. Knowing this might be useful in the rare circumstance where it's necessary to descend quickly.
+
+## Xu Zhu
+
+• Power / Vitality + Acclaim
+
+### Good angled glitch
+
+Xu Zhu is able to bypass up to medium-thick walls with his sprint attack, EX or C4 while angled.
+
+### Average attacking through walls
+
+The final impact of his air special reaches a short distance through walls.
+
+### Average high jump
+
+Xu Zhu's normal jump is low, but he can gain a bit of extra height with his air special, enough to cross tier 1 and 2 steps at Luoyang.
+
+He can situationally do an even higher jump with his C4 attack. If you drop off a ledge during the part where Xu Zhu is high in air, the attack interrupts but you get to keep his current height.
+
+### Other notes
+
+He can't contribute to infinite jumps since his air special ends in a downsmash. This also limits his wallzipping ability, but he can gain at least around 6-8 meters of height and steer while falling down after doing a wallzip. This might be enough to go over a low wall somewhere, but generally I wouldn't advise trying to use Xu Zhu for wallzips.
 
 ## Yukimura Sanada
 
