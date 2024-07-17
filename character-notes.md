@@ -5,7 +5,7 @@ This section takes an in-depth look at each character in the game from the persp
 It's recommended to read the terminology and glitch tech sections of the [the main WO3U speedrun guide](https://github.com/Nelitarnia/WO3U-speedrun-guide/blob/main/WO3U-speedrun-guide.md) first because their terms and ideas will be mentioned quite often in the below sections. There's also more elaboration on the process with which I evaluated the characters at the [end of the file](#Technical-stuff).
 
 ### *Wei*
-[Xiahou Dun](#Xiahou-Dun), [Dian Wei](#Dian-Wei), [Zhang Liao](#Zhang-Liao), [Cao Cao](#Cao-Cao), [Xu Zhu](#Xu-Zhu), Xiahou Yuan, Xu Huang, Zhang He, Cao Ren, Cao Pi, Zhenji, [Cai Wenji](#Cai-Wenji), Jia Xu, Pang De, Wang Yi, Guo Jia
+[Xiahou Dun](#Xiahou-Dun), [Dian Wei](#Dian-Wei), [Zhang Liao](#Zhang-Liao), [Cao Cao](#Cao-Cao), [Xu Zhu](#Xu-Zhu), [Xiahou Yuan](#Xiahou-Yuan), Xu Huang, Zhang He, Cao Ren, Cao Pi, Zhenji, [Cai Wenji](#Cai-Wenji), Jia Xu, Pang De, Wang Yi, Guo Jia
 ### *Wu*
 Zhou Yu, Lu Xun, Sun Shangxiang, Gan Ning, Sun Jian, [Taishi Ci](#Taishi-Ci), Lu Meng, Huang Gai, Zhou Tai, Ling Tong, Sun Ce, Sun Quan, Xiaoqiao, Daqiao, Ding Feng, Lianshi
 ### *Shu*
@@ -281,6 +281,46 @@ His air special creates lingering long-range damage that gives Xiahou Dun a bit 
 Xiahou Dun falls down very quickly during the downsmash of his air charge attack. Might be useful to know if you ever need to fall fast.
 
 His air special hits huge crowds of enemies at once, which makes him great for farming on Gauntlet-mode.
+
+## Xiahou Yuan
+
+• Wonder / Vigor + Efficacy
+
+### Good angled glitch
+
+Xiahou Yuan can get past medium-thick walls with C4 while angled. Sprint attack, C1 and C2 also work for thin walls.
+
+### Great attacking through walls
+
+Xiahou Yuan can be an excellent officer sniping character, although he does require some setup to work. His air special fires an exploding arrow which flies downward at around 45 degree angle. This projectile has no range limit and it can pass through walls. The range of the air special isn't that impressive when done near ground level, but the range dramatically increases if you do it from higher up in air. So, pairing Xiahou Yuan with a wallzip character or two infinite jumpers lets you hit officers from up to tens of meters away. I haven't tried this much in practice so I can't comment on the damage, but this tactic can insta-kill officers on NG+ conditions in the early chapters, at least.
+
+### Good high jump
+
+His highest jump so far is C5 (sideways or back against wall) -> air special (at top height) -> regular air attack (turning towards wall). This is enough to cross tier 1 and around 5 steps in Luoyang.
+
+### Average infinite jump
+
+He can be used as a part of an infinite jump combo to at least hover in place.
+
+### Top speed movement
+
+Xiahou Yuan's regular air attack has a [neutral L-stick bug](https://github.com/Nelitarnia/WO3U-speedrun-guide/blob/main/WO3U-speedrun-guide.md#Neutral-L-stick-bugs). If you do it from a running jump with L-stick neutral, you'll see Xiahou Yuan's speed exponentially increase (up to a certain limit), causing him to fly forward a huge distance in air. This is an extremely fast hybrid speed movement that doesn't cost any musou that can situationally be even faster than Benkei. It requires less setup to be effective too.
+
+There's more about this speed movement tactic [here](https://github.com/Nelitarnia/WO3U-speedrun-guide/blob/main/WO3U-speedrun-guide.md#Xiahou-Yuan-speed-tech).
+
+### Top sloped floor clip
+
+Xiahou Yuan can clip through longer normal staircases (like in Nanzhong) using his C5 downsmash.
+
+Besides that, his bugged regular air attack gives him such a high velocity that he can clip through almost any kind of sloped floor that is not limited by the stairs speed rule, f.e. something like the various mildly inclined walkways in Escape from the Mirror Realm. Although he is only average in clipping through actual stairs, he can do things in this department that no other character in the game can.
+
+### Good combat setup
+
+His long-range officer sniping ability could allow him to save time in some combat scenario. He can also cause a short-ranged delayed damage effect using his ground special for multi-tasking purposes.
+
+### Other notes
+
+If you do the C5 downsmash past a ledge, the animation will not continue indefinitely but instead interrupts in air maybe 0.5 meters below where you started.
 
 ## Xingcai
 
