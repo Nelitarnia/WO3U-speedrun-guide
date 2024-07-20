@@ -5,7 +5,7 @@ This section takes an in-depth look at each character in the game from the persp
 It's recommended to read the terminology and glitch tech sections of the [the main WO3U speedrun guide](https://github.com/Nelitarnia/WO3U-speedrun-guide/blob/main/WO3U-speedrun-guide.md) first because their terms and ideas will be mentioned quite often in the below sections. There's also more elaboration on the process with which I evaluated the characters at the [end of the file](#Technical-stuff).
 
 ### *Wei*
-[Xiahou Dun](#Xiahou-Dun), [Dian Wei](#Dian-Wei), [Zhang Liao](#Zhang-Liao), [Cao Cao](#Cao-Cao), [Xu Zhu](#Xu-Zhu), [Xiahou Yuan](#Xiahou-Yuan), [Xu Huang](#Xu-Huang), [Zhang He](#Zhang-He), [Cao Ren](#Cao-Ren), [Cao Pi](#Cao-Pi), Zhenji, [Cai Wenji](#Cai-Wenji), Jia Xu, Pang De, Wang Yi, Guo Jia
+[Xiahou Dun](#Xiahou-Dun), [Dian Wei](#Dian-Wei), [Zhang Liao](#Zhang-Liao), [Cao Cao](#Cao-Cao), [Xu Zhu](#Xu-Zhu), [Xiahou Yuan](#Xiahou-Yuan), [Xu Huang](#Xu-Huang), [Zhang He](#Zhang-He), [Cao Ren](#Cao-Ren), [Cao Pi](#Cao-Pi), [Zhenji](#Zhenji), [Cai Wenji](#Cai-Wenji), Jia Xu, Pang De, Wang Yi, Guo Jia
 ### *Wu*
 Zhou Yu, Lu Xun, Sun Shangxiang, Gan Ning, Sun Jian, [Taishi Ci](#Taishi-Ci), Lu Meng, Huang Gai, Zhou Tai, Ling Tong, Sun Ce, Sun Quan, Xiaoqiao, Daqiao, Ding Feng, Lianshi
 ### *Shu*
@@ -444,7 +444,7 @@ His highest known jump is jump -> air special, which is enough to pass tier 1 an
 
 ### Average speed movement
 
-Xu Huang has an air special that ends in a droopy downsmash, and he can fly quite a long distance through air with it. With Agility 10, the maxmimum speed of the air special is close to Speed cap. However, you need quite a specific circumstance and a lot of height to truly benefit from this tactic because of its fairly high musou cost and slow wind-up time. This works equally well on any vsync.
+Xu Huang has an air special that ends in a droopy downsmash, and he can fly quite a long distance through air with it. With Agility 10, the maximum speed of the air special is close to Speed cap. However, you need quite a specific circumstance and a lot of height to truly benefit from this tactic because of its fairly high musou cost and slow wind-up time. This works equally well on any vsync.
 
 ### Unique magnetic attacks
 
@@ -538,6 +538,8 @@ There's more about using this speed movement technique [here](https://github.com
 
 Zhang He is the ultimate wallzipping character in this game. The main reason for this is his powerful speed buff which makes wallzipping easier to perform. It's still not nearly 100% consistent, but he and Xiahou Ba are as good as it gets as far as this finicky technique is concerned. Overall, I prefer Zhang He over Xiahou Ba since his air special is slightly faster to setup and his higher jump makes navigation with him feel more agile before and afterwards too.
 
+It can be hard to control your exact altitude after doing the wallzip because Zhang He's animation speed is so fast. He will overshoot and do a "bounce" in air right after the air special ends, so you actually have to wait for a short moment before switching characters to get maximum height out of the zip.
+
 ### Average sloped floor clip
 
 Zhang He can generate such a high temporary velocity with a speed buffed C4 that he can clip through some sloped floor, like the staircase in Nanzhong. However, this technique has its limitations, and it doesn't seem to work at shorter stairs (like in Anegawa).
@@ -553,6 +555,8 @@ Each use of his air special costs 45 musou. At lv. 1, he gets 4 uses before runn
 ### Other notes
 
 Zhang He has no known way to attack through walls.
+
+Zhang He seems to be able to do a S1 -> S2 -> C2 combo using a delayed input trick, but it's frame precise.
 
 He falls down very fast while his speed is buffed. Knowing this might be useful in the rare case where you need to fall down quickly.
 
@@ -596,11 +600,51 @@ The animation speed buff could help him prepare ahead for complex combat scenari
 
 He has no known way to attack through walls.
 
-If you interrupt his C3 grab animation during its first frames with Dragon's Eye, he will do a sidestep to a seemingly random direction. Heavenly Sash cannot cancel the grab like this and instead has no effect.
+If you interrupt his C3 grab animation during its first frames with Dragon's Eye, he will do a sidestep to a seemingly random direction. This only works with Dragon's Eye - Heavenly Sash cannot cancel the grab like this and instead has no effect.
 
-If you end Zhang Liao's speed buff early by doing his musou, the speed buff's visual effect will still be active afterwards for a few seconds even though his actions are no longer sped up.
+If you end Zhang Liao's speed buff early with a musou, the speed buff's visual effect will still be active afterwards for a few seconds even though actions are no longer sped up.
 
 Riding a horse while speed buffed makes the entire horse emit a double image like Zhang Liao himself. Sadly, the speed of the horse is not increased.
+
+## Zhenji
+
+• Technique / Technique + Recovery
+
+### Good angled glitch
+
+She is able to bypass up to medium-thick walls while angled by doing her sprint attack or C4.
+
+### Average high jump
+
+Her highest known jump is jump -> air special -> air charge attack, which is enough to cross tier 1 and 4 steps in Luoyang.
+
+### Average infinite jump
+
+She can be used as a part of an infinite jump chain to at least hover in place, although the air special is fairly slow.
+
+### Speed buff ability
+
+Zhenji can use her EX to speed up all her animations by about 30% for a short amount of time. It's similar to Zhang Liao's speed buff, but actually better in a few respects: it's faster to set up since Zhenji's EX is a much shorter combo string, and the actual speed buff itself lasts longer too, around 11-12 seconds compared to Zhang Liao's 10 seconds. The EX animation can be interrupted early if you have Dragon's Eye or Heavenly Sash to squeeze a bit more value out of the buff. The speed buff will end by itself after the timer runs out, switch characters or do a musou.
+
+Zhenji is still limited by the universal Speed cap while his speed is buffed. Jumping everywhere instead of running might help increase your overall speed, like it does with Xiahou Ba / Zhang He speed buff, but I'm not sure if it's enough to consistently break Speed cap.
+
+### Good wallzip?
+
+Zhenji is theoretically a more consistent wallzip character than most because she can buff the speed of her animations.
+
+### Average combat setup
+
+The animation speed buff could help her prepare ahead for complex combat scenarios.
+
+### Other notes
+
+She has no way to attack through walls for now.
+
+She is able to do a S1 -> S2 -> C2 combo with a precise timing using a delayed input trick. To do this, first input S1 and S2 in a quick succession, then do a charge attack during the first frames of S2. This will cancel into C2 instead of C3.
+
+If you end Zhenji's speed buff early with a musou, the speed buff's visual effect will still be active afterwards for a few seconds even though actions are no longer sped up.
+
+While speed buffed, riding a horse makes the entire horse emit a double image like Zhenji herself. Sadly, the speed of the horse is not increased.
 
 ## Technical stuff
 
