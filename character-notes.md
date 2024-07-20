@@ -36,7 +36,7 @@ Benkei's air special can hit enemies through walls, but at such a short range it
 
 Benkei can go past even thick walls with his C3 while angled. Additionally, his sprint attack and C7 allow him go past up to medium-thick walls. Since he has a Samurai-style musou, he can also be used to setup angled glitch, although realistically, you'd probably rather use his energy for speed movement.
 
-### Top high jump
+### Great high jump
 
 The leap at the start of Benkei's air special gives him a surprising amount of height in a very short span of time, so this attack works as a high jump or a high jump finisher all by itself. Benkei can cross tier 2 in Luoyang staircase solo, which is a feat only a few characters in the game are capable of.
 
@@ -128,7 +128,7 @@ Cao Pi can bypass even thick walls by using his sprint attack while angled. C3 a
 
 Air special can hit a short distance through walls.
 
-### Good high jump
+### Average high jump
 
 Cao Pi has natural access to double jump. His air charge attack can also give him some height while also moving him backwards. His highest known jump is double jump -> air charge attack (turning away from the wall), which is enough to cross tier 1 and around 4 steps in Luoyang.
 
@@ -302,7 +302,7 @@ The shockwave of the air special hits a few meters past walls.
 
 ### Good high jump
 
-His highest solo jump is jump -> air charge attack -> air special -> air charge attack. This doesn't cross tier 2 at Luoyang, but it can cross over the half-way point between tier 1 and 2.
+His highest solo jump is jump -> air charge attack -> air special -> air charge attack. It allows him to pass over the half-way point between tier 1 and tier 2.
 
 ### Good infinite jump
 
@@ -328,7 +328,7 @@ The projectile passes freely through walls, so it can be used for officer snipin
 
 ### Average high jump
 
-Xiahou Dun's air charge attack might work as a minor high jump in a pinch. It gets around 1.5 tiers worth of height at Luoyang.
+Xiahou Dun's highest known solo jump is jump -> air charge attack. It gets 1 tier and around 4 steps worth of height at Luoyang.
 
 ### Average infinite jump
 
@@ -398,7 +398,13 @@ Xingcai is able to bypass even thick walls very quickly by using either her grou
 
 As a side note, she becomes unable to infinite jump effectively while angled because the forward movement in her air special makes her lose a lot of height.
 
-### Top infinite jumper
+### Great high jump
+
+Xingcai has a naturally high jump and it can be extended with double jump as well. Her air charge attack and air special are also helpful for gaining height.
+
+Her highest known solo jump is double jump -> charge air attack -> air special -> jump -> charge air attack. This is enough to cross tier 2 and about 5 steps at Luoyang.
+
+### Top infinite jump
 
 Xingcai is the 2nd best in the game for horizontal chainable air movement thanks to her fast, forward-propelling air special and double jump. She is only slightly worse in this regard than Yukimura Sanada since her air special's animation is slightly longer and doesn't cross as much distance.
 
@@ -407,12 +413,6 @@ To make up for this, Xingcai is much better at gaining height during infinite ju
 Using the air charge attack can be a bit tricky at first. If you mess up your timing, Xingcai will start her downsmash which makes you lose a lot of height. Still, learning to use it is essential for getting the most out of your infinite jumps with this character.
 
 All of this makes her the most reliable infinite jump team member in the game, good for any kind of a situation. There's rarely any reason not to use her as the other infinite jump character whenever she's available.
-
-### Great high jump
-
-Xingcai has a naturally high jump and it can be extended with double jump as well. As elaborated above, her air charge attack and air special are also helpful for gaining height.
-
-Her highest known solo jump is double jump -> charge air attack -> air special -> jump -> charge air attack. This is enough to easily cross tier 2 at Luoyang.
 
 ### Good speed movement
 
@@ -488,7 +488,11 @@ Yukimura Sanada's air special lets him go under even thick walls with almost no 
 
 To note, he becomes an incredibly bad infinite jumper when angled because you lose all your height every time you do his air special.
 
-### Top infinite jumper
+### Good high jump
+
+His highest known solo jump is double jump -> air special -> double jump. This is enough to cross tier 1 and about 5 steps in Luoyang.
+
+### Top infinite jump
 
 Yukimura Sanada's most distinguishing feature is his air special which quickly propels him forward around 8 meters in air. It's easily the best air special in the game for chainable horizontal aerial movement, and he has double jump to help out too. Although his height gain is only good instead of great, if you want an infinite jump that wants to cross a long distance quick, he is your #1 person for this purpose.
 
