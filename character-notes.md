@@ -5,7 +5,7 @@ This section takes an in-depth look at each character in the game from the persp
 It's recommended to read the terminology and glitch tech sections of the [the main WO3U speedrun guide](https://github.com/Nelitarnia/WO3U-speedrun-guide/blob/main/WO3U-speedrun-guide.md) first because their terms and ideas will be mentioned quite often in the below sections. There's also more elaboration on the process with which I evaluated the characters at the [end of the file](#Technical-stuff).
 
 ### *Wei*
-[Xiahou Dun](#Xiahou-Dun), [Dian Wei](#Dian-Wei), [Zhang Liao](#Zhang-Liao), [Cao Cao](#Cao-Cao), [Xu Zhu](#Xu-Zhu), [Xiahou Yuan](#Xiahou-Yuan), Xu Huang, Zhang He, Cao Ren, Cao Pi, Zhenji, [Cai Wenji](#Cai-Wenji), Jia Xu, Pang De, Wang Yi, Guo Jia
+[Xiahou Dun](#Xiahou-Dun), [Dian Wei](#Dian-Wei), [Zhang Liao](#Zhang-Liao), [Cao Cao](#Cao-Cao), [Xu Zhu](#Xu-Zhu), [Xiahou Yuan](#Xiahou-Yuan), [Xu Huang](#Xu-Huang), [Zhang He](#Zhang-He), [Cao Ren](#Cao-Ren), [Cao Pi](#Cao-Pi), Zhenji, [Cai Wenji](#Cai-Wenji), Jia Xu, Pang De, Wang Yi, Guo Jia
 ### *Wu*
 Zhou Yu, Lu Xun, Sun Shangxiang, Gan Ning, Sun Jian, [Taishi Ci](#Taishi-Ci), Lu Meng, Huang Gai, Zhou Tai, Ling Tong, Sun Ce, Sun Quan, Xiaoqiao, Daqiao, Ding Feng, Lianshi
 ### *Shu*
@@ -28,6 +28,10 @@ Gracia, Katsuie Shibata, Kiyomasa Kato, Kanbei Kuroda, Muneshige Tachibana, Kai,
 
 • Technique / Technique + Dexterity
 
+### Average attacking through walls
+
+Benkei's air special can hit enemies through walls, but at such a short range it's unlikely to be useful.
+
 ### Great angled glitch
 
 Benkei can go past even thick walls with his C3 while angled. Additionally, his sprint attack and C7 allow him go past up to medium-thick walls. Since he has a Samurai-style musou, he can also be used to setup angled glitch, although realistically, you'd probably rather use his energy for speed movement.
@@ -49,8 +53,6 @@ This is the most commonly used movement tactic in individual level runs since it
 Each use of his air special costs 45 musou. At lv. 1, you can do it 3 times without having to refill your musou. At lv. 7 you get 4 uses, lv. 20+ you get 5 uses, lv. 100, you get 9 uses.
 
 ### Other notes
-
-Benkei's air special can hit enemies through walls, but at such a short range it's unlikely to be useful.
 
 Benkei can't contribute to infinite jumps in any other capacity than as a jump finisher since his air special ends in a downsmash. This also prevents him from doing a good wallzip.
 
@@ -88,7 +90,7 @@ She has no known way to attack through walls.
 
 Her air charge attack features a flashy looking somersault through the air. Unfortunately, most of its apparent height gain is fake, so it can't be used in Save & Quit infinite jumps very effectively.
 
-Cai Wenji gains an aura around her after doing her EX. I'm not sure if this is an actual buff, or if it's just an indication that the falling projectile effect is still active.
+Cai Wenji gains an aura around her after doing her EX. I'm not sure if this is an actual buff, or if it's just an indication that the falling projectile effect is active.
 
 ## Cao Cao
 
@@ -113,6 +115,62 @@ Cao Cao's air special helps him hover and also gives slight height inside an inf
 ### Average combat setup
 
 His ground special leaves a kind of a force field which lingers a few seconds after the attack animation has ended, potentially allowing slight multi-tasking.
+
+## Cao Pi
+
+• Speed / Focus + Fellowship
+
+### Great angled glitch
+
+Cao Pi can bypass even thick walls by using his sprint attack while angled. C3 and C4 also work for medium-thick walls. Ground special and C6 additionally work for thin walls.
+
+### Average attacking through walls
+
+Air special can hit a short distance through walls.
+
+### Good high jump
+
+Cao Pi has natural access to double jump. His air charge attack can also give him some height while also moving him backwards. His highest known jump is double jump -> air charge attack (turning away from the wall), which is enough to cross tier 1 and around 4 steps in Luoyang.
+
+### Average speed movement
+
+Double jumping everywhere allows Cao Pi to move much faster than his default 135 Speed. Still, like all double jumping movement tactics, this doesn't obsolete horse.
+
+### Situational wallzip
+
+Cao Pi can't use his air special to do a good wallzip, but his air charge attack is lengthy enough that it can actually give decent height. The worst part is that you can't chain it into anything else afterwards, but it might still come in handy in classic WO3 where air specials aren't available.
+
+### Average sloped floor clip
+
+The fast movement in his C3 is enough to clip through sloped floor with Agility 10. But it's not as powerful as Jia Xu's C1 zip, and I haven't been able to clip Anegawa stairs with it.
+
+Ground special also has a zip, but it doesn't seem to be fast enough to even clip through Nanzhong stairs.
+
+### Other notes
+
+He can't contribute to infinite jumps because his air special ends in a downsmash.
+
+If you interrupt his air special with angled floor, the projectile continues flying by itself until it reaches ground.
+
+## Cao Ren
+
+• Power / Fortitude + Power
+
+### Good angled glitch
+
+He can bypass up to medium-thick walls by using his sprint attack while angled.
+
+### Average infinite jump
+
+He can hover as a part of an infinite jump chain with his air special. The air special is quite fast, so he can be a decent team mate when paired with an actually good infinite jumping character.
+
+### Other notes
+
+He doesn't have a way to attack through walls.
+
+He is one of the least acrobatic characters in the game, with a rather low regular jump and no good ways to extend it. His air charge attack responds to air momentum and can give him a little extra height if done early in the jump, but it doesn't help much.
+
+His C6 has the same "magnetic" effect as Xu Huang's attacks.
 
 ## Dian Wei
 
@@ -155,6 +213,10 @@ Hanzo Hattori is arguably the best character in the game for chainable vertical 
 ### Top high jump
 
 Hanzo Hattori's naturally high ground jump, air special and ability to double jump allow him to gain respectable height even while solo. He can cross tier 2 in Luoyang with double jump -> air special -> double jump.
+
+### Average speed movement
+
+Double jumping everywhere allows him to move faster than his default 150 Speed. Still, like all double jumping movement tactics, this doesn't obsolete horse.
 
 ### Average sloped floor clip
 
@@ -326,11 +388,15 @@ If you do the C5 downsmash past a ledge, the animation will not continue indefin
 
 • Speed / Speed + Recovery
 
+### Average attacking through walls
+
+She can hit a short range through walls using her air special (and maybe musou?) but the range is so short that it's unlikely to help.
+
 ### Top angled glitch
 
 Xingcai is able to bypass even thick walls very quickly by using either her ground or air special. Musou and C5 also work for medium-thick walls, although both of these options are slower.
 
-As a side note, she becomes unable to infinite jump effectively while angled because the forward movement in her air special makes her lose all her height.
+As a side note, she becomes unable to infinite jump effectively while angled because the forward movement in her air special makes her lose a lot of height.
 
 ### Top infinite jumper
 
@@ -342,17 +408,53 @@ Using the air charge attack can be a bit tricky at first. If you mess up your ti
 
 All of this makes her the most reliable infinite jump team member in the game, good for any kind of a situation. There's rarely any reason not to use her as the other infinite jump character whenever she's available.
 
+### Great high jump
+
+Xingcai has a naturally high jump and it can be extended with double jump as well. As elaborated above, her air charge attack and air special are also helpful for gaining height.
+
+Her highest known solo jump is double jump -> charge air attack -> air special -> jump -> charge air attack. This is enough to easily cross tier 2 at Luoyang.
+
 ### Good speed movement
 
 Her ground special makes her ride around on her shield. This movement benefits from Agility and can be sped up with jump cancelling. With Agility 10, this should correspond to around 205 or 210 speed, and as such, it can obsolete a horse. The worst part is that it costs a lot of musou to move around like this.
 
 Repeatedly doing her air special is also a speed movement tactic, although overall this is slightly slower than using the ground special. Might be useful to re-time this.
 
+Double jumping everywhere allows her to move much faster than her default 135 Speed, which could be a decent back-up movement if you're out of musou.
+
 ### Other notes
 
-She can hit a short range through walls using her air special (and maybe musou?) but the range is so short that it's unlikely to help.
-
 The downsmash of her air charge attack has one of the fastest falling speeds in the game. Knowing this might be useful in the rare circumstance where it's necessary to descend quickly.
+
+## Xu Huang
+
+• Power / Solidarity + Vitality
+
+### Good angled glitch
+
+Xu Huang can bypass up to medium-thick walls while angled with his sprint attack. C1 works on thin obstacles as well.
+
+### Average attacking through walls
+
+The last hit of his air special can hit a few meters through walls.
+
+### Average high jump
+
+His highest known jump is jump -> air special, which is enough to pass tier 1 and 3 steps in Luoyang.
+
+### Average speed movement
+
+Xu Huang has an air special that ends in a droopy downsmash, and he can fly quite a long distance through air with it. With Agility 10, the maxmimum speed of the air special is close to Speed cap. However, you need quite a specific circumstance and a lot of height to truly benefit from this tactic because of its fairly high musou cost and slow wind-up time. This works equally well on any vsync.
+
+### Unique magnetic attacks
+
+Most of Xu Huang's basic attacks magnetically grab enemies. Only a few characters in the game have access to this effect. If you equip Xu Huang with a low attack power weapon, you can use his attacks to toss enemies around and move them a surprisingly long distance. Perhaps something like this could save time in a level where you have to specifically manipulate a hostile enemy officer's location without them dying, although so far this is strictly theoretical.
+
+### Other notes
+
+Xu Huang can't participate in infinite jumps nor do wallclimbing due to his downsmash air special.
+
+Xu Huang has a weird negative offset while riding a horse compared to most other Dynasty-characters - his physical location is maybe around 30 cm further back on the mount. This causes him to dismount quite far away from his horse, making sloped floor clipping with a mount easier to perform.
 
 ## Xu Zhu
 
@@ -398,6 +500,8 @@ Before you have maxed out Speed, simply jumping and doing Yukimura Sanada's air 
 
 Alternatively, simply doing C1 to sprint forward, doing two swings and jump cancelling out of the second attack with Agility 10 gives you a nearly 240 Speed hybrid movement without costing any musou.
 
+He can also simply double jump everywhere to move at a decent speed without any musou costs, but the C1 movement tactic should be superior if the terrain simply allows it.
+
 ### Skill breakpoints
 
 Each use of his air special costs 20 musou. At lv. 1, you can do it 9 times without having to refill your musou. Lv. 10 gives you 11 uses, lv. 17 gives you 12 uses and lv. 25 gives you 13 uses.
@@ -405,6 +509,56 @@ Each use of his air special costs 20 musou. At lv. 1, you can do it 9 times with
 ### Other notes
 
 His air special can hit a few meters through walls, but it's usually too little to be useful.
+
+## Zhang He
+
+• Wonder / Impulse + Focus
+
+### Great angled glitch
+
+He is able to bypass even thick walls while angled using his EX. Additionally, his musou and C5 also work for medium-thick walls and sprint attack and C6 work for thin walls.
+
+### Great high jump
+
+Zhang He's regular jump is naturally quite high. Furthermore, his three-hit regular air attack combo gives him extra height, and he can also interrupt the combo with his air special to do it twice during a single jump. Also, his EX is a launcher which gives him more height than a regular jump.
+
+His highest known solo jump is EX -> regular air attack string -> 3rd hit interrupted with special -> another air attack string -> 3rd hit interrupted with charge attack. This is enough to easily cross tier 2 and even more in Luoyang.
+
+### Good infinite jump
+
+He can use his air attacks and air special to hover and move forward during an infinite jump combo. His regular air attack combo can give him some guaranteed height each jump cycle. However, he tends to fall down quite fast after his air special since his speed will be buffed, which is something to be wary of.
+
+### Great speed movement
+
+Zhang He can buff his own speed using his air special. He and Xiahou Ba share an especially powerful speed buff which seems to double their animation speed for around 10 seconds.
+
+There's more about using this speed movement technique [here](https://github.com/Nelitarnia/WO3U-speedrun-guide/blob/main/WO3U-speedrun-guide.md#Speed-buffing).
+
+### Top wallzip
+
+Zhang He is the ultimate wallzipping character in this game. The main reason for this is his powerful speed buff which makes wallzipping easier to perform. It's still not nearly 100% consistent, but he and Xiahou Ba are as good as it gets as far as this finicky technique is concerned. Overall, I prefer Zhang He over Xiahou Ba since his air special is slightly faster to setup and his higher jump makes navigation with him feel more agile before and afterwards too.
+
+### Average sloped floor clip
+
+Zhang He can generate such a high temporary velocity with a speed buffed C4 that he can clip through some sloped floor, like the staircase in Nanzhong. However, this technique has its limitations, and it doesn't seem to work at shorter stairs (like in Anegawa).
+
+### Average combat setup
+
+Being able to speed buff gives him some advantage in less straightforward combat encounters.
+
+### Skill breakpoints
+
+Each use of his air special costs 45 musou. At lv. 1, he gets 4 uses before running out of musou. At lv. 13, he gets 5 uses.
+
+### Other notes
+
+Zhang He has no known way to attack through walls.
+
+He falls down very fast while his speed is buffed. Knowing this might be useful in the rare case where you need to fall down quickly.
+
+If you use Zhang He's speed buff and then get on a mount, the whole mount gets the shadow image effect of the speed buff but doesn't actually become faster.
+
+The speed buff ends early if Zhang He uses his musou, but the graphical effect still remains active for a time. Starting TTA also ends the speed buff early.
 
 ## Zhang Liao
 
