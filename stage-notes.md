@@ -4,6 +4,7 @@ Most stage unlocks aren't listed for the main campaign for now because they can 
 
 # Table of Contents
 
+### [Notes](#Notes)
 ### [Chapter 1](#Chapter-One)
 ### [Chapter 2](#Chapter-Two)
 ### [Chapter 3](#Chapter-Three)
@@ -12,8 +13,30 @@ Most stage unlocks aren't listed for the main campaign for now because they can 
 ### [Chapter 6](#Chapter-Six)
 ### [Chapter 7](#Chapter-Seven)
 ### [Chapter 8](#Chapter-Eight)
-### [DLC Stages](#DLC-Stages)
-### [Unlock conversations](#Unlock-conversations)
+### [DLC Stages](#Extra-Stages)
+### [Unlock Conversations](#Unlock-Conversations)
+
+# Notes
+
+## NPC replacement
+
+Here's a subtle game mechanic that might be useful to take into account when deciding which characters to use in each level.
+
+The game generally tries to avoid having duplicate characters in any main story level. If your team has the same character who would appear inside some level as an important NPC, the game will replace their non-playable version with a generic NPC instead. For instance, Ma Chao becomes "Ma Teng" and Taigong Wang becomes "Vela".
+
+Mechanically these generic NPCs fill the same role as the regular NPC would've had, although there may be small differences here and there depending on the level. Generic NPCs usually have fewer lines compared to regular NPCs, which might save time skipping text boxes. But on the other hand, generic NPCs move slower than any playable character, with a Speed somewhere in the 110-120 range, which is extremely bad for escort missions.
+
+## Movies on/off?
+
+There's an option to disable movies from the Options-menu. If movies are disabled, the game handles any cinematic bits inside the levels differently. A short list of changes:
+
+- Level intro cinematics are entirely skipped, but a few seconds of extra loading time will still be present when starting a level that has an intro cinematic.
+- Level event cutscenes (like rolling boulders appearing, etc.) are entirely skipped with no fade-to-black.
+- Cinematic dialogues (like Huang Zhong's death in Battle of Yiling) become regular unskippable text messages.
+
+Having movies off is generally better for going fast - after all, in-level cutscenes not only slow you down, but they flat out interrupt whatever you were doing, which can even ruin an infinite jump or another glitch tactic you're trying to set up.
+
+However, in rare cases there might be a benefit to keeping movies enabled. For instance, sometimes you might actually WANT to have an in-game movie to interrupt something, like the slow finale attack animation of a TTA. The way cinematic dialogues turn unskippable might also be a bad thing in a level which has a ton of unskippable dialogue you have to wait through in the first place.
 
 # Chapter One
 
@@ -955,7 +978,7 @@ Other: color modification ability.
 
 - Recommended team: Kyubi, Okuni, Yuan Shao
 
-# DLC Stages
+# Extra Stages
 
 ## Virtue's Burden
 
@@ -1174,8 +1197,7 @@ Other: color modification ability.
 - Recommended team: Huang Zhong, Huang Gai, Yoshihiro Shimazu
 
   
-
-# Unlock conversations
+# Unlock Conversations
 
 Some stages can only be unlocked by talking to your characters at the camp. For these conversations to appear, you have to have unlocked all the characters who appear in the conversation. Some conversations probably have a hidden requirement and cannot appear until reaching a specific Chapter. Alas, it's necessary to try to figure this stuff out for a potential 100% speedrun route.
 
