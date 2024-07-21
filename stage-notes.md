@@ -12,7 +12,7 @@ Most stage unlocks aren't listed for the main campaign for now because they can 
 ### [Chapter 6](#Chapter-Six)
 ### [Chapter 7](#Chapter-Seven)
 ### [Chapter 8](#Chapter-Eight)
-### [DLC](#DLC)
+### [DLC Stages](#DLC-Stages)
 ### [Unlock conversations](#Unlock-conversations)
 
 # Chapter One
@@ -955,7 +955,7 @@ Other: color modification ability.
 
 - Recommended team: Kyubi, Okuni, Yuan Shao
 
-# DLC
+# DLC Stages
 
 ## Virtue's Burden
 
