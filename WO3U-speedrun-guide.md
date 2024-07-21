@@ -116,6 +116,8 @@ Secondly, characters who can buff their own animation speed have a noticeable ad
 
 Thirdly, certain pieces of collision or arrangements of level objects can greatly increase the chance of a wallzip. For instance, there's a nearly guaranteed wallclimb location in Luoyang if you position your character in between one of the opened palace doors and the nearby large pots. It seems tight spaces are generally good for doing wallzips.
 
+Weapon attack speed as influenced by Agility/Potency/Precision probably influences the consistency and clearly influences the effectiveness of each wallzip. Agility 10 increases the general velocity of the wallzip and depending on the attack it may also make your height overshoot, resulting in a high "bounce" once the current animation ends. Potency/Precision on the other hand slows down the general velocity, making you gain only maybe two thirds of the height that you'd gain with Agility 10. It seems the slower velocity also prevents the possibility of your height overshooting at the end of the current animation.
+
 There's a [tier list](#Character-tier-lists) further down listing which characters are the best at wallzipping.
 
 This glitch works in the original WO3 too, but it's more difficult to take advantage of since there are no air specials - you can only do a limited height wallzip that can't be chained into further air attacks.
@@ -493,6 +495,36 @@ Upgrade stone duping lets you upgrade any character's stats to maximum, which is
 https://www.youtube.com/watch?v=jJ58lzDG5Uo
 
 # Other mechanics details
+
+## Level elements
+
+### Out of bounds notes
+
+As mentioned above, it's possible to escape map boundaries entirely using [Wang Yi zipping](#Wang-Yi-zipping). There seems to be a chest floating out of bounds in each map, usually situated in one of the map's corners. Does this signify the map's point of origin? It's possible to hit and open the chest with some precise infinite jumping movement, but at least based on a few attempts, nothing special happens afterwards.
+
+All the wall collision is two-sided and generally rather disallowing out of bounds. It's usually not possible to get much closer to the in-bounds area once you're fully outside since the level geometry will simply block you sooner or later. If this wasn't the case, Wang Yi-zipping might've allowed doing some unique officer sniping tactics from outside the playable area. It's also not uncommon to get stuck inside a "pocket" of intersecting walls somewhere near the playable area if Wang Yi zipping doesn't throw you all the way outside the map.
+
+Going fully out of bounds has some differences between PC vs console:
+- Double jumping seems to grant your character no horizontal velocity, forcing you to exclusively move around with aerial attacks like Yukimura's air special. If you fall to the bottom of the map, the whole screen goes dark and the map indicator showing your location is no longer updated, so it's impossible to tell where you are. You also lose control of your entire character if you don't immediately double/infinite jump back into air.I tried infinite jumping for a while when the screen was dark - I could hear audio, but never got visibility back.
+- If you fall to the bottom of the map on console, you can instead see that your character becomes invisible when hitting the bottom of the map - or perhaps they vanish entirely. Doing ground actions is not possible at the moment, but jumping allows you to escape the bottom of the map and become visible again. All aerial actions seem to interrupt instantly as you land on the bottom of the map. It's much easier to do out of bounds exploration on console because of this reason, although for now going far outside the map serves no practical purpose, it just looks neat. But testing hasn't been systematic on this front.
+
+## Horse
+
+### Mount riding offset difference
+
+Different characters sit at a slightly different position on the horse. I first noticed this with Xu Huang, who seemed to sit notably further back on the horse compared to Samurai-characters. You can test this by switching characters and noticing how the camera changes depending on the offset. So far, I haven't found anything useful to do with this knowledge, other than it might impact how easy sloped floor clipping with a mount is for any given character.
+
+Most of the offset difference happens on the y-axis, with Gracia and Nene sitting as close to the front of the horse as possible and Dian Wei and Guo Jia sitting as far back as possible.
+
+A few odd characters have some x-axis offset difference too. Sun Wukong and Xiahou Dun sit relatively slightly more left on the horse whereas Kojiro Sasaki sits relatively to the right.
+
+Note: Gyuki, Hundun and Kyubi are hard to place since they come with unique camera distance. Ayane and Ryu Hayabusa have a lower height on the saddle than most characters?
+
+### Mount dismounting animations
+
+Different characters have different kind of dismount animations. Some dismount further back from the horse, some dismount further to the side, some don't move very much while dismounting. These subtle differences impact sloped floor clipping with a mount, granting an advantage to any character who can leap a long distance.
+
+Overall, Hundun seems to have biggest sideways movement while dismounting, Momiji seems to have biggest backward movement while dismounting. Fu Xi, Kiyomori Taira or Sun Wukong might overall have the shortest dismounting distance out of all the characters.
 
 ## Weapons
 
