@@ -7,6 +7,8 @@ Detailed information on the glitches &amp; mechanics of Warriors Orochi 3 Ultima
 
 - [Warriors Orochi 3 Ultimate speedrun guide](https://github.com/Nelitarnia/WO3U-speedrun-guide/blob/main/WO3U-speedrun-guide.md)
 - [Individual character notes](https://github.com/Nelitarnia/WO3U-speedrun-guide/blob/main/character-notes.md)
+- [Notes about different stages](https://github.com/Nelitarnia/WO3U-speedrun-guide/blob/main/stage-notes.md)
+- [Notes about different maps](https://github.com/Nelitarnia/WO3U-speedrun-guide/blob/main/map-notes.md)
 
 ...more to come soon?
 
