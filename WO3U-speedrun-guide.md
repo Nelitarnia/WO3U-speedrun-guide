@@ -307,7 +307,7 @@ This small oddity doesn't seem to happen at all with Samurai-style characters.
 - [Garrison gate clip](#Garrison-gate-clip)
 - [Sloped floor clip](#Sloped-floor-clip)
 - [Sloped floor clip with a mount](#Sloped-floor-clip-with-a-mount)
-- [Special attack offset bug](#Special-attack-offset-bug)
+- [Special move offset bug](#Special-move-offset-bug)
 - [Soul splitting](#Soul-splitting)
 - [Delayed input bugs](#Delayed-input-bugs)
 - [Escort mission time saves](#Escort-mission-time-saves)
@@ -373,17 +373,19 @@ https://www.youtube.com/watch?v=YOV41v-SfrM
 
 ### Sloped floor clip
 
-Sloped floor means any walkable area that has a steep elevation, such as staircases. Sloped floor operates under different rules than other collision, and any character who can just get a high enough velocity can clip through it. Having Agility on your weapon makes sloped floor clipping more consistent, as Agility increases the effective velocity your character has during attacks.
+Sloped floor means any walkable area that has elevation, such as staircases. Sloped floor operates under different rules than other collision, and any character who can just get a high enough velocity can clip through it. Having Agility on your weapon makes sloped floor clipping more consistent, as Agility increases the effective velocity your character has during attacks.
+
+Besides clipping through sloped floor with high velocity attacks, in some circumstances it's possible to give yourself an instant "zip" using a [special move offset bug](#Special-move-offset-bug). Such a fast zip is also something that the game doesn't know how to respond to, allowing you to clip past sloped floor.
+
+Some characters are able to easily clip through sloped floor solo. For instance, Jia Xu has a moment of incredibly high-velocity movement during his C1. Taigong Wang also has an easy access to a fairly large instantaneous zip thanks to the aforementioned special move offset bug. If it seems relevant, see the [tier list](#Character-tier-lists) section to find out who is the best for sloped floor clipping solo. However, nowadays this glitch has become nearly universally doable thanks to some new tactics like [sloped floor clipping with a mount](#Sloped-floor-clip-with-a-mount).
 
 Usually clipping through sloped floor isn't very helpful. If there's nothing underneath, your character will be returned back to ground level as soon as they are neutral, preventing you from staying out of bounds. However, in certain levels you can find sloped floor with a second floor underneath, such as the small stairways in Anegawa. At places like this, sloped floor clipping could potentially offer an alternative route through the level. But still... as a glitch tactic, it only has some fairly niche uses.
 
-The game has a subtle mechanical limitation - the "stairs speed rule" - which caps a character's aerial Speed at under 150 and notably slows them down if they are in air over most staircases or angled collision. This is probably a counteracting measure by the developers to try to prevent sloped floor clipping with high-speed air attacks, and it does make it harder or impossible in some cases. However, it doesn't impact speed tactics which are strictly ground-based or which don't use the character's base Speed (like most air specials).
+Sloped floor clipping is easier with ground-based actions due to the "stairs speed rule" which limits a character's aerial Speed at around 150-180 if they are in air over most staircases or slippery floor. This rule has probably been specifically invented to prevent accidental sloped floor clipping around the game.
 
-The best character for clipping through sloped floor is Taigong Wang thanks to a special attack offset bug which allows him to zip backwards controllably. Second best is Jia Xu thanks to his C1 that temporarily gives him such a high velocity that he can easily clip through most sloped floor. See which other characters are able to do this glitch from the [tier list](#Character-tier-lists) section.
+Most tactics for going through sloped floor work better on vsync 30 since collision seems much harder to breach on higher frame rates. However, special move offset bug seems to work fairly well for sloped floor clipping even on vsync 60.
 
-It should be added that most tactics for going through sloped floor work better on vsync 30. Sloped floor collision seems much tighter and harder to breach on higher frame rates.
-
-Since the original Warriors Orochi 3 did not have infinite jumping, sloped floor clip might be more useful in that game to f.e. do some unique shortcuts in levels like Anegawa or Honnoji.
+This glitch works in the original WO3 as well. Since that game did not have infinite jumps, sloped floor clip might be more useful there to do some unique shortcuts in levels like Anegawa or Honnoji.
 
 **Videos:**\
 1, Akheon's vid\
@@ -391,40 +393,46 @@ https://www.youtube.com/watch?v=JTSHQmneesw
 
 ### Sloped floor clip with a mount
 
-Sloped floor clip becomes universally doable with any character with the help of a mount.
-
 Simply leaving your mount standing on sloped floor and then pushing against it from below at high speed can give you additional leverage for clipping through. The "ceiling" provided by the collision of your mount lets you to clip sloped floor without needing such a high velocity as you normally would, this giving new characters access to sloped floor clips. This can be done with any of your mounts, but elephant and bear are easier than the horse in my opinion.
 
 The bear is particularly unique. With some setups, all you need to do to clip through steep sloped floor is to run against the bear at a high speed. This means that essentially any character with a high enough running speed can now do sloped floor clip, making this rather esoteric trick much more accessible for a larger variety of different teams.
 
 With bear or elephant, dismounting while the mount's back-left side is against some collision like a railing can also create a sloped floor breach. You can use the repelling force of the railing and the mount to "zip" you at a high enough speed upstairs that you clip through the floor. The positioning is easier to do with characters like Momiji and Hundun who leap a maximally long distance away from the mount when dismounting. Bear is much easier for this kind of a clip than elephant since elephant is a much taller mount.
 
-2, AKheon's vid of sloped floor clipping with a mount:\
+1, AKheon's vid of sloped floor clipping with a mount:\
 https://www.youtube.com/watch?v=rn7_53Zts6k
 
-### Special attack offset bug
+### Special move offset bug
 
-This is an obscure mechanics bug which impacts certain special moves. If you interrupt an attack with a special that has an offset bug, your character's location will be immediately reset to the point where it was at the start of the attack. In practice, this will make the character zip forward or backwards the same distance they had moved since start of the attack. So, what's the use of this? The most obvious use (and it's not particularly obvious) is that zipping gives your character an extremely high velocity for a moment, which may allow them to clip sloped floor.
+This is an obscure mechanics bug which impacts certain special moves. If you interrupt an attack with a special that has an offset bug, your character's location will be immediately reset to the point where it was at the start of the attack. In practice, this will make the character immediately zip forward or backwards - potentially quite a large distance too. So, what's the use of this? The most obvious use - and it's not particularly obvious - is that zipping gives your character an extremely high velocity for a moment, which allows them to clip sloped floor.
 
-To try this out for yourself, pick Taigong Wang. Start doing his sprint attack but interrupt it with his ground special before the attack animation is over. He should now zip backwards up to 2 meters as the special move begins, and if you do this on a staircases, he will clip through it. You can use the ground special to interrupt almost any regular move in Taigong Wang's movelist to do a zip, but his sprint attack is likely his best attack for this purpose since it has so much forward movement.
+To try this out for yourself, pick Taigong Wang. Start doing his sprint attack but interrupt it with his ground special before the attack animation is over. He should now zip backwards up to 2 meters as the special move begins, and if you do this on a staircases, he will clip through. You can use the ground special to interrupt almost any regular move in Taigong Wang's movelist to do a zip, but his sprint attack is likely his best attack for this purpose since it has so much forward movement.
 
 Some characters like Motonari Mori and Kotaru Fuma have a buggy air special instead. There aren't as many opportunities to interrupt attacks with an air special than there are with a ground special because grounded attacks by default always cancel into ground specials. However, especially the Samurai-characters have many attacks which cancel into air specials instead, even when it seems like it shouldn't make sense. For example: you can interrupt Motonari Mori's sprint attack with his air special to do an even bigger zip than with Taigong Wang.
 
 Sadly, air specials are a bit harder to use for sloped floor clipping because they usually position your character upwards, making it harder to stay below ground level after clipping. This also means you can't use these characters for clipping sloped floor in the original WO3, because it didn't have air specials.
 
+It was recently discovered that the double musou intro cutscene has an offset bug. In other words, clipping through sloped floor with an offset bug is now nearly universal and quite easy to do with any character who has a ground-based attack with a lot of movement - exactly the same type that works well for angled glitching as well. In other words, most characters who are great at angled glitch are now great at sloped floor clipping as well thanks to this new tech.
+
 Not all instances of offset bug are helpful. For instance, your horse's musou also has an offset bug. This is pretty easy to observe by doing a Dynasty-style horse boost during the first second or two after you start running with your horse. Your horse will noticeably zip backwards as the musou begins, which is usually a hindrance since it slows down navigation. On the plus side, you can clip through staircases and even take your horse out of bounds by using this trick.
 
 In rare situations, it seems it's possible to clip through a wall using a large zip. For instance, this can happen if you use Taigong Wang or Motonari Mori to zip while inside a very tight space between an opened gate and a wall. Perhaps this tactic would work as a general gate clip in some rare situations, but so far it doesn't seem to work very consistently, and it doesn't seem like you can use a horse to create an artificial cramped space for clipping through gates either. At any rate, this potential application needs a bit more research.
 
+Another potential use for offset bugs would be to immediately backtrack out of an area after hitting a trigger, f.e. to escape an ambush. This would probably only work situationally and with very large zips, like with Benkei's C3.
+
 **Videos:**\
 1, Akheon's vid\
 https://www.youtube.com/watch?v=JTSHQmneesw
+2, AKheon's vid of sloped floor clipping with double musou\
+https://www.youtube.com/watch?v=vMhC7D5wuz8
+3, AKheon's vid of sloped floor clipping with horse musou (it's a Dynasty Warriors 7-video, but the same principle works in Warriors Orochi 3 as well)\
+https://www.youtube.com/watch?v=42gfozt4buM
 
 ### Soul splitting
 
 This is a very unique mechanics glitch I haven't seen in any other musou and which might have some unique niche uses in speedruns.
 
-Character data consists of two parts in WO3U. First part is your character's model. The hurtbox of every attack is a part of the character model, and it's also the character model which reacts to gravity, triggers, water and slippery collision. Second part is your character's collision. This is an invisible bubble which the camera tries to follow at all times. Any attack data related to character positioning is tied to this data element.
+Character data consists of two parts in WO3U. First part is your character's model. The hurtbox of every attack is a part of the character model, and it's also the character model which reacts to gravity and level elements such as triggers, water and slippery floor. Second part is your character's collision. This is an invisible bubble which the camera tries to follow at all times. Any attack data related to character positioning is tied to this data element.
 
 This glitch separates these two data elements, causing odd side effects during most of your character's animations. As a quick example, your character's model will not move at all while doing attacks. Since hurtbox is tied to the character model, in practice this will make almost every attack seem like it has much less reach than before. Meanwhile, the invisible collision bubble and camera keep moving forward according to the current attack's projected movement, only to reset back to the location of the character model at the end of the animation, whichi looks disorienting.
 
@@ -444,7 +452,7 @@ More about the specific theoretical uses and other details of this glitch:
 
 - There are some attacks which work normally despite the glitch. Most air attacks and some ground-based attacks like Kotaru Fuma's musou move you forward like normal.
 
-- Every character can generate an immense amount of speed by jumping frame-precisely after doing an attack. This is because the moment where your character's collision returns back to the character model has an extremely high velocity, and this velocity will carry over to a properly timed jump. The larger the distance between your character's collision and model, the larger the potential speed. Although this looks cool, it may be a bit too difficult to use as a speed movement tactic... right?
+- Every character can generate an immense amount of speed by jumping frame-precisely after doing an attack. This is because the moment where your character's collision returns back to the character model has an extremely high velocity, and this velocity will carry over to a properly timed jump. The larger the distance between your character's collision and model, the larger the potential speed. Although this looks cool, it may be a bit too difficult to use as a speed movement tactic... or is it?
 
 This glitch didn't exist in the original Warriors Orochi 3 since you couldn't use TTA on horseback in it.
 
@@ -456,7 +464,7 @@ https://www.youtube.com/watch?v=5wnc4scTubE
 
 This is an obscure trick with some very niche uses that works at least in Dynasty Warriors 7 and this title.
 
-All the characters/weapons in these games have their own canned combo strings that consist of regular attacks and charge attacks. However, if you avoid tapping buttons and instead give precise input at the last possible moment, your attack animations will usually look much more janky than usual. So what's up with that?
+As you probably know, every character/weapon in these games has its own canned combo strings that consist of regular attacks and charge attacks. However, if you avoid tapping buttons and instead give precise input at the last possible moment, your attack animations will usually look much more janky than usual. So what's up with that?
 
 With only a few exceptions, all the combo animations run at a set timer. No matter how fast or slow you press buttons, the next attack in the combo always starts at a specific frame in relation to the first attack in the combo. If you avoid tapping buttons and instead only give one precise input as late as possible as you continue the combo, the game does not get an early signal to seamlessly switch between attack animations, and the new animation will instead start instantly with some frames dropped from the start so that it would still fit the general timing scheme of the current combo.
 
