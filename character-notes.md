@@ -5,7 +5,7 @@ This section takes an in-depth look at each character in the game from the persp
 It's recommended to read the terminology and glitch tech sections of the [the main WO3U speedrun guide](https://github.com/Nelitarnia/WO3U-speedrun-guide/blob/main/WO3U-speedrun-guide.md) first because their terms and ideas will be mentioned quite often in the below sections. There's also more elaboration on the process with which I evaluated the characters at the [end of the file](#Technical-stuff).
 
 ### *Wei*
-[Xiahou Dun](#Xiahou-Dun), [Dian Wei](#Dian-Wei), [Zhang Liao](#Zhang-Liao), [Cao Cao](#Cao-Cao), [Xu Zhu](#Xu-Zhu), [Xiahou Yuan](#Xiahou-Yuan), [Xu Huang](#Xu-Huang), [Zhang He](#Zhang-He), [Cao Ren](#Cao-Ren), [Cao Pi](#Cao-Pi), [Zhenji](#Zhenji), [Cai Wenji](#Cai-Wenji), [Jia Xu](#Jia-Xu), Pang De, Wang Yi, Guo Jia
+[Xiahou Dun](#Xiahou-Dun), [Dian Wei](#Dian-Wei), [Zhang Liao](#Zhang-Liao), [Cao Cao](#Cao-Cao), [Xu Zhu](#Xu-Zhu), [Xiahou Yuan](#Xiahou-Yuan), [Xu Huang](#Xu-Huang), [Zhang He](#Zhang-He), [Cao Ren](#Cao-Ren), [Cao Pi](#Cao-Pi), [Zhenji](#Zhenji), [Cai Wenji](#Cai-Wenji), [Jia Xu](#Jia-Xu), [Pang De](#Pang-De), Wang Yi, Guo Jia
 ### *Wu*
 Zhou Yu, Lu Xun, Sun Shangxiang, Gan Ning, Sun Jian, [Taishi Ci](#Taishi-Ci), Lu Meng, Huang Gai, Zhou Tai, Ling Tong, Sun Ce, Sun Quan, Xiaoqiao, Daqiao, Ding Feng, Lianshi
 ### *Shu*
@@ -287,6 +287,32 @@ Doing TTA in air is also possible, and this makes the TTA begin in a slightly gl
 I also tried doing double musou like this, but Jia Xu's position was reversed back to where it was before C1 as the double musou scene started, preventing it from being done in air.
 
 I tried if you could do a Xu Shu-style incredibly high velocity air attack by doing C1 off a ledge, then double jumping and frame precisely air attacking out of it, but all I got was an air attack with a regular double jump speed.
+
+## Pang De
+
+• Power / Potence + Fellowship
+
+### Average angled glitch
+
+Pang De is able to bypass thin walls while angled by using either his ground special or musou.
+
+### Average high jump
+
+His air charge attack's trajectory changes depending on existing momentum and it can potentially give quite a lot of height. Conversely, it's not useful at all if used after air special since that resets the momentum.
+
+His highest known jump is jump -> (while rising) air charge attack, which is enough to cross tier 1 and 3 steps in Luoyang.
+
+### Average infinite jump
+
+Pang De's air special keeps him in air and allows gaining slight height, but it's quite slow and a bit inconsistent.
+
+### Average combat setup
+
+His ground special creates local damaging shockwaves that can be used for uncontrollable delayed damage.
+
+### Other notes
+
+Pang De's air charge attack strongly benefits from the vertical momentum overshoot granted by wallzipping with Agility 10 on your weapon. It's a nice synergy, although realistically you're probably not going to use Pang De for wallzipping very often since Zhang He exists.
 
 ## Shuten Doji
 
