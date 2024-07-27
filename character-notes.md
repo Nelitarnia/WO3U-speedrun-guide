@@ -5,7 +5,7 @@ This section takes an in-depth look at each character in the game from the persp
 It's recommended to read the terminology and glitch tech sections of the [the main WO3U speedrun guide](https://github.com/Nelitarnia/WO3U-speedrun-guide/blob/main/WO3U-speedrun-guide.md) first because their terms and ideas will be mentioned quite often in the below sections. There's also more elaboration on the process with which I evaluated the characters at the [end of the file](#Technical-stuff).
 
 ### *Wei*
-[Xiahou Dun](#Xiahou-Dun), [Dian Wei](#Dian-Wei), [Zhang Liao](#Zhang-Liao), [Cao Cao](#Cao-Cao), [Xu Zhu](#Xu-Zhu), [Xiahou Yuan](#Xiahou-Yuan), [Xu Huang](#Xu-Huang), [Zhang He](#Zhang-He), [Cao Ren](#Cao-Ren), [Cao Pi](#Cao-Pi), [Zhenji](#Zhenji), [Cai Wenji](#Cai-Wenji), [Jia Xu](#Jia-Xu), [Pang De](#Pang-De), Wang Yi, Guo Jia
+[Xiahou Dun](#Xiahou-Dun), [Dian Wei](#Dian-Wei), [Zhang Liao](#Zhang-Liao), [Cao Cao](#Cao-Cao), [Xu Zhu](#Xu-Zhu), [Xiahou Yuan](#Xiahou-Yuan), [Xu Huang](#Xu-Huang), [Zhang He](#Zhang-He), [Cao Ren](#Cao-Ren), [Cao Pi](#Cao-Pi), [Zhenji](#Zhenji), [Cai Wenji](#Cai-Wenji), [Jia Xu](#Jia-Xu), [Pang De](#Pang-De), [Wang Yi](#Wang-Yi), Guo Jia
 ### *Wu*
 Zhou Yu, Lu Xun, Sun Shangxiang, Gan Ning, Sun Jian, [Taishi Ci](#Taishi-Ci), Lu Meng, Huang Gai, Zhou Tai, Ling Tong, Sun Ce, Sun Quan, Xiaoqiao, Daqiao, Ding Feng, Lianshi
 ### *Shu*
@@ -379,6 +379,48 @@ Taishi Ci is actually a surprisingly solid infinite jump team member. His air sp
 ### Other notes
 
 Taishi Ci has one of the most damaging musou-attacks of all the early game characters, which makes him quite useful for combat in any% runs.
+
+## Wang Yi
+
+• Speed / Efficacy + Speed
+
+### Good angled glitch
+
+Wang Yi can breach up to medium-thick walls with her EX. Numerous other attacks, including sprint attack, ground special, C1, S6 and musou also work for breaching thin walls.
+
+### Average attacking through walls
+
+Her air special sends out projectiles in an arc. They hit targets that are on the same height as her, even through walls, although the range isn't great.
+
+### Good high jump
+
+She has a high regular jump which is further boosted by the ability to double jump. Air special and possibly air charge attack also contribute a bit of height to a jump.
+
+Her highest known solo jump is double jump -> air special -> jump. This is enough to cross tier 2 at Luoyang.
+
+### Good infinite jump
+
+Her air special gives some height it can be a pretty useful part in an infinite jump combo. For horizontal infinite jumping, she normally contributes negative movement since her air special moves her backwards, but you can steer her sideways during the air special to prevent some of the negative movement. Double jump is good for consistency.
+
+### Neutral L-stick bugs
+
+Both of her air attacks have a [neutral L-stick bug](https://github.com/Nelitarnia/WO3U-speedrun-guide/blob/main/WO3U-speedrun-guide.md#Neutral-L-stick-bugs).
+
+Her regular air attack's cooldown frames increase her current speed exponentially if L-stick is neutral. This speed movement has no upper speed limit, so it will eventually cause Wang Yi's coordinates to seemingly wrap, allowing limited teleportation or going all the way outside map. It's very unique, but also hard to control. There's more about this glitch tactic in [here](https://github.com/Nelitarnia/WO3U-speedrun-guide/blob/main/WO3U-speedrun-guide.md#Wang-Yi-zipping).
+
+Her charge air attack is a downsmash jumping kick. If you leave L-stick neutral, she will move forward a greater distance during each jump kick. This probably only happens on vsync 30.
+
+### Good speed movement
+
+Wang Yi's ground special features fast zips forward and you can cancel its cooldown with a double jump. This is a fairly fast hybrid movement style, but it costs a lot of musou and probably doesn't obsolete a horse in pure Speed.
+
+This can be combined with her air charge attack. By doing a neutral L-stick air charge attack from each double jump, the movement tactic becomes notably faster. It would be helpful to time this for comparison.
+
+For fast movement without any musou costs, just doing her double jump is a consistent way to move faster than her regular 135 running Speed.
+
+### Other notes
+
+She seems to be able to do a S1 -> S2 -> C2 combo with delayed input, but it's frame precise.
 
 ## Xiahou Dun
 
