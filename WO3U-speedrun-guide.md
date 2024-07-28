@@ -422,9 +422,9 @@ Another potential use for offset bugs would be to immediately backtrack out of a
 
 **Videos:**\
 1, Akheon's vid\
-https://www.youtube.com/watch?v=JTSHQmneesw
-2, AKheon's vid of sloped floor clipping with double musou\
-https://www.youtube.com/watch?v=vMhC7D5wuz8
+https://www.youtube.com/watch?v=JTSHQmneesw \
+2, AKheon's vid of sloped floor clipping with double musou \
+https://www.youtube.com/watch?v=vMhC7D5wuz8 \
 3, AKheon's vid of sloped floor clipping with horse musou (it's a Dynasty Warriors 7-video, but the same principle works in Warriors Orochi 3 as well)\
 https://www.youtube.com/watch?v=42gfozt4buM
 
