@@ -168,7 +168,7 @@ Speed buffing is a useful tactic in full game speedruns since you get access to 
 
 There is a way to increase your average speed over the Speed cap while speed buffed, and that is to do running jumps everywhere. This only saves milliseconds and makes navigation rather bumpy, but it's still mildly beneficial to keep jumping while you are speed buffed, whether you're at maxed out Speed or not.
 
-Xiahou Ba is somewhat less effective compared to Zhang He since he starts with a lower base Speed (125), and his ground special is both costlier and slower to perform than Zhang He's air special. However, Zhang He can't be used for speed buffing in the original WO3, since that game doesn't have air specials.
+Xiahou Ba is somewhat less effective compared to Zhang He since he starts with a lower base Speed (125), and his ground special is both costlier and slower to perform than Zhang He's air special. However, Xiahou Ba is your only option for speed buffing in the original WO3 since that game didn't have air specials.
 
 Other characters like Zhang Liao and Ranmaru Mori can also buff their own speed temporarily, but these speed buffs are generally less powerful and have less utility for speed movement purposes.
 
@@ -262,7 +262,7 @@ https://www.youtube.com/watch?v=rQpd9hFCiyg
 
 This trick relies on a [neutral L-stick bug](#Neutral-L-stick-bugs). If you do Zuo Ci's air special with L-stick neutral, you get far more speed than intended and move at a velocity that easily breaks the Speed cap as long as you stay in air.
 
-Timing tests have shown that with Agility 10 your movement speed is equal to Benkei's speed digging (disregarding other factors such as terrain or cooldowns). However, this tactic is overall far more situational and hard to use. First of all, you need more than a single jump's worth of height to make the most out of your buggy velocity. You also lose your super speed if you touch the L-stick or Zuo Ci brushes any walls at any point. This means you can't really steer while doing this tech, and it's not practical to use in tight spaces either.
+Timing tests have shown that with Agility 10 your movement speed is equal to the maximum speed of Benkei's speed digging. However, this tactic is overall far more situational and hard to use. First of all, you need more than a single jump's worth of height to make the most out of your buggy velocity. You also lose your super speed if you touch the L-stick or Zuo Ci brushes any walls at any point. This means you can't really steer while doing this tech, and it's not practical to use in tight spaces either.
 
 Getting super speed also requires a low frame rate. Although it's inconsistent on PS4, it can be done reliably on PC with vsync 30. You get a bit of extra speed to this attack by keeping L-stick neutral even on vsync 60, but it's not quite as much.
 
@@ -270,7 +270,7 @@ This movement tactic doesn't exist in regular WO3 because it doesn't have air sp
 
 ### Pang Tong speed tech
 
-Pang Tong has an air special that lets him propel through the air like a rocket. This attack is rather floaty, allowing you to move in air a fairly long distance at a speed which just barely breaks the Speed cap with Agility 10. It's also much more steerable than most other fast movement techniques.
+Pang Tong has an air special that lets him propel through the air like a rocket. This attack is rather floaty, allowing you to move in air a fairly long distance at a speed which just barely breaks the Speed cap with Agility 10. It's also much more steerable than most other fast movement techniques and isn't reliant on vsync 30 to work.
 
 As for drawbacks, you need some starting height to really make use of this movement tactic. It's also slightly inflexible in the sense that you can't interrupt it early - you're stuck flying in air until you slowly descend back to ground level.
 
@@ -331,9 +331,9 @@ Angled glitch works especially well with attacks that have a non-looping, length
 
 Your character will remain angled until you complete the current level, load an interim save, get on another ladder or ride your horse. Not being able to use a horse is an especially big drawback in some run categories since this will slow down your navigation a lot.
 
-Angled glitch does not fully obsolete infinite jumping for general navigation purposes - for instance, you might want to jump up a steep cliff or over a large river in some level while angled. Being angled can make infinite jumping somewhat wonky, though, with certain characters like Yukimura Sanada becoming nearly unusable since their forward movement propels them heavily downwards.
+Angled glitch does not fully obsolete infinite jumping for general navigation purposes - for instance, you might still want to jump up a steep cliff or over a large river in some level while angled. Being angled can make infinite jumping somewhat wonky, though, with certain characters like Yukimura Sanada becoming nearly unusable since their forward movement propels them heavily downwards.
 
-As a side note, Agility has a negative synergy with angled glitch, making it slightly harder for your character to breach walls.
+As a side note, Agility has a negative synergy with angled glitch. The faster animation speed makes it slightly harder for your character to breach walls.
 
 This glitch DOES work in the original Warriors Orochi 3, where it comes in frequent use due to the lack of infinite jumping options.
 
@@ -375,9 +375,9 @@ https://www.youtube.com/watch?v=YOV41v-SfrM
 
 Sloped floor means any walkable area that has elevation, such as staircases. Sloped floor operates under different rules than other collision, and any character who can just get a high enough velocity can clip through it. Having Agility on your weapon makes sloped floor clipping more consistent, as Agility increases the effective velocity your character has during attacks.
 
-Besides clipping through sloped floor with high velocity attacks, in some circumstances it's possible to give yourself an instant "zip" using a [special move offset bug](#Special-move-offset-bug). Such a fast zip is also something that the game doesn't know how to respond to, allowing you to clip past sloped floor.
+Besides clipping through sloped floor with more conventional high velocity movement, in some circumstances it's possible to give yourself an instant "zip" using a [special move offset bug](#Special-move-offset-bug). Such a fast zip is also something that the game doesn't know how to respond to, allowing you to clip past sloped floor.
 
-Some characters are able to easily clip through sloped floor solo. For instance, Jia Xu has a moment of incredibly high-velocity movement during his C1. Taigong Wang also has an easy access to a fairly large instantaneous zip thanks to the aforementioned special move offset bug. If it seems relevant, see the [tier list](#Character-tier-lists) section to find out who is the best for sloped floor clipping solo. However, nowadays this glitch has become nearly universally doable thanks to some new tactics like [sloped floor clipping with a mount](#Sloped-floor-clip-with-a-mount).
+Some characters are able to easily clip through sloped floor solo. For instance, Jia Xu has a moment of incredibly high-velocity movement during his C1. Taigong Wang also has an easy access to a fairly large instantaneous zip thanks to the aforementioned special move offset bug. If it seems relevant, see the [tier list](#Character-tier-lists) section to find out who is the best for solo sloped floor clipping. However, nowadays this glitch has become nearly universally doable thanks to some new tactics like [sloped floor clipping with a mount](#Sloped-floor-clip-with-a-mount). The esoteric [soul splitting](#Soul-splitting) glitch also makes sloped floor clipping trivial, although it's not always very practical to activate.
 
 Usually clipping through sloped floor isn't very helpful. If there's nothing underneath, your character will be returned back to ground level as soon as they are neutral, preventing you from staying out of bounds. However, in certain levels you can find sloped floor with a second floor underneath, such as the small stairways in Anegawa. At places like this, sloped floor clipping could potentially offer an alternative route through the level. But still... as a glitch tactic, it only has some fairly niche uses.
 
@@ -418,7 +418,7 @@ Not all instances of offset bug are helpful. For instance, your horse's musou al
 
 In rare situations, it seems it's possible to clip through a wall using a large zip. For instance, this can happen if you use Taigong Wang or Motonari Mori to zip while inside a very tight space between an opened gate and a wall. Perhaps this tactic would work as a general gate clip in some rare situations, but so far it doesn't seem to work very consistently, and it doesn't seem like you can use a horse to create an artificial cramped space for clipping through gates either. At any rate, this potential application needs a bit more research.
 
-Another potential use for offset bugs would be to immediately backtrack out of an area after hitting a trigger, f.e. to escape an ambush. This would probably only work situationally and with very large zips, like with Benkei's C3.
+Another potential use for offset bugs would be to immediately backtrack out of an area after hitting a trigger, f.e. to escape an ambush. This would probably only work situationally and with very large zips, like Benkei's C3.
 
 **Videos:**\
 1, Akheon's vid\
@@ -442,7 +442,7 @@ Instructions: get a full TTA-bar. Get on your horse. Ride into deep water or sli
 
 More about the specific theoretical uses and other details of this glitch:
 
-- If you do an attack towards a wall, your character model becomes pushed backwards according to the current attack's projection. Since the model itself has no collision, it will temporarily go through walls. If you have a character with a lengthy "dash" attack like Yukimura Sanada, you can propel the character model backwards up to several meters through walls, potentially hitting enemies and level triggers that are close enough. In other words, this is an alternative and unique way to hit enemies through walls with certain characters, and being able to hit triggers through walls early might allow a skip in some level too. However, so far it hasn't been possible to stay on the wrong side of a wall once the current attack ends. Your character model is always moved back "in bounds" to the side you started from, preventing this tactic from being an universal wall clip.
+- If you do an attack towards a wall, your character model becomes pushed backwards according to the current attack's projection. Since the model itself has no collision, it will temporarily go through walls. If you have a character with a lengthy "dash" attack like Yukimura Sanada, you can propel the character model backwards up to several meters through walls, potentially hitting enemies and level triggers that are close enough. In other words, this is an alternative, unique way to hit enemies through walls with certain characters, and being able to hit triggers through walls early might allow a skip in some level too. However, so far it hasn't been possible to stay on the wrong side of a wall once the current attack ends. Your character model is always moved back "in bounds" to the side you started from, preventing this tactic from being an universal wall clip.
 
 - Although most attacks work so that your character's collision returns back to the character model at the end of the attack, this effect can be reversed with most ground-based attacks if you interrupt the attack in the middle by f.e. jumping or doing an air special. With lengthy "dash" attacks, this allows you to instantly teleport your character model up to several meters, potentially allowing you to bypass level triggers. Yukimura Sanada's air special also works for this purpose, which is convenient since it's the single longest dash in the game.
 
@@ -454,7 +454,9 @@ More about the specific theoretical uses and other details of this glitch:
 
 - Every character can generate an immense amount of speed by jumping frame-precisely after doing an attack. This is because the moment where your character's collision returns back to the character model has an extremely high velocity, and this velocity will carry over to a properly timed jump. The larger the distance between your character's collision and model, the larger the potential speed. Although this looks cool, it may be a bit too difficult to use as a speed movement tactic... or is it?
 
-This glitch didn't exist in the original Warriors Orochi 3 since you couldn't use TTA on horseback in it.
+As a side note, it seems that due to a bug, the on-foot TTA activation animation for all the characters in the game is soul split. This is a way to access the above effects in a limited way in normal gameplay without having to fully set up the soul split glitch, but I wonder if it would be useful?
+
+This glitch doesn't exist in the original Warriors Orochi 3 since you can't use TTA on horseback in it.
 
 **Videos:**\
 1, AKheon's video:\
@@ -504,6 +506,22 @@ https://www.youtube.com/watch?v=jJ58lzDG5Uo
 
 # Other mechanics details
 
+## Combat
+
+### True Triple Attack
+
+It's possible to activate TTA in air with a very precise timing after doing a fast "zip" type attack off a ledge (f.e. Jia Xu's C1). This activates TTA, but the short cinematic scene showing your party up close appears with a short delay of around 2-4 seconds. The delay seems to be longer if you are in air. The cinematic scene stops time and looks a little intrusive since it appears late without any of the normally accompanying screen effects. The cinematic scene won't appear at all if you quickly interrupt TTA by hitting water or slippery floor.
+
+#### Temporary soul split effect
+
+Each character has a unique animation that is played when TTA is activated on-foot. Most of these animations would normally feature movement, but you can't see it during gameplay due to a bug. It seems that this single animation when activating TTA has the same properties as any animation does while the [soul splitting](#Soul-splitting) glitch is active, which means that the character model and its collision become separated temporarily.
+
+If you activate TTA while facing an adjacent wall, most characters will get visibly pushed backwards because of this glitch effect - the amount depends on the animation in question. For example, Hundun and Jia Xu have quite a large movement. Like with soul splitting in general, doing this can push the character model through walls temporarily, although sadly they're returned back in bounds afterwards as if nothing had happened. This backwards movement also allows clipping past sloped floor, but surely more convenient and universal methods already exist for this purpose.
+
+#### TTA finale bug
+
+The TTA finishing animation has a subtly buggy effect which resembles the [special move offset bug](#Special-move-offset-bug). If TTA finale interrupts a lengthy forward-moving animation, your character's model visits the coordinates it was at the start of the attack for a split second before seamlessly returning to its current location. It's not possible to even see this effect, but you can verify it exists at f.e. Nanzhong. Go to the south-east corner of the map where there's a garrison next to some water. Go around its side to reach a small stretch of land between the garrison's outer fence and water. Do a length forward-moving attack like Benkei's C3 towards the fence (with water behind you) as TTA runs out. The attack will interrupt but the TTA finishing move is also interrupted because your character's model warped several meters backwards and hit water for a split second at the same time.
+
 ## Level elements
 
 ### Out of bounds notes
@@ -548,11 +566,13 @@ Mystic weapons are a special category of weapons which were added in Warriors Or
 
 ## Weapon attributes
 
-### Agility
+### Weapon speed modifiers
 
 The game has three weapon attributes - Agility, Potency and Precision - which give a percentage based buff or a debuff to your character's attack speed. Agility can be boosted up to lv. 10, but Potency and Precision are golden attributes that only have one level.
 
-I did some testing to figure out just how much these attributes actually change attack speed by observing the frames of Orochi X's ground special at different levels of Agility. It turns out the logic behind Agility is a bit stranger than expected. Here's a table to illustrate it:
+#### Agility
+
+I observed the frames of Orochi X's ground special at different levels of Agility to see what kind of an impact it actually has. It turns out the logic behind Agility is a bit stranger than expected. Here's a table to illustrate:
 
 | Agility | Lv. 1 | Lv. 2 | Lv. 3 | Lv. 4 | Lv. 5 | Lv. 6 | Lv. 7 | Lv. 8 | Lv. 9 | Lv. 10 |
 | ------- | ----- | ----- | ----- | ----- | ----- | ----- | ----- | ----- | ----- | ------ |
@@ -561,11 +581,9 @@ I did some testing to figure out just how much these attributes actually change 
 
 At first it seems that there's a steady pattern of 1.3% and 2.7% increase with every odd and even level, respectively. However, the pattern resets at lv. 6, and lv. 8 doesn't give any speed boost at all. What a ripoff!
 
-Building up Agility for certain characters might be a worthwhile endeavor in some longer category, so it might be useful to know that even numbers are the best milestones to aim for until you reach Agility 5.
+It seems shorter animations like Wang Yuanji's combos are not impacted at all by Agility 1. Therefore, one could argue Agility 2 is the first good milestone to aim for in speedruns, if it becomes necessary to boost the speed of some character's animations.
 
-To do: test if having Agility 1 even saves any frames with normal length attack animations.
-
-### Potency / Precision
+#### Potency / Precision
 
 Potency and Precision on the other hand slow down your character's attack speed. Either Potency or Precision alone in your weapon seems to give the attack speed penalty of -14.7%. If you have both, the penalty increases to -27.5%.
 
