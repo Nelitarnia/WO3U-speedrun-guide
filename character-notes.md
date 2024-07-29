@@ -5,7 +5,7 @@ This section takes an in-depth look at each character in the game from the persp
 It's recommended to read the terminology and glitch tech sections of the [the main WO3U speedrun guide](https://github.com/Nelitarnia/WO3U-speedrun-guide/blob/main/WO3U-speedrun-guide.md) first because their terms and ideas will be mentioned quite often in the below sections. There's also more elaboration on the process with which I evaluated the characters at the [end of the file](#Technical-stuff).
 
 ### *Wei*
-[Xiahou Dun](#Xiahou-Dun), [Dian Wei](#Dian-Wei), [Zhang Liao](#Zhang-Liao), [Cao Cao](#Cao-Cao), [Xu Zhu](#Xu-Zhu), [Xiahou Yuan](#Xiahou-Yuan), [Xu Huang](#Xu-Huang), [Zhang He](#Zhang-He), [Cao Ren](#Cao-Ren), [Cao Pi](#Cao-Pi), [Zhenji](#Zhenji), [Cai Wenji](#Cai-Wenji), [Jia Xu](#Jia-Xu), [Pang De](#Pang-De), [Wang Yi](#Wang-Yi), Guo Jia
+[Xiahou Dun](#Xiahou-Dun), [Dian Wei](#Dian-Wei), [Zhang Liao](#Zhang-Liao), [Cao Cao](#Cao-Cao), [Xu Zhu](#Xu-Zhu), [Xiahou Yuan](#Xiahou-Yuan), [Xu Huang](#Xu-Huang), [Zhang He](#Zhang-He), [Cao Ren](#Cao-Ren), [Cao Pi](#Cao-Pi), [Zhenji](#Zhenji), [Cai Wenji](#Cai-Wenji), [Jia Xu](#Jia-Xu), [Pang De](#Pang-De), [Wang Yi](#Wang-Yi), [Guo Jia](#Guo-Jia)
 ### *Wu*
 Zhou Yu, Lu Xun, Sun Shangxiang, Gan Ning, Sun Jian, [Taishi Ci](#Taishi-Ci), Lu Meng, Huang Gai, Zhou Tai, Ling Tong, Sun Ce, Sun Quan, Xiaoqiao, Daqiao, Ding Feng, Lianshi
 ### *Shu*
@@ -196,6 +196,38 @@ He can buff his attacks with explosion effects using his EX, although I'm not su
 
 He can't contribute to infinite jumps since his air special ends in a downsmash. This makes him bad for wallzipping as well. He actually gains a surprising amount of height during a wallzip before the downsmash and he *could* probably get over some wall with it, but the lack of steering while in air makes utilizing the extra height that much more difficult. Overall, you'd have to be quite desperate to consider using Dian Wei for a wallzip.
 
+## Guo Jia
+
+• Wonder / Dexterity + Solidarity
+
+### Good angled glitch
+
+Guo Jia can breach up to medium-thick walls while angled using his sprint attack.
+
+### Great attacking through walls
+
+Guo Jia's air special fires a downwards projectile which continues its arc indefinitely until it hits ground and can breach through walls. Close to ground it doesn't reach very far, but you can greatly extend its range if you have height. Like with Xiahou Yuan, with a proper setup you can use this attack to snipe officers from tens of meters away. The range of the projectile seems to be less steep than with Xiahou Yuan so it's easier to extend its range, although I've never measured its pure damage potential.
+
+His other projectiles don't seem to be able to pass through walls.
+
+### Good high jump
+
+His highest known jump is jump (sideways to a wall) -> regular air attack -> air special -> (turning back to the wall) charge air attack. This is enough to cross tier 1 and around 5 steps in Luoyang.
+
+### Average/Good infinite jump
+
+His air special has a quick animation, so it's fast to spam to hover inside an infinite jump chain. It doesn't give much height, but Guo Jia could still come in handy when paired with a better infinite jump character.
+
+### Good combat setup?
+
+Guo Jia has multiple attacks which hit at a long range or leave lingering damage effects which could help prepare for more complex combat scenarios. His musou in particular leaves an AoE damage field that could help in combat multi-tasking, although I'm not sure how high the damage is. Ground special leaves some balls which ricochet around, although this is probably less consistent.
+
+As mentioned above, his air special also has a near-infinite range and can be used to snipe officers at a distance, given proper setup.
+
+### Other notes
+
+Guo Jia's regular air attack has a faster-than-average falling speed. Knowing this might come in handy if you ever need to fall down quickly during a level.
+
 ## Hanzo Hattori
 
 • Speed / Efficacy + Vigor
@@ -284,11 +316,9 @@ Jia Xu's C1 has an incredibly fast forward velocity for a short amount of time, 
 
 ### Other notes
 
-The zip-like forward movement of C1 is so fast that when done off a ledge, the game thinks Jia Xu is on ground an extra frame or two even though he is already in air. This lets you try doing a ground special or a musou while airborne. These moves may get immediately cancelled by gravity, but with a specific timing, Jia Xu will instead immediately warp down to ground level before doing the move like normal. You can even go under water surface using this trick.
+The zip-like forward movement of C1 is so fast that when done off a ledge, the game thinks Jia Xu is on ground an extra frame or two even though he is already in air. This lets you try doing a ground special or a musou while airborne. These moves may get immediately cancelled by gravity, but with a specific timing, Jia Xu will instead immediately warp down to ground level before doing the move like normal. You can even warp under water surface using this trick. Double musou can't be done in air because of its [special move offset bug](https://github.com/Nelitarnia/WO3U-speedrun-guide/blob/main/WO3U-speedrun-guide.md#Special-move-offset-bug) property which immediately sends Jia Xu back to his original location when activated.
 
-Doing TTA in air is also possible, and this makes the TTA begin in a slightly glitchy way. Jia Xu won't teleport to ground level but instead falls down normally as TTA becomes active. However, the scene which stops time and shows your team members up close will only appear at an arbitrary time, after a few seconds has passed. The appearance of the close-up scene can be further delayed by being in air, or so it seems.
-
-I also tried doing double musou like this, but Jia Xu's position was reversed back to where it was before C1 as the double musou scene started, preventing it from being done in air.
+Doing TTA in air is also possible. TTA activates as Jia Xu falls down. The short cinematic scene showing your party up close appears with a short delay of around 2-4 seconds. There are more observations about this in the [main WO3U guide](https://github.com/Nelitarnia/WO3U-speedrun-guide/blob/main/WO3U-speedrun-guide.md#Other-mechanics-details).
 
 I tried if you could do a Xu Shu-style incredibly high velocity air attack by doing C1 off a ledge, then double jumping and frame precisely air attacking out of it, but all I got was an air attack with a regular double jump speed.
 
@@ -408,13 +438,13 @@ Both of her air attacks have a [neutral L-stick bug](https://github.com/Nelitarn
 
 Her regular air attack's cooldown frames increase her current speed exponentially if L-stick is neutral. This speed movement has no upper speed limit, so it will eventually cause Wang Yi's coordinates to seemingly wrap, allowing limited teleportation or going all the way outside map. It's very unique, but also hard to control. There's more about this glitch tactic in [here](https://github.com/Nelitarnia/WO3U-speedrun-guide/blob/main/WO3U-speedrun-guide.md#Wang-Yi-zipping).
 
-Her charge air attack is a downsmash jumping kick. If you leave L-stick neutral, she will move forward a greater distance during each jump kick. This probably only happens on vsync 30.
+Her charge air attack is a downsmash jumping kick. If you leave L-stick neutral, she will move forward a greater distance during each jump kick. This works on both vsync 30 and 60.
 
 ### Good speed movement
 
 Wang Yi's ground special features fast zips forward and you can cancel its cooldown with a double jump. This is a fairly fast hybrid movement style, but it costs a lot of musou and probably doesn't obsolete a horse in pure Speed.
 
-This can be combined with her air charge attack. By doing a neutral L-stick air charge attack from each double jump, the movement tactic becomes notably faster. It would be helpful to time this for comparison.
+This can be combined with her air charge attack. By doing a neutral L-stick air charge attack from each double jump, the movement tactic becomes slightly faster.
 
 For fast movement without any musou costs, just doing her double jump is a consistent way to move faster than her regular 135 running Speed.
 
