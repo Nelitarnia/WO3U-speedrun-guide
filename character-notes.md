@@ -7,7 +7,7 @@ It's recommended to read the terminology and glitch tech sections of the [the ma
 ### *Wei*
 [Xiahou Dun](#Xiahou-Dun), [Dian Wei](#Dian-Wei), [Zhang Liao](#Zhang-Liao), [Cao Cao](#Cao-Cao), [Xu Zhu](#Xu-Zhu), [Xiahou Yuan](#Xiahou-Yuan), [Xu Huang](#Xu-Huang), [Zhang He](#Zhang-He), [Cao Ren](#Cao-Ren), [Cao Pi](#Cao-Pi), [Zhenji](#Zhenji), [Cai Wenji](#Cai-Wenji), [Jia Xu](#Jia-Xu), [Pang De](#Pang-De), [Wang Yi](#Wang-Yi), [Guo Jia](#Guo-Jia)
 ### *Wu*
-Zhou Yu, Lu Xun, Sun Shangxiang, Gan Ning, Sun Jian, [Taishi Ci](#Taishi-Ci), Lu Meng, Huang Gai, Zhou Tai, Ling Tong, Sun Ce, Sun Quan, Xiaoqiao, Daqiao, Ding Feng, Lianshi
+[Zhou Yu](#Zhou-Yu), [Lu Xun](#Lu-Xun), Sun Shangxiang, Gan Ning, Sun Jian, [Taishi Ci](#Taishi-Ci), Lu Meng, Huang Gai, Zhou Tai, Ling Tong, Sun Ce, Sun Quan, Xiaoqiao, Daqiao, Ding Feng, Lianshi
 ### *Shu*
 Zhao Yun, Guan Yu, Zhang Fei, Zhuge Liang, Liu Bei, Ma Chao, Huang Zhong, Wei Yan, Guan Ping, Pang Tong, Yueying, Jiang Wei, Liu Shan, [Xingcai](#Xingcai), Ma Dai, Guan Suo, Bao Sanniang, Xu Shu
 ### *Jin*
@@ -321,6 +321,34 @@ The zip-like forward movement of C1 is so fast that when done off a ledge, the g
 Doing TTA in air is also possible. TTA activates as Jia Xu falls down. The short cinematic scene showing your party up close appears with a short delay of around 2-4 seconds. There are more observations about this in the [main WO3U guide](https://github.com/Nelitarnia/WO3U-speedrun-guide/blob/main/WO3U-speedrun-guide.md#Other-mechanics-details).
 
 I tried if you could do a Xu Shu-style incredibly high velocity air attack by doing C1 off a ledge, then double jumping and frame precisely air attacking out of it, but all I got was an air attack with a regular double jump speed.
+
+## Lu Xun
+
+• Speed / Recovery + Regeneration
+
+### Great angled glitch
+
+Lu Xun can bypass even thick walls using his sprint attack. Ground special and C5 work for medium-thick walls as well. Additionally, thin walls can be breached with C4 and C6 too.
+
+### Average attacking through walls
+
+Air special can hit enemies through walls at a very close range.
+
+### Good high jump
+
+His highest known jump is double jump (towards wall) -> (turn opposite direction) charge attack. This is enough to cross around Tier 1 and 5 steps in Luoyang.
+
+### Average speed movement
+
+Lu Xun has access to double jumping, which allows him to naturally move faster than his 135 Speed. Doing ground special in between double jumps might increase the average speed further, albeit at the cost of some musou.
+
+### Situational wallzip
+
+Like all twin swords users, his air charge attack could perhaps work for doing a specialized wallzip since it gets enough height to cross small walls. Perhaps most useful in the original WO3.
+
+### Other notes
+
+He can't be used for infinite jumping since his air special ends in a downsmash.
 
 ## Pang De
 
@@ -789,6 +817,58 @@ She is able to do a S1 -> S2 -> C2 combo with a precise timing using a delayed i
 If you end Zhenji's speed buff early with a musou, the speed buff's visual effect will still be active afterwards for a few seconds even though actions are no longer sped up.
 
 While speed buffed, riding a horse makes the entire horse emit a double image like Zhenji herself. Sadly, the speed of the horse is not increased.
+
+## Zhou Yu
+
+• Speed / Focus + Speed
+
+### Good angled glitch
+
+Zhou Yu can bypass up to medium-thick walls while angled using his sprint attack, air special or C3. Additionally, C4 also works for thin walls.
+
+### Average attacking through walls
+
+His air special can hit through walls, but at such a short distance it's unlikely to help.
+
+### Good high jump
+
+Zhou Yu can double jump and he also has a unique air charge attack that gives him a lot of height before a downsmash.
+
+C5 can be used as a launcher for starting a high jump. It gives more height than a double jump, although it's so fast that it's hard to get all the potential benefit out of it.
+
+Putting all of this together, his highest known jump is C5 (away from a wall) -> double jump -> charge attack. This enough to nearly cross Tier 2 in Luoyang.
+
+### Situational infinite jump
+
+Zhou Yu has a rather unique air special. It features a forward dash which works extremely well for quick horizontal movement, but the animation tracks ground height and always attempts to keep Zhou Yu at a certain height from ground level. If you do it high in air, Zhou Yu will be quickly pulled downwards to meet this specific height requirement. The amount of height this animation can reset is limited to maybe around 8 meters, but it's easily enough to prevent any height gaining during an infinite jump.
+
+In other words, Zhou Yu is completely unusable for vertical infinite jumping, but he can work well for horizontal infinite jumping in some rare situation where you just want to quickly move forward in air with disregard for height gain or actually *want* to lose height quickly.
+
+To note, because Zhou Yu's air special animation tracks ground height, he cannot dash over deep water without sinking.
+
+### Good speed movement
+
+Zhou Yu has access to double jumps, which allows him to move faster than his natural 135 Speed.
+
+Even besides this, the forward movement of his air special can be used as a movement tactic. Chaining his air special together with Yukimura Sanada's air special allows a fast aerial movement style that is almost precisely as fast as Yukimura Sanada + Xingcai air special chaining, corresponding to slightly above 240 Speed (with Agility 10). This is enough to obsolete a horse in many cases.
+
+### Situational wallzip
+
+Zhou Yu can gain a pretty good amount of height with his air charge attack, although steering is limited during it. It might still help in some desperate situation, like for wallzipping in the original WO3 where air specials don't exist.
+
+To note, Zhou Yu's air special just flat out doesn't seem to work for wallzipping.
+
+### Average combat setup
+
+Ground special creates a small tornado that lingers for a few seconds. This could perhaps help in the faster defeat of a single target, but it won't help with other type of multi-tasking much.
+
+### Average sloped floor clilp
+
+His air special offers an effortless clip past large sloped floors like Nanzhong stairs. However, it does not work at Anegawa or any other more subtle sloped floors.
+
+### Other notes
+
+His regular air attack has a bizarrely high damage box, and it can hit enemies that are over 3 meters above, at least. This is possible to try at Nanzhong under Achilles fight arena.
 
 ## Technical stuff
 
