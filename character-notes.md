@@ -7,7 +7,7 @@ It's recommended to read the terminology and glitch tech sections of the [the ma
 ### *Wei*
 [Xiahou Dun](#Xiahou-Dun), [Dian Wei](#Dian-Wei), [Zhang Liao](#Zhang-Liao), [Cao Cao](#Cao-Cao), [Xu Zhu](#Xu-Zhu), [Xiahou Yuan](#Xiahou-Yuan), [Xu Huang](#Xu-Huang), [Zhang He](#Zhang-He), [Cao Ren](#Cao-Ren), [Cao Pi](#Cao-Pi), [Zhenji](#Zhenji), [Cai Wenji](#Cai-Wenji), [Jia Xu](#Jia-Xu), [Pang De](#Pang-De), [Wang Yi](#Wang-Yi), [Guo Jia](#Guo-Jia)
 ### *Wu*
-[Zhou Yu](#Zhou-Yu), [Lu Xun](#Lu-Xun), Sun Shangxiang, Gan Ning, Sun Jian, [Taishi Ci](#Taishi-Ci), Lu Meng, Huang Gai, Zhou Tai, Ling Tong, Sun Ce, Sun Quan, Xiaoqiao, Daqiao, Ding Feng, Lianshi
+[Zhou Yu](#Zhou-Yu), [Lu Xun](#Lu-Xun), [Sun Shangxiang](#Sun-Shangxiang), Gan Ning, Sun Jian, [Taishi Ci](#Taishi-Ci), Lu Meng, Huang Gai, Zhou Tai, Ling Tong, Sun Ce, Sun Quan, Xiaoqiao, Daqiao, Ding Feng, Lianshi
 ### *Shu*
 Zhao Yun, Guan Yu, Zhang Fei, Zhuge Liang, Liu Bei, Ma Chao, Huang Zhong, Wei Yan, Guan Ping, Pang Tong, Yueying, Jiang Wei, Liu Shan, [Xingcai](#Xingcai), Ma Dai, Guan Suo, Bao Sanniang, Xu Shu
 ### *Jin*
@@ -23,6 +23,11 @@ Yoshimoto Imagawa, Tadakatsu Honda, Ina, Ieyasu Tokugawa, Mitsunari Ishida, Naga
 ### *Samurai 3*
 Gracia, Katsuie Shibata, Kiyomasa Kato, Kanbei Kuroda, Muneshige Tachibana, Kai, Ujiyasu Hojo, Hanbei Takenaka, Motonari Mori, Aya, Masanori Fukushima, Goemon Ishikawa, Musashi Miyamoto, Kojiro Sasaki
 
+### General note
+
+- All Dynasty-style characters are able to use [Dynasty running cycle bug](https://github.com/Nelitarnia/WO3U-speedrun-guide/blob/main/WO3U-speedrun-guide.md#Dynasty-running-cycle-bug) to their benefit, even if it's not separately mentioned in the individual character sections below.
+
+- In the same vein, all characters with a non-downsmash air special have the potential to wallzip, even if I don't always make a separate mention of it.
 
 ## Benkei
 
@@ -195,6 +200,28 @@ He can buff his attacks with explosion effects using his EX, although I'm not su
 ### Other notes
 
 He can't contribute to infinite jumps since his air special ends in a downsmash. This makes him bad for wallzipping as well. He actually gains a surprising amount of height during a wallzip before the downsmash and he *could* probably get over some wall with it, but the lack of steering while in air makes utilizing the extra height that much more difficult. Overall, you'd have to be quite desperate to consider using Dian Wei for a wallzip.
+
+## Gan Ning
+
+• Power / Efficacy + Power
+
+### Good angled glitch
+
+He can bypass up to medium-thick walls with sprint attack.
+
+### Great high jump
+
+His highest known solo jump is jump -> air special -> regular air attack, which is enough to cross tier 2 in Luoyang.
+
+### Average infinite jump
+
+His air special is slightly slow to spam, but it allows hovering and even slight height gain in an infinite jump.
+
+### Other notes
+
+Gan Ning's air charge attack has a faster-than-average falling speed. Could be useful if you have to fall down quickly at some point. Although he shares weapon with Jia Xu, Jia Xu's air charge attack falls down much slower.
+
+You hear annoying bells whenever running around with this character.
 
 ## Guo Jia
 
@@ -413,6 +440,34 @@ Other observations regarding Shuten Doji's musou:
 ### Other notes
 
 Slowing down Shuten Doji's attack speed with Precision + Potency makes his ground and air special hit more times than usual since the damaging effect stays active for longer.
+
+## Sun Shangxiang
+
+• Technique / Impulse + Solidarity
+
+### Great angled glitch
+
+She can bypass even thick walls using her EX while angled. Additionally, sprint attack works for medium-thick walls. Air special and musou also work for thin walls.
+
+### Average attacking through walls
+
+Her air special can hit enemies through walls, although the range is too short to really be useful.
+
+### Average high jump
+
+Her highest known solo jump is jump -> regular air attack -> (instantly afterwards) air special. This is enough to cross about 1 tier and 3 steps in Luoyang.
+
+### Situational speed movement
+
+Sun Shangxiang's air special is a droopy downsmash. With Agility 10, its speed is higher than a horse but lower than speed cap. It could be useful for navigation when done downhill; however, you can't steer during it. It can also cancel by itself while hitting walls in certain conditions?
+
+### Situational wallzip
+
+Her air special can't be used for an useful wallzip, but her air charge attack can gain a decent amount of height and can be steered. It could maybe be useful in the original WO3 to go over a wall somewhere.
+
+### Other notes
+
+She can't be used for infinite jumping since her air special ends in a downsmash.
 
 ## Taishi Ci
 
