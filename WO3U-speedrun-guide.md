@@ -498,10 +498,12 @@ As a side note, if you promote a character through this glitch, you will not unl
 
 To do this glitch with upgrade stones, put the cursor on a character who has a lot of upgrade stones, then press 'X' (or equivalent) at the same time as you press up or down. This will dupe all the upgrade stones to the other promoted character, although you won't see the number get updated until you try using the upgrade stones or back out of the menu.
 
-Upgrade stone duping lets you upgrade any character's stats to maximum, which is essential for preparing your save for NG+ runs. You can even boost a character's Speed up to 500, even though the menu normally only allows increasing Speed to 180/200. To do this, dupe upgrade stones from a character who has less than 180/200 Speed without cancelling out of the menu. The game is only checking if the character you started the glitch with is able to increase their Speed, which leaves the currently selected character free to upgrade their Speed past their current limit. However, so far upgrading Speed past 360 seems redundant, as there are no known instances where having a speed of 500 makes a difference compared to having a Speed of 360 (universal Speed cap).
+Upgrade stone duping lets you upgrade any character's stats to maximum, which is essential for preparing your save for NG+ runs. You can even boost a character's Speed up to 500, even though the menu normally only allows increasing Speed to 180/200. To do this, dupe upgrade stones from a character who has less than 180/200 Speed without cancelling out of the menu. The game is only checking if the character you started the glitch with is able to increase their Speed, which leaves the currently selected character free to upgrade their Speed past their own limitation. However, so far upgrading Speed past 360 seems redundant, as there are no known instances where having a speed of 500 makes a difference compared to having a Speed of 360 (universal Speed cap).
+
+Upgrade stone duping is an old discovery with multiple people documenting it on Youtube, and I'm not sure who is its original discoverer. As far as I know, I was the discoverer of promotion duping.
 
 **Videos:**\
-1, AKheon's video:\
+1, AKheon's video of promotion duping:\
 https://www.youtube.com/watch?v=jJ58lzDG5Uo
 
 # Other mechanics details
