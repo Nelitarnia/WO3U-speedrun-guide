@@ -9,25 +9,139 @@ It's recommended to read the terminology and glitch tech sections of the [the ma
 ### *Wu*
 [Zhou Yu](#Zhou-Yu), [Lu Xun](#Lu-Xun), [Sun Shangxiang](#Sun-Shangxiang), Gan Ning, Sun Jian, [Taishi Ci](#Taishi-Ci), Lu Meng, Huang Gai, Zhou Tai, Ling Tong, Sun Ce, Sun Quan, Xiaoqiao, Daqiao, Ding Feng, Lianshi
 ### *Shu*
-Zhao Yun, Guan Yu, Zhang Fei, Zhuge Liang, Liu Bei, Ma Chao, Huang Zhong, Wei Yan, Guan Ping, Pang Tong, Yueying, Jiang Wei, Liu Shan, [Xingcai](#Xingcai), Ma Dai, Guan Suo, Bao Sanniang, Xu Shu
+Zhao Yun, Guan Yu, Zhang Fei, Zhuge Liang, Liu Bei, Ma Chao, Huang Zhong, Wei Yan, Guan Ping, Pang Tong, Yueying, Jiang Wei, Liu Shan, [Xingcai](#Xingcai), Ma Dai, Guan Suo, [Bao Sanniang](#Bao-Sanniang), Xu Shu
 ### *Jin*
 Sima Yi, Sima Shi, Sima Zhao, Deng Ai, Wang Yuanji, Zhong Hui, Zhuge Dan, Xiahou Ba, Guo Huai
 ### *Other 1*
-Diaochan, Lu Bu, Dong Zhuo, Yuan Shao, Zhang Jiao, Meng Huo, Zhurong, Zuo Ci, Orochi, Dai Ji, Taigong Wang, Sun Wukong, Fu Xi, Nuwa, Yoshitsune Minamoto, Kiyomori Taira
+Diaochan, Lu Bu, Dong Zhuo, Yuan Shao, Zhang Jiao, Meng Huo, Zhurong, Zuo Ci, Orochi, [Da Ji](#Da-Ji), Taigong Wang, Sun Wukong, Fu Xi, Nuwa, Yoshitsune Minamoto, Kiyomori Taira
 ### *Other 2*
-Himiko, Orochi X, Dodomeki, Gyuki, Sanzang, [Benkei](#Benkei), Kaguya, Susano'o, Nezha, [Shuten Doji](#Shuten-Doji), Ryu Hayabusa, Ayane, Joan of Arc, Nemea, Achilles, Seimei Abe, Rachel, Shennong, Momiji, Tamamo, Yinglong, Nezha, Kyubi, Hundun, Kasumi, Sterkenburg, Sophitia
+Himiko, Orochi X, Dodomeki, Gyuki, Sanzang, [Benkei](#Benkei), Kaguya, Susano'o, Nezha, [Shuten Doji](#Shuten-Doji), Ryu Hayabusa, [Ayane](#Ayane), Joan of Arc, Nemea, [Achilles](#Achilles), Seimei Abe, Rachel, Shennong, Momiji, Tamamo, Yinglong, Nezha, Kyubi, Hundun, Kasumi, Sterkenburg, Sophitia
 ### *Samurai 1*
 [Yukimura Sanada](#Yukimura-Sanada), Keiji Maeda, Nobunaga Oda, Mitsuhide Akechi, Kenshin Uesugi, Oichi, Okuni, Kunoichi, Magoichi Saika, Shingen Takeda, Masamune Date, No, [Hanzo Hattori](#Hanzo-Hattori), Ranmaru Mori, Hideyoshi Toyotomi
 ### *Samurai 2*
 Yoshimoto Imagawa, Tadakatsu Honda, Ina, Ieyasu Tokugawa, Mitsunari Ishida, Nagamasa Azai, Sakon Shima, Yoshihiro Shimazu, Ginchiyo Tachibana, Kanetsugu Naoe, Nene, Kotaru Fuma, Toshiie Maeda, Motochika Chosokabe
 ### *Samurai 3*
-Gracia, Katsuie Shibata, Kiyomasa Kato, Kanbei Kuroda, Muneshige Tachibana, Kai, Ujiyasu Hojo, Hanbei Takenaka, Motonari Mori, Aya, Masanori Fukushima, Goemon Ishikawa, Musashi Miyamoto, Kojiro Sasaki
+Gracia, Katsuie Shibata, Kiyomasa Kato, Kanbei Kuroda, Muneshige Tachibana, Kai, Ujiyasu Hojo, Hanbei Takenaka, Motonari Mori, [Aya](#Aya), Masanori Fukushima, Goemon Ishikawa, Musashi Miyamoto, Kojiro Sasaki
 
 ### General note
 
 - All Dynasty-style characters are able to use [Dynasty running cycle bug](https://github.com/Nelitarnia/WO3U-speedrun-guide/blob/main/WO3U-speedrun-guide.md#Dynasty-running-cycle-bug) to their benefit, even if it's not separately mentioned in the individual character sections below.
 
 - In the same vein, all characters with a non-downsmash air special have the potential to wallzip, even if I don't always make a separate mention of it.
+
+## Achilles
+
+- Power / Vitality + Power
+
+### Good attacking through walls
+
+His air special can hit maybe 6-8 meters through walls.
+
+### Good angled glitch
+
+He can go past up to medium-thick walls while angled with sprint attack, C3, C6 or EX.
+
+### Bad high jump
+
+He is not acrobatic at all. His regular jump height isn't impressive, and he can barely use attacks to extend it.
+
+Highest jump so far: jump -> air charge attack. This isn't even enough to clear tier 1 at Luoyang stairs, it's pretty bad.
+
+### Average infinite jump
+
+He can hover as a part of an IJ chain, but that's about it.
+
+### Other notes
+
+His air special deals damage to ground level not matter how high Achilles himself is. In other words, it might come in handy if you ever had to infinite jump over some area while defeating enemies underneath.
+
+## Aya
+
+- Wonder / Recovery + Wonder
+
+WIP
+
+### Other notes
+
+She is one of the few characters with no way to clip through walls while angled.
+
+## Ayane
+
+- Speed / Stamina + Thrift
+
+### Good angled glitch
+
+She is able to bypass up to medium-thick walls while angled with her sprint attack. She can also breach thinner walls with her C2 and C4 combo strikes.
+
+Although she is a Samurai-style character and is able to setup angled glitch, realistically you'd rather use her musou for infinite jumping. Not to mention that being a Thrift-character gives her a mild anti-synergy as far as angled glitch is concerned since just having her in the party makes any angled glitch setup different (and potentially slower).
+
+### Good high jump
+
+Ayane has a good advantage in solo high jumps due to having a naturally high jump height, double jump as well as two air attacks (air special and air charge attack) that can give height.
+
+As a side note, she can gain significant height near ledges if you interrupt her C2 combo at its highest point.
+
+Highest jump so far: double jump -> air special -> jump -> air charge attack.
+
+### Great infinite jump
+
+Ayane is one of the game's best infinite jumpers as far as pure height is concerned. While her air special animation doesn't grant a huge amount of height, it's very fast and spammable.
+
+The animation moves her backwards, which can be a little bothersome if you're trying to move forward during the infinite jump.
+
+As a side note, she probably becomes even better as an infinite jumper while angled since the backwards motion starts giving her significant additional height.
+
+### Good speed movement
+
+Ayane has a unique speed movement tactic. Start running, then do her air charge attack, then cancel the landing cooldown with R1 and then jump cancel R1, repeat.
+
+This isn't easy to do consistently due to the bizarre input scheme, leading to a lot of variance in timing. Increasingly so when frame rate is low. You can move faster than regular horse galloping with this speed tactic with some practice, but it costs a lot of musou to perform.
+
+### Average combat setup
+
+Her ground and air specials have a surprisingly long-range, which might help if you have to snipe an officer from a distance.
+
+### Average sloped floor clip
+
+She can clip through some angled floor with her air charge attack, but it's somewhat inconsistent and needs vsync 30. Haven't been able to clip stairs at f.e. Honnoji with her.
+
+## Other notes
+
+She has no known way to attack through walls.
+
+## Bao Sanniang
+
+- Speed / Fortune + Speed
+
+### Good angled glitch
+
+She can breach up to medium-thick walls with her sprint attack or Musou.
+
+### Average attacking through walls
+
+Her air special hits through walls, but the range is really short.
+
+### Average high jump
+
+Although she is an agile Speed-character, none of her air attacks directly help in gaining height.
+
+Highest jump: double jump.
+
+### Average speed movement
+
+Just doing double jump allows her to exceed her default running speed.
+
+Although her air special starts slowly, it seems the downsmash can exceed speed cap with Agility 10. It's difficult to use effectively for speed movement, though.
+
+Her ground special features a fast forward roll that hovers at around 220 speed if you have Agility 10. In other words, she can move slightly faster than regular horse galloping, but this movement costs a lot of musou and is situational at best.
+
+### Situational wallzip
+
+Bao Sanniang can't use her air special to do a wallzip, but her air charge attack is lengthy enough that it could give decent height if setup correctly. This would mostly come in handy in classic WO3, if you ever had to do a wallzip there.
+
+### Other notes
+
+She can't participate in infinite jumping since her air special ends in a downsmash.
 
 ## Benkei
 
@@ -176,6 +290,36 @@ He doesn't have a way to attack through walls.
 He is one of the least acrobatic characters in the game, with a rather low regular jump and no good ways to extend it. His air charge attack responds to air momentum and can give him a little extra height if done early in the jump, but it doesn't help much.
 
 His C6 has the same "magnetic" effect as Xu Huang's attacks.
+
+## Da Ji
+
+- Speed / Acclaim + Expertise
+
+### Good angled glitch
+
+She is able to breach up to medium-thick walls with the following attacks: S3 (barely), C4, C5, S8 (barely).
+
+### Average attacking through walls
+
+Her air special can hit a short length through walls. I'm not sure if having extra height would increase the range?
+
+### Average high jump
+
+Double jump and air charge attack help in extending her jumps.
+
+As a side note: sprint attack lifts Da Ji in air while she is angled. This gives her a slightly higher solo jump in niche circumstances.
+
+Highest jump so far: double jump -> charge air attack. (About 1.3 steps at Luoyang.)
+
+### Average speed movement
+
+She can use double jumping to exceed her natural running speed.
+
+Her charge air attack is a downsmash that adds to her current speed and doesn't have much of a cooldown. It can be used to do a speed movement tactic since it's handy to do from a double jump, and as usual, Agility makes it even faster. However, this is not fast enough to come close to obsoleting your horse.
+
+### Other notes
+
+She can't participate in infinite jumps since her air special ends in a downsmash.
 
 ## Dian Wei
 
@@ -934,6 +1078,8 @@ I've used the following criteria for determining speedrun usefulness:
  
 - Angled glitch. How good a character is for going under walls while angled. Characters who have a convenient access to lengthy non-looping attacks that propel them forward work the best for this purpose.
 - - 0 = character cannot pass any kind of walls while angled. 1 = character can pass thin walls while angled. 2 = character can pass medium-thick walls while angled. 3 = character can pass thick walls while angled. Half a point may be added or removed for conditionality, i.e. a character might get 2,5 if they can breach thick walls but the attack for doing so is inconvenient, like the last hit of a slow combo string.
+ 
+ Note: these tests were made with Agility 10 on character weapon, and it should be noted that the faster animation makes angled glitch less effect. In other words, it's possible that some characters might go up a notch in ratings if you gave them a weapon with less Agility.
  
 - Attacking through walls. How well a character can snipe targets through walls.
 - - 0 = character can't hit anything through walls. 1 = character can hit a short distance (2-5 meters) through walls. 2 = character can hit a medium distance (around 5 - 10 meters) through walls. 3 = character can hit a long or even arbitrarily long distance through walls. Note that these meter amounts are just rough estimates. Half a point may be added or removed for conditionality, i.e. a character might get 2,5 if they can hit a long distance through walls, but you need a specific setup to do so.
