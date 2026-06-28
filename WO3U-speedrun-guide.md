@@ -432,9 +432,18 @@ https://www.youtube.com/watch?v=42gfozt4buM
 
 This is a very unique mechanics glitch I haven't seen in any other musou and which might have some unique niche uses in speedruns.
 
-Character data consists of two parts in WO3U. First part is your character's model. The hurtbox of every attack is a part of the character model, and it's also the character model which reacts to gravity and level elements such as triggers, water and slippery floor. Second part is your character's collision. This is an invisible bubble which the camera tries to follow at all times. Any attack data related to character positioning is tied to this data element.
+Character data consists of two parts in WO3U:
 
-This glitch separates these two data elements, causing odd side effects during most of your character's animations. As a quick example, your character's model will not move at all while doing attacks. Since hurtbox is tied to the character model, in practice this will make almost every attack seem like it has much less reach than before. Meanwhile, the invisible collision bubble and camera keep moving forward according to the current attack's projected movement, only to reset back to the location of the character model at the end of the animation, whichi looks disorienting.
+- Visible character model, which is associated with...
+  - Hurtbox of attacks
+  - Reactions to non-collision level elements like ground elevation, gravity, triggers, water and slippery floor
+
+- Invisible collision capsule, which is associated with...
+  - Tracking wall reactions
+  - Tracking camera positioning
+  - Tracking some character positioning-related attack data
+
+This glitch separates these two data elements, causing odd side effects during most of your character's animations. As a quick example, your character's model will not move at all while doing attacks. Since hurtbox is tied to the character model, in practice this will make almost every attack seem like it has much less reach than before. Meanwhile, the invisible collision bubble and camera keep moving forward according to the current attack's projected movement, only to reset back to the location of the character model at the end of the animation, which looks disorienting.
 
 To start this glitch, you need a full TTA-bar, a horse and either water or slippery collision that is *available at ground level* so that your horse can access it without having to jump. Especially the second requirement makes the setup for this glitch quite specialized, and as such, it can't be done in all the maps.
 
@@ -442,7 +451,7 @@ Instructions: get a full TTA-bar. Get on your horse. Ride into deep water or sli
 
 More about the specific theoretical uses and other details of this glitch:
 
-- If you do an attack towards a wall, your character model becomes pushed backwards according to the current attack's projection. Since the model itself has no collision, it will temporarily go through walls. If you have a character with a lengthy "dash" attack like Yukimura Sanada, you can propel the character model backwards up to several meters through walls, potentially hitting enemies and level triggers that are close enough. In other words, this is an alternative, unique way to hit enemies through walls with certain characters, and being able to hit triggers through walls early might allow a skip in some level too. However, so far it hasn't been possible to stay on the wrong side of a wall once the current attack ends. Your character model is always moved back "in bounds" to the side you started from, preventing this tactic from being an universal wall clip.
+- If you do an attack towards a wall, your character model becomes pushed backwards according to the current attack's projection. Since the model itself has no collision, it will temporarily go through walls. If you have a character with a lengthy "dash" attack like Yukimura Sanada with his air special, you can propel the character model backwards several meters through walls, potentially hitting enemies and level triggers that are close enough. In other words, this is an alternative, unique way to hit enemies through walls with certain characters, and being able to hit triggers through walls early might allow a skip in some level too. However, so far it hasn't been possible to stay on the wrong side of a wall once the current attack ends. Your character model is always moved back "in bounds" to the side you started from, preventing this tactic from being a universal wall clip.
 
 - Although most attacks work so that your character's collision returns back to the character model at the end of the attack, this effect can be reversed with most ground-based attacks if you interrupt the attack in the middle by f.e. jumping or doing an air special. With lengthy "dash" attacks, this allows you to instantly teleport your character model up to several meters, potentially allowing you to bypass level triggers. Yukimura Sanada's air special also works for this purpose, which is convenient since it's the single longest dash in the game.
 
