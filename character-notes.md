@@ -7,21 +7,21 @@ It's recommended to read the terminology and glitch tech sections of the [the ma
 ### *Wei*
 [Xiahou Dun](#Xiahou-Dun), [Dian Wei](#Dian-Wei), [Zhang Liao](#Zhang-Liao), [Cao Cao](#Cao-Cao), [Xu Zhu](#Xu-Zhu), [Xiahou Yuan](#Xiahou-Yuan), [Xu Huang](#Xu-Huang), [Zhang He](#Zhang-He), [Cao Ren](#Cao-Ren), [Cao Pi](#Cao-Pi), [Zhenji](#Zhenji), [Cai Wenji](#Cai-Wenji), [Jia Xu](#Jia-Xu), [Pang De](#Pang-De), [Wang Yi](#Wang-Yi), [Guo Jia](#Guo-Jia)
 ### *Wu*
-[Zhou Yu](#Zhou-Yu), [Lu Xun](#Lu-Xun), [Sun Shangxiang](#Sun-Shangxiang), Gan Ning, Sun Jian, [Taishi Ci](#Taishi-Ci), Lu Meng, Huang Gai, Zhou Tai, Ling Tong, Sun Ce, Sun Quan, Xiaoqiao, [Daqiao](#Daqiao), [Ding Feng](#Ding-Feng), Lianshi
+[Zhou Yu](#Zhou-Yu), [Lu Xun](#Lu-Xun), [Sun Shangxiang](#Sun-Shangxiang), [Gan Ning](#Gan-Ning), Sun Jian, [Taishi Ci](#Taishi-Ci), Lu Meng, Huang Gai, Zhou Tai, Ling Tong, Sun Ce, Sun Quan, Xiaoqiao, [Daqiao](#Daqiao), [Ding Feng](#Ding-Feng), Lianshi
 ### *Shu*
-Zhao Yun, Guan Yu, Zhang Fei, Zhuge Liang, Liu Bei, Ma Chao, Huang Zhong, Wei Yan, Guan Ping, Pang Tong, Yueying, Jiang Wei, Liu Shan, [Xingcai](#Xingcai), Ma Dai, Guan Suo, [Bao Sanniang](#Bao-Sanniang), Xu Shu
+Zhao Yun, [Guan Yu](#Guan-Yu), Zhang Fei, Zhuge Liang, Liu Bei, Ma Chao, Huang Zhong, Wei Yan, [Guan Ping](#Guan-Ping), Pang Tong, Yueying, Jiang Wei, Liu Shan, [Xingcai](#Xingcai), Ma Dai, [Guan Suo](#Guan-Suo), [Bao Sanniang](#Bao-Sanniang), Xu Shu
 ### *Jin*
-Sima Yi, Sima Shi, Sima Zhao, [Deng Ai](#Deng-Ai), Wang Yuanji, Zhong Hui, Zhuge Dan, Xiahou Ba, Guo Huai
+Sima Yi, Sima Shi, Sima Zhao, [Deng Ai](#Deng-Ai), Wang Yuanji, Zhong Hui, Zhuge Dan, Xiahou Ba, [Guo Huai](#Guo-Huai)
 ### *Other 1*
-[Diaochan](#Diaochan), Lu Bu, Dong Zhuo, Yuan Shao, Zhang Jiao, Meng Huo, Zhurong, Zuo Ci, Orochi, [Da Ji](#Da-Ji), Taigong Wang, Sun Wukong, Fu Xi, Nuwa, Yoshitsune Minamoto, Kiyomori Taira
+[Diaochan](#Diaochan), Lu Bu, [Dong Zhuo](#Dong-Zhuo), Yuan Shao, Zhang Jiao, Meng Huo, Zhurong, Zuo Ci, Orochi, [Da Ji](#Da-Ji), Taigong Wang, Sun Wukong, [Fu Xi](#Fu-Xi), Nuwa, Yoshitsune Minamoto, Kiyomori Taira
 ### *Other 2*
-Himiko, Orochi X, Dodomeki, Gyuki, Sanzang, [Benkei](#Benkei), Kaguya, Susano'o, Nezha, [Shuten Doji](#Shuten-Doji), Ryu Hayabusa, [Ayane](#Ayane), Joan of Arc, Nemea, [Achilles](#Achilles), Seimei Abe, Rachel, Shennong, Momiji, Tamamo, Yinglong, Nezha, Kyubi, Hundun, Kasumi, Sterkenburg, Sophitia
+Himiko, Orochi X, [Dodomeki](#Dodomeki), Gyuki, Sanzang, [Benkei](#Benkei), Kaguya, Susano'o, Nezha, [Shuten Doji](#Shuten-Doji), Ryu Hayabusa, [Ayane](#Ayane), Joan of Arc, Nemea, [Achilles](#Achilles), Seimei Abe, Rachel, Shennong, Momiji, Tamamo, Yinglong, Nezha, Kyubi, Hundun, Kasumi, Sterkenburg, Sophitia
 ### *Samurai 1*
 [Yukimura Sanada](#Yukimura-Sanada), Keiji Maeda, Nobunaga Oda, Mitsuhide Akechi, Kenshin Uesugi, Oichi, Okuni, Kunoichi, Magoichi Saika, Shingen Takeda, Masamune Date, No, [Hanzo Hattori](#Hanzo-Hattori), Ranmaru Mori, Hideyoshi Toyotomi
 ### *Samurai 2*
-Yoshimoto Imagawa, Tadakatsu Honda, Ina, Ieyasu Tokugawa, Mitsunari Ishida, Nagamasa Azai, Sakon Shima, Yoshihiro Shimazu, Ginchiyo Tachibana, Kanetsugu Naoe, Nene, Kotaru Fuma, Toshiie Maeda, Motochika Chosokabe
+Yoshimoto Imagawa, Tadakatsu Honda, Ina, Ieyasu Tokugawa, Mitsunari Ishida, Nagamasa Azai, Sakon Shima, Yoshihiro Shimazu, [Ginchiyo Tachibana](#Ginchiyo-Tachibana), Kanetsugu Naoe, Nene, Kotaru Fuma, Toshiie Maeda, Motochika Chosokabe
 ### *Samurai 3*
-Gracia, Katsuie Shibata, Kiyomasa Kato, Kanbei Kuroda, Muneshige Tachibana, Kai, Ujiyasu Hojo, Hanbei Takenaka, Motonari Mori, [Aya](#Aya), Masanori Fukushima, Goemon Ishikawa, Musashi Miyamoto, Kojiro Sasaki
+[Gracia](#Gracia), Katsuie Shibata, Kiyomasa Kato, Kanbei Kuroda, Muneshige Tachibana, Kai, Ujiyasu Hojo, Hanbei Takenaka, Motonari Mori, [Aya](#Aya), Masanori Fukushima, Goemon Ishikawa, Musashi Miyamoto, Kojiro Sasaki
 
 ### General note
 
@@ -159,7 +159,7 @@ To note, Benkei can also get an unspecified amount of height at ground level by 
 
 Highest jump so far: jump -> air special. (This is enough to cross tier 2 at Luoyang, which is pretty impressive.)
 
-### Top speed movement
+### Top speed movement (!)
 
 Benkei's air special makes him leap high into the air followed by a quick forward downsmash that leaves him underground in a "digging" state. This action uses Benkei's base Speed and it also gains a percentage-based Speed bonus from Agility 10. Since Agility can give a character up to a 17% attack speed boost, a quick calculation would suggest that the maximum Speed of this movement is 421,2. However, in practice the average Speed is slightly slower than that since the air special does have some cooldown between uses.
 
@@ -375,7 +375,11 @@ Charged air attack's trajectory changes depending on your current air momentum, 
 
 You can interrupt both of his air attacks with air special, and the air special gives a bit of height.
 
-Highest jump so far: jump -> (while rising) charged air attack -> (at top height) air special (turn opposite direction). (Enough to cross 1.3 tiers at Luoyang stairs.)
+Highest jump so far: jump -> (while rising) charged air attack -> (at  height) air special (turn opposite direction). (Enough to cross 1.3 tiers at Luoyang stairs.)
+
+### Average infinite jump
+
+Air special can be used to sustain IJ chain, but the fact that you fall down quickly after the air special creates inconsistent height loss.
 
 ### Other notes
 
@@ -449,7 +453,7 @@ He can breach up to medium-thick walls with his sprint attack. Thinner walls can
 
 His ground special can be shot through some walls for mid-range damage. This may work in original WO3 too? This is quite inconsistent, though. It seems you need to be able to create the projectile so that it is generated fully on the other side of the wall for it to be able to impact enemies. Could use some more testing for sure.
 
-His air special shoots a projectile similar to Xiahou Yuan, except worse, because the projectile is stopped by walls. Its explosion can target enemies through a wall, but the range is short.
+His air special shoots a projectile similar to Xiahou Yuan, except worse, because the projectile is sped by walls. Its explosion can target enemies through a wall, but the range is short.
 
 ### Average high jump
 
@@ -463,9 +467,89 @@ Ding Feng is also able to gain a surprising amount of height with C5 into regula
 
 Highest jump so far: jump -> regular air attack. (Enough to cross 1.6 tiers at Luoyang stairs.)
 
+### Average infinite jump
+
+He can be used as an IJ team mate in a pinch, but he loses a little bit of height with each air special.
+
 ### Average combat setup
 
 His air special is extremely long range, comparable to Xiahou Yuan's air special. Therefore, in certain specialized conditions you could feasibly use it to do a bit of delayed or long-range damage.
+
+## Dodomeki
+
+- Speed / Aptitude + Fellowship
+
+### Good angled glitch
+
+He can breach up to medium-thick walls with sprint attack or C1.
+
+### Average high jump
+
+He has access to double jump. His regular attacks don't seem to give him much height, though. Air special gives very minimal height and allows another jump afterwards.
+
+Highest jump so far: double jump -> air special -> jump. (Enough to cross 1.3 tiers at Luoyang stairs.)
+
+### Average infinite jump
+
+His air special and double jump allow a consistent if almost non-existent height gain. Even this might be worth it if the air special was shorter, but unfortunately it's slower to spam than f.e. Ayane's air special.
+
+### Good speed movement
+
+He can repeatedly double jump to exceed his regular running speed.
+
+His Musou is the same as Kotaru Fuma's, which means he does a fast sprint that continues as long as he has musou. With Agility 10 this movement tactic is faster than a horse, with the drawback that it costs musou and has a small slowdown at the start.
+
+### Other notes
+
+He basically can't attack through walls at all. His air special can grab an enemy through a thin barrier, but the range is so short that this almost never happens.
+
+## Dong Zhuo
+
+- Wonder / Thrift + Vitality
+
+### Good angled glitch
+
+He can breach up to medium-thick walls with his EX. Worst part is that it's a somewhat slow move for this purpose.
+
+### Average high jump
+
+Dong Zhuo's charge air attack and air special give him some height. Still, he is far from an impressive high jumper.
+
+Highest jump so far: jump -> air special -> charge air attack. (Enough to cross tier 1 at Luoyang.)
+
+### Average infinite jump
+
+His air special contributes steady but not amazing height gain in an infinite jump combo.
+
+### Top combat setup (!)
+
+His air special bombs can be left on ground on multiple locations and detonated on demand. This is precise and high damage that's perfect for all manner of multi-tasking, like defeating a number of freshly spawned enemy commanders at once.
+
+## Fu Xi
+
+- Technique / Fortitude + Vitality
+
+### Average angled glitch
+
+He is able to breach thin walls with his sprint attack.
+
+### Average/good attacking through walls
+
+The shockwave from the air special can hit a few meters behind walls. Done from a height, the distance can be as big as 10-15 meters? However, the projectile does have its limits and ceases to exist much faster than Xiahou Yuan's similar projectile.
+
+### Average high jump
+
+His air charge attack looks like it gives him a lot of height, but it's mostly just an illusion. However, his air special does actually give him quite a lot of height.
+
+Highest jump so far: jump -> air special -> air charge attack. (Enough to cross about 1.6 tiers at Luoyang stairs.)
+
+### Great infinite jump
+
+His air special is one of the fastest chainable ways to gain height in this game, but sometimes it can drop the height inconsistently and it's a bit musou-costly too. It's great when you get the timing right.
+
+### Average speed movement
+
+Fu Xi's air charge attack adds to his current speed a little bit and it can be cancelled with Heavenly Sash. So you can do a very minor speed tactic by doing a running jump -> air charge attack -> sidestep -> run -> repeat. With maxed out Speed you do actually exceed the speed cap for a tiny moment, but overall it's not really worth doing.
 
 ## Gan Ning
 
@@ -488,6 +572,170 @@ His air special is slightly slow to spam, but it allows hovering and even slight
 Gan Ning's air charge attack has a faster-than-average falling speed. Could be useful if you have to fall down quickly at some point. Although he shares weapon with Jia Xu, Jia Xu's air charge attack falls down much slower.
 
 You hear annoying bells whenever running around with this character.
+
+## Ginchiyo Tachibana
+
+- Technique / Impact + Impulse
+
+### Good/great angled glitch
+
+She is able to breach up to thick walls with C8, although this is a little slow. She can also breach up to medium-thick walls with sprint attack and thin walls with air charge attack.
+
+Being a Samurai-character, she can also be used to set up angled glitch.
+
+### Average high jump?
+
+My old PS4-notes say that I could get over 1.5 tiers in Luoyang stairs using her air charge attack, but for some reason on Steam-version I can't even get past tier 1? Version difference or just a mistake? Should re-test this at some point.
+
+WIP
+
+Highest jump so far: jump -> air charge attack.
+
+### Conditionally great speed movement
+
+Her air special gets glitchy momentum on vsync 30. The overall speed is about as fast as Zuo Ci, but this speed movement is more difficult to utilize because of a worse angle. You need a lot of height to make the most of it. It also doesn't work over stairs.
+
+### Average combat setup
+
+She can leave a long-term lingering lightning effect around her with C9. It may be somewhat inconsistent to use and would probably only contribute some lingering damage.
+
+She can also hit enemies at a medium-range with ground special, but it's also inconsistent.
+
+### Other notes
+
+She can't attack through walls in any capacity.
+
+She can't participate in infinite jumping because her air special is a downsmash.
+
+## Gracia
+
+- Wonder / Fortune + Solidarity
+
+### Good angled glitch
+
+Gracia is able to breach up to medium-thick walls using her sprint attack.
+
+Being a Samurai-character, she can also be used to setup angled glitch.
+
+### Average high jump
+
+Her air charge attack and air special both grant a small amount of height.
+
+Highest jump so far: jump -> air special -> air charge attack.
+
+### Average infinite jump
+
+Her air special allows her to hover or gain height. The animation is fast and she loses almost no height afterwards due to the slow falling, so it's very safe in IJ combos.
+
+### Good wallzipping?
+
+In theory, she should be better-than-average at wallzipping since she can buff her own attack speed.
+
+### Other notes
+
+No way to attack through walls as her? (WIP)
+
+## Guan Ping
+
+- Technique / Technique + Solidarity
+
+### Average/Good angled glitch
+
+He is able to breach up to medium-thick walls with C3 or C6. His slow combos make doing this inefficient compared to many other characters. Additionally, he can breach thin walls with sprint attack.
+
+### Average attacking through walls
+
+Air special sends out a shockwave that hits several meters through walls. Still more short-range than medium-range, though, although having height might help extend the range of the shockwave.
+
+### Great high jump
+
+Guan Ping is surprisingly good for solo high jumping. C6 is a launcher that seems to give more height than a regular jump, and air special is also helpful in gaining height quick.
+
+Highest jump so far: C6 -> air special -> charged air attack. (Enough to cross 2.2 tiers at Luoyang stairs).
+
+### Great infinite jump
+
+His air special is one of the fastest ways to gain height even though he can't double jump afterwards. It may rival Hanzo Hattori's IJ height gain speed, although it's a bit harder to use. Can drop height afterwards inconsistently.
+
+## Guan Suo
+
+- Technique / Vigor + Technique
+
+### Good angled glitch
+
+He can break up to medium-thick walls with his sprint attack. Thin walls can be also breached with Musou or ground special.
+
+### Average attacking through walls
+
+Ground special seems to hit through walls. The range is quite short, but this should work in WO3 too?
+
+Air special also hits through walls at short range.
+
+### Average high jump
+
+Regular air attack gives a small amount of height. Charged air attack looks like it gives even more, but the effect might be mostly cosmetic since you can't cross ledges all that well with it.
+
+Air special looks like a burst of height followed by a downsmash, but the height might only be cosmetic.
+
+Highest jump so far: jump -> regular air attack. (Enough to cross 1.2 tiers at Luoyang stairs.)
+
+### Other notes
+
+Guo Sua can't participate in infinite jump combos since his air special is a downsmash.
+
+## Guan Yu
+
+- Technique / Potence + Recovery
+
+### Good angled glitch
+
+He is able to breach up to medium-thick walls with his sprint attack.
+
+### Average attacking through walls
+
+Air special can be used for short-range attacking through walls.
+
+### Average high jump
+
+Charged air attack helps with both height and forward momentum.
+
+Air special also seems to give a bit of height. Very little, though.
+
+Highest jump so far: jump -> air special -> charged air attack. (Enough to cross 1.3 tiers at Luoyang.)
+
+### Average infinite jump
+
+Guan Yu's air special mainly just loses height when done in an IJ chain.
+
+### Average combat setup
+
+He can buff his own damage with his EX while waiting for enemies.
+
+## Guo Huai
+
+- Technique / Focus + Dexterity
+
+### Average/good angled glitch
+
+He is able to breach up to medium-thick walls with his Musou. Worst part is that doing this is pretty slow.
+
+### Conditionally great attacking through walls
+
+His air special sends a downward projectile that explodes. It can pass through walls. With enough height, it can be used to snipe officers from a nearly arbitrary distance away like Xiahou Yuan's air special.
+
+### Average infinite jump
+
+His air special can give height in an IJ chain. However, it is slightly slow to spam and not super consistent without access to double jump.
+
+### Conditionally good combat setup
+
+Technically, you could use the very long range of his air special to hit enemies from afar or otherwise multi-task.
+
+### Other notes
+
+Not an acrobatic character at all, with a low jump and no ways to really extend the jump.
+
+If you ever have the desperate need to do a wallzip in the original WO3, his air charge attack could work since it gives decent height and is moderately steerable.
 
 ## Guo Jia
 
@@ -531,11 +779,11 @@ He can go past up to medium-thick walls with his sprint attack. He can also be u
 
 As a side note, the forward zip of his air special is not impacted by angle, which allows him to be a good infinite jumper even while angled.
 
-### Top infinite jump
+### Top infinite jump (!)
 
 Hanzo Hattori is arguably the best character in the game for chainable vertical air movement, and maybe in the Top 10 for chainable horizontal air movement too. His air special zips him forward and upward a couple of meters. The animation is short too, allowing it to be repeated quickly in a jump, and having access to double jump is just a cherry on top.
 
-### Top high jump
+### Top high jump (!)
 
 Hanzo Hattori's naturally high ground jump, air special and ability to double jump allow him to gain respectable height even while solo. He can cross tier 2 in Luoyang with double jump -> air special -> double jump.
 
@@ -603,7 +851,7 @@ Jia Xu's air special doesn't give him much height, but it does propel him forwar
 
 He has access to double jumps, which naturally allows him to go faster than his default 135 Speed. This speed movement might become more powerful if you do C1 before each double jump.
 
-### Top sloped floor clip
+### Top sloped floor clip (!)
 
 Jia Xu's C1 has an incredibly fast forward velocity for a short amount of time, and you can easily clip through sloped floor by doing it. Any ground that's less steep than 45 degrees probably won't work, but Jia Xu CAN even clip short staircases like the ones in Anegawa or Honnoji. He is overall not as consistent as Taigong Wang as far as sloped floor clipping is concerned, but the forward movement of C1 also allows him to go under some gates that are adjacent to sloped floor, like one of the gates in Mystic Realm, which gives him some unique utility.
 
@@ -809,7 +1057,7 @@ She seems to be able to do a S1 -> S2 -> C2 combo with delayed input, but it's f
 
 Xiahou Dun can bypass up to medium-thick walls while angled using his sprint attack.
 
-### Top attacking through walls
+### Top attacking through walls (!)
 
 Xiahou Dun's air special fires a wide, cross-shaped projectile with a mild downward angle. It catches any enemies in its range, hitting them multiple times and pushing them away over its impressive range of over 20 meters.
 
@@ -841,9 +1089,9 @@ His air special hits huge crowds of enemies at once, which makes him great for f
 
 Xiahou Yuan can get past medium-thick walls with C4 while angled. Sprint attack, C1 and C2 also work for thin walls.
 
-### Great attacking through walls
+### Conditionally great attacking through walls
 
-Xiahou Yuan can be an excellent officer sniping character, although he does require some setup to work. His air special fires an exploding arrow which flies downward at around 45 degree angle. This projectile has no range limit and it can pass through walls. The range of the air special isn't that impressive when done near ground level, but the range dramatically increases if you do it from higher up in air. So, pairing Xiahou Yuan with a wallzip character or two infinite jumpers lets you hit officers from up to tens of meters away. I haven't tried this much in practice so I can't comment on the damage, but this tactic can insta-kill officers on NG+ conditions in the early chapters, at least.
+Xiahou Yuan can be an excellent officer sniping character, although he does require some setup to work. His air special fires an exploding arrow which flies downward at around 45 degree angle. This projectile has no range limit and it can pass through walls. The range of the air special isn't that impressive when done near ground level, but the range dramatically increases if you do it from higher up in air. So, pairing Xiahou Yuan with a wallzip character or two infinite jumpers lets you hit officers through walls from up to tens of meters away. I haven't tried this much in practice so I can't comment on the damage, but this tactic can insta-kill officers on NG+ conditions in the early chapters, at least.
 
 ### Good high jump
 
@@ -853,27 +1101,29 @@ His highest jump so far is C5 (sideways or back against wall) -> air special (at
 
 He can be used as a part of an infinite jump combo to at least hover in place.
 
-### Top speed movement
+### Top speed movement (!)
 
 Xiahou Yuan's regular air attack has a [neutral L-stick bug](https://github.com/Nelitarnia/WO3U-speedrun-guide/blob/main/WO3U-speedrun-guide.md#Neutral-L-stick-bugs). If you do it from a running jump with L-stick neutral, you'll see Xiahou Yuan's speed exponentially increase (up to a certain limit), causing him to fly forward a huge distance in air. This is an extremely fast hybrid speed movement that doesn't cost any musou that can situationally be even faster than Benkei. It requires less setup to be effective too.
 
 There's more about this speed movement tactic [here](https://github.com/Nelitarnia/WO3U-speedrun-guide/blob/main/WO3U-speedrun-guide.md#Xiahou-Yuan-speed-tech).
 
-### Top sloped floor clip
+### Top sloped floor clip (!)
 
 Xiahou Yuan can clip through longer normal staircases (like in Nanzhong) using his C5 downsmash.
 
 Besides that, his bugged regular air attack gives him such a high velocity that he can clip through almost any kind of sloped floor that is not limited by the stairs speed rule, f.e. something like the various mildly inclined walkways in Escape from the Mirror Realm. Although he is only average in clipping through actual stairs, he can do things in this department that no other character in the game can.
 
-### Good combat setup
+### Conditionally good combat setup
 
-His long-range officer sniping ability could allow him to save time in some combat scenario. He can also cause a short-ranged delayed damage effect using his ground special for multi-tasking purposes.
+His long-range officer sniping ability could allow him to save time in some combat scenario.
+
+He can also cause a short-ranged delayed damage effect using his ground special for multi-tasking purposes.
 
 ### Other notes
 
 Efficacy + Vigor is arguably the best combination of traits for increasing your damage output once your weapon and stats have been maxed out, so it might sometimes be worth it in individual level runs to take Xiahou Yuan into your team simply for the passive damage boost he provides.
 
-If you do the C5 downsmash past a ledge, the animation will not continue indefinitely but instead interrupts in air maybe 0.5 meters below where you started.
+If you do the C5 downsmash past a ledge, the animation will not continue indefinitely but instead interrupts in air maybe 0.5 meters below the ledge.
 
 ## Xingcai
 
@@ -883,7 +1133,7 @@ If you do the C5 downsmash past a ledge, the animation will not continue indefin
 
 She can hit a short range through walls using her air special (and maybe musou?) but the range is so short that it's unlikely to help.
 
-### Top angled glitch
+### Top angled glitch (!)
 
 Xingcai is able to bypass even thick walls very quickly by using either her ground or air special. Musou and C5 also work for medium-thick walls, although both of these options are slower.
 
@@ -895,7 +1145,7 @@ Xingcai has a naturally high jump and it can be extended with double jump as wel
 
 Her highest known solo jump is double jump -> charge air attack -> air special -> jump -> charge air attack. This is enough to cross tier 2 and about 5 steps at Luoyang.
 
-### Top infinite jump
+### Top infinite jump (!)
 
 Xingcai is the 2nd best in the game for horizontal chainable air movement thanks to her fast, forward-propelling air special and double jump. She is only slightly worse in this regard than Yukimura Sanada since her air special's animation is slightly longer and doesn't cross as much distance.
 
@@ -971,7 +1221,7 @@ He can't contribute to infinite jumps since his air special ends in a downsmash.
 
 • Speed / Stamina + Impulse
 
-### Top angled glitch
+### Top angled glitch (!)
 
 Yukimura Sanada's air special lets him go under even thick walls with almost no setup while angled, making him one of the most efficient angled glitch characters. Alternatively, you can go under medium-thick walls without expending any musou with his sprint attack or C1. Since he is a Samurai-character, you can use him to set up the glitch in full game runs.
 
@@ -981,7 +1231,7 @@ To note, he becomes an incredibly bad infinite jumper when angled because you lo
 
 His highest known solo jump is double jump -> air special -> double jump. This is enough to cross tier 1 and about 5 steps in Luoyang.
 
-### Top infinite jump
+### Top infinite jump (!)
 
 Yukimura Sanada's most distinguishing feature is his air special which quickly propels him forward around 8 meters in air. It's easily the best air special in the game for chainable horizontal aerial movement, and he has double jump to help out too. Although his height gain is only good instead of great, if you want an infinite jump that wants to cross a long distance quick, he is your #1 person for this purpose.
 
@@ -1027,7 +1277,7 @@ Zhang He can buff his own speed using his air special. He and Xiahou Ba share an
 
 There's more about using this speed movement technique [here](https://github.com/Nelitarnia/WO3U-speedrun-guide/blob/main/WO3U-speedrun-guide.md#Speed-buffing).
 
-### Top wallzip
+### Top wallzip (!)
 
 Zhang He is the ultimate wallzipping character in this game. The main reason for this is his powerful speed buff which makes wallzipping easier to perform. It's still not nearly 100% consistent, but he and Xiahou Ba are as good as it gets as far as this finicky technique is concerned. Overall, I prefer Zhang He over Xiahou Ba since his air special is slightly faster to setup and his higher jump makes navigation with him feel more agile before and afterwards too.
 
