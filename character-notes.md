@@ -7,13 +7,13 @@ It's recommended to read the terminology and glitch tech sections of the [the ma
 ### *Wei*
 [Xiahou Dun](#Xiahou-Dun), [Dian Wei](#Dian-Wei), [Zhang Liao](#Zhang-Liao), [Cao Cao](#Cao-Cao), [Xu Zhu](#Xu-Zhu), [Xiahou Yuan](#Xiahou-Yuan), [Xu Huang](#Xu-Huang), [Zhang He](#Zhang-He), [Cao Ren](#Cao-Ren), [Cao Pi](#Cao-Pi), [Zhenji](#Zhenji), [Cai Wenji](#Cai-Wenji), [Jia Xu](#Jia-Xu), [Pang De](#Pang-De), [Wang Yi](#Wang-Yi), [Guo Jia](#Guo-Jia)
 ### *Wu*
-[Zhou Yu](#Zhou-Yu), [Lu Xun](#Lu-Xun), [Sun Shangxiang](#Sun-Shangxiang), Gan Ning, Sun Jian, [Taishi Ci](#Taishi-Ci), Lu Meng, Huang Gai, Zhou Tai, Ling Tong, Sun Ce, Sun Quan, Xiaoqiao, Daqiao, Ding Feng, Lianshi
+[Zhou Yu](#Zhou-Yu), [Lu Xun](#Lu-Xun), [Sun Shangxiang](#Sun-Shangxiang), Gan Ning, Sun Jian, [Taishi Ci](#Taishi-Ci), Lu Meng, Huang Gai, Zhou Tai, Ling Tong, Sun Ce, Sun Quan, Xiaoqiao, [Daqiao](#Daqiao), [Ding Feng](#Ding-Feng), Lianshi
 ### *Shu*
 Zhao Yun, Guan Yu, Zhang Fei, Zhuge Liang, Liu Bei, Ma Chao, Huang Zhong, Wei Yan, Guan Ping, Pang Tong, Yueying, Jiang Wei, Liu Shan, [Xingcai](#Xingcai), Ma Dai, Guan Suo, [Bao Sanniang](#Bao-Sanniang), Xu Shu
 ### *Jin*
-Sima Yi, Sima Shi, Sima Zhao, Deng Ai, Wang Yuanji, Zhong Hui, Zhuge Dan, Xiahou Ba, Guo Huai
+Sima Yi, Sima Shi, Sima Zhao, [Deng Ai](#Deng-Ai), Wang Yuanji, Zhong Hui, Zhuge Dan, Xiahou Ba, Guo Huai
 ### *Other 1*
-Diaochan, Lu Bu, Dong Zhuo, Yuan Shao, Zhang Jiao, Meng Huo, Zhurong, Zuo Ci, Orochi, [Da Ji](#Da-Ji), Taigong Wang, Sun Wukong, Fu Xi, Nuwa, Yoshitsune Minamoto, Kiyomori Taira
+[Diaochan](#Diaochan), Lu Bu, Dong Zhuo, Yuan Shao, Zhang Jiao, Meng Huo, Zhurong, Zuo Ci, Orochi, [Da Ji](#Da-Ji), Taigong Wang, Sun Wukong, Fu Xi, Nuwa, Yoshitsune Minamoto, Kiyomori Taira
 ### *Other 2*
 Himiko, Orochi X, Dodomeki, Gyuki, Sanzang, [Benkei](#Benkei), Kaguya, Susano'o, Nezha, [Shuten Doji](#Shuten-Doji), Ryu Hayabusa, [Ayane](#Ayane), Joan of Arc, Nemea, [Achilles](#Achilles), Seimei Abe, Rachel, Shennong, Momiji, Tamamo, Yinglong, Nezha, Kyubi, Hundun, Kasumi, Sterkenburg, Sophitia
 ### *Samurai 1*
@@ -41,17 +41,13 @@ His air special can hit maybe 6-8 meters through walls.
 
 He can go past up to medium-thick walls while angled with sprint attack, C3, C6 or EX.
 
-### Bad high jump
-
-He is not acrobatic at all. His regular jump height isn't impressive, and he can barely use attacks to extend it.
-
-Highest jump so far: jump -> air charge attack. This isn't even enough to clear tier 1 at Luoyang stairs, it's pretty bad.
-
 ### Average infinite jump
 
 He can hover as a part of an IJ chain, but that's about it.
 
 ### Other notes
+
+He is not acrobatic at all. His regular jump height isn't impressive, and he can barely use attacks to extend it.
 
 His air special deals damage to ground level not matter how high Achilles himself is. In other words, it might come in handy if you ever had to infinite jump over some area while defeating enemies underneath.
 
@@ -81,7 +77,7 @@ Ayane has a good advantage in solo high jumps due to having a naturally high jum
 
 As a side note, she can gain significant height near ledges if you interrupt her C2 combo at its highest point.
 
-Highest jump so far: double jump -> air special -> jump -> air charge attack.
+Highest jump so far: double jump -> air special -> jump -> air charge attack. (Enough to clear about 1.5 tiers at Luoyang.)
 
 ### Great infinite jump
 
@@ -157,7 +153,11 @@ Benkei can go past even thick walls with his C3 while angled. Additionally, his 
 
 ### Great high jump
 
-The leap at the start of Benkei's air special gives him a surprising amount of height in a very short span of time, so this attack works as a high jump or a high jump finisher all by itself. Benkei can cross tier 2 in Luoyang staircase solo, which is a feat only a few characters in the game are capable of.
+The leap at the start of Benkei's air special gives him a surprising amount of height in a very short span of time, so this attack works as a high jump or a high jump finisher all by itself. Great burst height gain.
+
+To note, Benkei can also get an unspecified amount of height at ground level by interrupting C8 with a ledge at its highest point. It's unknown how much higher this is than a regular jump.
+
+Highest jump so far: jump -> air special. (This is enough to cross tier 2 at Luoyang, which is pretty impressive.)
 
 ### Top speed movement
 
@@ -321,6 +321,66 @@ Her charge air attack is a downsmash that adds to her current speed and doesn't 
 
 She can't participate in infinite jumps since her air special ends in a downsmash.
 
+## Daqiao
+
+- Speed / Speed + Fellowship
+
+### Good angled glitch
+
+She is able to breach up to medium-thick walls with either her sprint attack or Musou.
+
+### Average attacking through walls
+
+Her air special's projectile can hit a short length through walls.
+
+### Average high jump
+
+Like with Xiaoqiao, her charged air attack gives a bit of height, but the effect is worse than you'd expect.
+
+Her air special moves her backwards and gives very minimal height if any. However, you can double jump after it.
+
+Her C5 is a launcher that gives her a good starting height.
+
+Highest jump so far: C5 -> jump -> air special -> jump -> air charge attack. (Enough to clear about 1.5 tiers at Luoyang stairs.)
+
+### Good infinite jump
+
+Her air special moves her backwards and gives mild height, and it can be followed up with double jump. The height gain is overall slower than with Ayane. It's a bit tricky to use since she falls down pretty quickly. She is comparable (and slower) to Wang Yuanji in an IJ chain.
+
+She probably becomes a better infinite jumper while angled since the air special's backwards motion will be converted into height in this state.
+
+### Average speed movement
+
+She is able to use double jumping to exceed her regular running speed.
+
+### Good combat setup?
+
+Ground special's fireball can hit at a long range with a few second delay. The range and speed of the attack might be helpful somewhere where you need this type of control.
+
+## Deng Ai
+
+- Power / Power + Fellowship
+
+### Good angled glitch
+
+He is able to breach up to medium-thick walls with either his sprint attack, C4 or EX.
+
+### Average attacking through walls
+
+His air special can hit a few meters through walls.
+
+### Average high jump
+
+Charged air attack's trajectory changes depending on your current air momentum, but it's hard to cross the ledge with it.
+
+You can interrupt both of his air attacks with air special, and the air special gives a bit of height.
+
+Highest jump so far: jump -> (while rising) charged air attack -> (at top height) air special (turn opposite direction). (Enough to cross 1.3 tiers at Luoyang stairs.)
+
+### Other notes
+
+He cannot participate in infinite jumps since his air special ends in a downsmash.
+
 ## Dian Wei
 
 • Power / Potence + Fortitude
@@ -335,7 +395,7 @@ The axe throw of his air special can hit a few meters through walls.
 
 ### Average high jump
 
-His highest known jump is jump -> air charge attack, which is enough to cross around 1 tier and 2 steps in Luoyang.
+His highest known jump is jump -> air charge attack. (Enough to cross around 1.2 tiers in Luoyang.
 
 ### Average combat setup
 
@@ -344,6 +404,68 @@ He can buff his attacks with explosion effects using his EX, although I'm not su
 ### Other notes
 
 He can't contribute to infinite jumps since his air special ends in a downsmash. This makes him bad for wallzipping as well. He actually gains a surprising amount of height during a wallzip before the downsmash and he *could* probably get over some wall with it, but the lack of steering while in air makes utilizing the extra height that much more difficult. Overall, you'd have to be quite desperate to consider using Dian Wei for a wallzip.
+
+## Diaochan
+
+- Speed / Speed + Fortune
+
+### Good angled glitch
+
+She is able to breach up to medium-thick walls with her sprint attack, C5, ground special or Musou.
+
+### Average attacking through walls
+
+She can hit through walls with air special, but the range is negligible.
+
+### Average high jump
+
+Diaochan has a naturally high jump. Furthermore, both her charge air attack and air special lift her in air a little bit.
+
+Highest jump so far: double jump -> air special. (Enough to cross 1.5 tiers at Luoyang stairs.)
+
+### Conditionally good speed movement
+
+Diaochan's EX attack buffs her speed and attack speed temporarily the same way as Zhang Liao's EX. Doing sped up double jumps might border on horse speed at best. However, unlike Zhang He, you probably can't exceed speed cap by jumping while this buff is active.
+
+Her speed buff allows her to climb ladders and swim faster too.
+
+### Average combat setup
+
+She can buff her own speed if there's ever spare waiting time before enemies arrive.
+
+### Other notes
+
+She is a notably bad infinite jump partner because her air special is slow and makes her lose quite a bit of height.
+
+## Ding Feng
+
+- Power / Power + Fortitude
+
+### Good angled glitch
+
+He can breach up to medium-thick walls with his sprint attack. Thinner walls can also be breached with ground special, C3, C4 and C5.
+
+### Conditionally good attacking through walls?
+
+His ground special can be shot through some walls for mid-range damage. This may work in original WO3 too? This is quite inconsistent, though. It seems you need to be able to create the projectile so that it is generated fully on the other side of the wall for it to be able to impact enemies. Could use some more testing for sure.
+
+His air special shoots a projectile similar to Xiahou Yuan, except worse, because the projectile is stopped by walls. Its explosion can target enemies through a wall, but the range is short.
+
+### Average high jump
+
+Regular air attack is a somersault which grants Ding Feng a decent amount of height and forward movement. Charged air attack gives more pure height, but regular air attack is better for getting over ledges.
+
+Air special seems to cost a little height, so it's best not to use it.
+
+Can't interrupt either air attack with air special.
+
+Ding Feng is also able to gain a surprising amount of height with C5 into regular air attack, but it's not easy to use for high jumps since being too close to walls makes you instantly lose height.
+
+Highest jump so far: jump -> regular air attack. (Enough to cross 1.6 tiers at Luoyang stairs.)
+
+### Average combat setup
+
+His air special is extremely long range, comparable to Xiahou Yuan's air special. Therefore, in certain specialized conditions you could feasibly use it to do a bit of delayed or long-range damage.
 
 ## Gan Ning
 
