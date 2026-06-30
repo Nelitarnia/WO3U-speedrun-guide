@@ -7,19 +7,19 @@ It's recommended to read the terminology and glitch tech sections of the [the ma
 ### *Wei*
 [Xiahou Dun](#Xiahou-Dun), [Dian Wei](#Dian-Wei), [Zhang Liao](#Zhang-Liao), [Cao Cao](#Cao-Cao), [Xu Zhu](#Xu-Zhu), [Xiahou Yuan](#Xiahou-Yuan), [Xu Huang](#Xu-Huang), [Zhang He](#Zhang-He), [Cao Ren](#Cao-Ren), [Cao Pi](#Cao-Pi), [Zhenji](#Zhenji), [Cai Wenji](#Cai-Wenji), [Jia Xu](#Jia-Xu), [Pang De](#Pang-De), [Wang Yi](#Wang-Yi), [Guo Jia](#Guo-Jia)
 ### *Wu*
-[Zhou Yu](#Zhou-Yu), [Lu Xun](#Lu-Xun), [Sun Shangxiang](#Sun-Shangxiang), [Gan Ning](#Gan-Ning), Sun Jian, [Taishi Ci](#Taishi-Ci), Lu Meng, Huang Gai, Zhou Tai, Ling Tong, Sun Ce, Sun Quan, Xiaoqiao, [Daqiao](#Daqiao), [Ding Feng](#Ding-Feng), Lianshi
+[Zhou Yu](#Zhou-Yu), [Lu Xun](#Lu-Xun), [Sun Shangxiang](#Sun-Shangxiang), [Gan Ning](#Gan-Ning), Sun Jian, [Taishi Ci](#Taishi-Ci), Lu Meng, [Huang Gai](#Huang-Gai), Zhou Tai, Ling Tong, Sun Ce, Sun Quan, Xiaoqiao, [Daqiao](#Daqiao), [Ding Feng](#Ding-Feng), Lianshi
 ### *Shu*
-Zhao Yun, [Guan Yu](#Guan-Yu), Zhang Fei, Zhuge Liang, Liu Bei, Ma Chao, Huang Zhong, Wei Yan, [Guan Ping](#Guan-Ping), Pang Tong, Yueying, Jiang Wei, Liu Shan, [Xingcai](#Xingcai), Ma Dai, [Guan Suo](#Guan-Suo), [Bao Sanniang](#Bao-Sanniang), Xu Shu
+Zhao Yun, [Guan Yu](#Guan-Yu), Zhang Fei, Zhuge Liang, Liu Bei, Ma Chao, [Huang Zhong](#Huang-Zhong), Wei Yan, [Guan Ping](#Guan-Ping), Pang Tong, Yueying, [Jiang Wei](#Jiang-Wei), Liu Shan, [Xingcai](#Xingcai), Ma Dai, [Guan Suo](#Guan-Suo), [Bao Sanniang](#Bao-Sanniang), Xu Shu
 ### *Jin*
 Sima Yi, Sima Shi, Sima Zhao, [Deng Ai](#Deng-Ai), Wang Yuanji, Zhong Hui, Zhuge Dan, Xiahou Ba, [Guo Huai](#Guo-Huai)
 ### *Other 1*
 [Diaochan](#Diaochan), Lu Bu, [Dong Zhuo](#Dong-Zhuo), Yuan Shao, Zhang Jiao, Meng Huo, Zhurong, Zuo Ci, Orochi, [Da Ji](#Da-Ji), Taigong Wang, Sun Wukong, [Fu Xi](#Fu-Xi), Nuwa, Yoshitsune Minamoto, Kiyomori Taira
 ### *Other 2*
-Himiko, Orochi X, [Dodomeki](#Dodomeki), Gyuki, Sanzang, [Benkei](#Benkei), Kaguya, Susano'o, Nezha, [Shuten Doji](#Shuten-Doji), Ryu Hayabusa, [Ayane](#Ayane), Joan of Arc, Nemea, [Achilles](#Achilles), Seimei Abe, Rachel, Shennong, Momiji, Tamamo, Yinglong, Nezha, Kyubi, Hundun, Kasumi, Sterkenburg, Sophitia
+[Himiko](#Himiko), Orochi X, [Dodomeki](#Dodomeki), [Gyuki](#Gyuki), Sanzang, [Benkei](#Benkei), [Kaguya](#Kaguya), Susano'o, Nezha, [Shuten Doji](#Shuten-Doji), Ryu Hayabusa, [Ayane](#Ayane), [Joan of Arc](#Joan-of-Arc), Nemea, [Achilles](#Achilles), Seimei Abe, Rachel, Shennong, Momiji, Tamamo, Yinglong, Nezha, Kyubi, [Hundun](#Hundun), Kasumi, Sterkenburg, Sophitia
 ### *Samurai 1*
-[Yukimura Sanada](#Yukimura-Sanada), Keiji Maeda, Nobunaga Oda, Mitsuhide Akechi, Kenshin Uesugi, Oichi, Okuni, Kunoichi, Magoichi Saika, Shingen Takeda, Masamune Date, No, [Hanzo Hattori](#Hanzo-Hattori), Ranmaru Mori, Hideyoshi Toyotomi
+[Yukimura Sanada](#Yukimura-Sanada), Keiji Maeda, Nobunaga Oda, Mitsuhide Akechi, Kenshin Uesugi, Oichi, Okuni, Kunoichi, Magoichi Saika, Shingen Takeda, Masamune Date, No, [Hanzo Hattori](#Hanzo-Hattori), Ranmaru Mori, [Hideyoshi Toyotomi](#Hideyoshi-Toyotomi)
 ### *Samurai 2*
-Yoshimoto Imagawa, Tadakatsu Honda, Ina, Ieyasu Tokugawa, Mitsunari Ishida, Nagamasa Azai, Sakon Shima, Yoshihiro Shimazu, [Ginchiyo Tachibana](#Ginchiyo-Tachibana), Kanetsugu Naoe, Nene, Kotaru Fuma, Toshiie Maeda, Motochika Chosokabe
+Yoshimoto Imagawa, Tadakatsu Honda, [Ina](#Ina), [Ieyasu Tokugawa](#Ieyasu-Tokugawa), Mitsunari Ishida, Nagamasa Azai, Sakon Shima, Yoshihiro Shimazu, [Ginchiyo Tachibana](#Ginchiyo-Tachibana), Kanetsugu Naoe, Nene, Kotaru Fuma, Toshiie Maeda, Motochika Chosokabe
 ### *Samurai 3*
 [Gracia](#Gracia), Katsuie Shibata, Kiyomasa Kato, Kanbei Kuroda, Muneshige Tachibana, Kai, Ujiyasu Hojo, Hanbei Takenaka, Motonari Mori, [Aya](#Aya), Masanori Fukushima, Goemon Ishikawa, Musashi Miyamoto, Kojiro Sasaki
 
@@ -1015,6 +1015,58 @@ If you hold down L-stick and immediately interrupt Hundun's ground special with 
 
 His horse riding animation might be buggy in some way. I've noticed that if you horse ride a lot with Hundun and do things like switch characters, the game may crash.
 
+## Ieyasu Tokugawa
+
+- Technique / Fortitude + Dexterity
+
+### Good angled glitch
+
+He can breach up to medium-thick walls with his sprint attack.
+
+He can also start angled glitch since he is a Samurai-style character.
+
+### Average attacking through walls
+
+Air special can hit through walls. However, it seems it's not the beams themselves which go through walls but rather the localized explosion, making the potential range very short.
+
+### Average infinite jump
+
+His air special allows him to be a part of an infinite jump chain, but it won't help with height and the animation is long too.
+
+### Average combat setup
+
+He can hit enemies from a large distance away with air special (or to a lesser extent regular air attack) if you have a lot of height, but it's probably quite inconsistent. C7 also fires a straight medium-long range laser.
+
+### Other notes
+
+Quite an un-acrobatic character with a low jump and no way to properly extend the jump with attacks.
+
+## Ina
+
+- Technique / Technique + Focus
+
+### Average angled glitch
+
+She can breach thin walls with sprint attack or the second hit of the C3 combo. She can also be used to setup angled glitch since she is a Samurai-style character.
+
+### Average high jump
+
+Her jump is naturally high. Air charge attack helps a little bit with height. Air special gives a little bit of height and moves backwards.
+
+Highest jump so far: (back against wall) jump -> air special -> air charge attack. (This is enough to cross 1.1 tiers at Luoyang.)
+
+### Average infinite jump
+
+She can be used as a part of an IJ chain, but her air special is a bit slow and usually loses a bit of height.
+
+### Average combat setup
+
+She can hit from a long distance with her air special and Musou. With a lot of height, her regular air attack or air special could maybe snipe enemies from 20 meters away.
+
+### Other notes
+
+She has no way of dealing damage through walls, not even the air special works.
+
 ## Jia Xu
 
 • Speed / Dexterity + Solidarity
@@ -1050,6 +1102,94 @@ The zip-like forward movement of C1 is so fast that when done off a ledge, the g
 Doing TTA in air is also possible. TTA activates as Jia Xu falls down. The short cinematic scene showing your party up close appears with a short delay of around 2-4 seconds. There are more observations about this in the [main WO3U guide](https://github.com/Nelitarnia/WO3U-speedrun-guide/blob/main/WO3U-speedrun-guide.md#Other-mechanics-details).
 
 I tried if you could do a Xu Shu-style incredibly high velocity air attack by doing C1 off a ledge, then double jumping and frame precisely air attacking out of it, but all I got was an air attack with a regular double jump speed.
+
+## Jiang Wei
+
+- Technique / Fellowship + Technique
+
+### Good angled glitch
+
+He can breach up to medium-thick walls using sprint attack (barely) or C6.
+
+Musou might work for breaching even thicker walls, although it does need an enemy.
+
+### Average attacking through walls
+
+The vortex of air special hits through walls. Sadly, the projectile that causes vortex doesn't pass through walls, ensuring that the active range is a few meters at best.
+
+### Average high jump
+
+Charged air attack gives decent height and forward momentum. Air special gives a bit of extra height as well.
+
+Ground special gives a lot of height, but it cannot be interrupted with air special at the highest point; you'd need a ledge to benefit from the extra height.
+
+Highest jump so far: jump -> air special -> charged air attack. (This is enough to cross 1.5 tiers at Luoyang stairs.)
+
+### Average/great infinite jump
+
+Jiang Wei's air special is very fast to spam and it gains a bit of height, although much of the height is usually lost due to character switching.
+
+If you're only concerned moving horizontal distance, Jiang Wei can actually make a great pair with Yukimura Sanada. Their air specials together result in one of the fastest horizontal infinite jumps in the game.
+
+### Good speed movement
+
+Jiang Wei can move at almost horse speed with Agility 10 by using sidestep -> sprint attack over and over again. Exact speed should be tested. It seems to be one of the best of these sidestep movement styles at any rate.
+
+### Good combat setup?
+
+Air special leaves a damaging zone that lingers for a while. Furthermore, the air special can be used at any distance to increase the delay, although this requires a bit of setup.
+
+## Joan of Arc
+
+- Wonder / Fellowship + Trinity
+
+### Average angled glitch
+
+She is able to breach thin walls with her sprint attack while angled.
+
+### Conditionally great attacking through walls?
+
+The projectile from her air special goes through walls and flies quite a long distance if you have height. Comparable to Xiahou Yuan's air special, except the range is even longer. Not sure about damage.
+
+### Average high jump
+
+Her regular air attacks give small height. Air special looks like it gives height (while moving backwards) but it doesn't seem to help crossing over the ledge.
+
+You can interrupt her regular air attack with charge air attack. Can't interrupt either of her air attacks with air special.
+
+Highest jump so far: jump -> regular air attack -> (instantly) charge air attack. (This is enough to cross 1.1 tiers at Luoyang.)
+
+### Average/good combat setup
+
+Her ground special gives War God's Axe to all nearby allies, which is a unique and potentially quite powerful effect. C6 also creates a shockwave that causes some lingering damage ahead of her.
+
+### Other notes
+
+She mysteriously loses a lot of height whenever you switch over to her in air, which makes her a terrible IJ partner. Rarely you could maybe turn this odd feature into an advantage if you ever have to fall down fast from a high place.
+
+## Kaguya
+
+- Wonder / Trinity + Vigor
+
+### Good angled glitch
+
+She can breach up to medium-thick walls using sprint attack (barely).
+
+### Average attacking through walls
+
+Air special hits some meters through walls.
+
+### Average high jump
+
+Her regular air attack helps a little with getting height. Air special looks like it gives a lot of height, but most of it is fake height. At any rate, using it is better than nothing.
+
+The ground special is a launcher that momentarily gets her higher than a jump, but you need a ledge to cancel the attack and use the height.
+
+Highest jump so far: jump -> regular air attack / air special. (Enough to cross 1 tier at Luoyang stairs.)
+
+### Other notes
+
+She can't participate in IJ chains since her air special is a downsmash.
 
 ## Lu Xun
 
