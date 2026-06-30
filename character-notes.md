@@ -769,6 +769,38 @@ As mentioned above, his air special also has a near-infinite range and can be us
 
 Guo Jia's regular air attack has a faster-than-average falling speed. Knowing this might come in handy if you ever need to fall down quickly during a level.
 
+## Gyuki
+
+- Power / Expertise + Aptitude
+
+### Good angled glitch
+
+He can bypass up to medium-thick walls with his sprint attack or C6. For thin walls C5 and S6 will also do.
+
+He can be used to activate angled glitch since he has a Samurai-style Musou.
+
+### Conditionally great attacking through walls
+
+His air special projectile travels through walls and hits enemies at any range. However, you need a good setup and a lot of height to use that height. It's comparable to Xiahou Yuan's air special as far as attacking through walls is concerned, with possibly even higher damage potential? Not sure about explosion range, though.
+
+### Average high jump
+
+His regular air attack doesn't give much height, but is strangely good at getting over the lip of the ledge.
+
+His air charge attack reacts to existing vertical momentum well, giving a decent extra height.
+
+His air special also looks like it gives height, but not as much as a well-timed air charge attack. The two height gain methods are mutually exclusive since air charge attack relies on positive air momentum.
+
+Highest jump so far: (back against wall) jump -> air special -> regular air attack. (Enough to cross 1.5 tiers at Luoyang stairs.)
+
+### Good infinite jump
+
+His air special gives some height, although the animation is somewhat slow to spam. It seems you also gain a bit of height whenever changing to Gyuki, or is that just an illusion?
+
+### Average combat setup
+
+He can use his near-infinitely long-range air special for doing some specialized delayed/long-range damage.
+
 ## Hanzo Hattori
 
 • Speed / Efficacy + Vigor
@@ -826,6 +858,162 @@ Other observations regarding clones:
 ### Other notes
 
 Efficacy + Vigor is arguably the best combination of traits for increasing your damage output once your weapon and stats have been maxed out, so it might sometimes be worth it in individual level runs to take Hanzo Hattori into your team simply for the passive damage boost he provides.
+
+## Hideyoshi Toyotomi
+
+- Power / Power + Fortune
+
+### Good angled glitch
+
+He is able to breach up to medium-thick walls with his sprint attack (just barely). He can also get this glitch started since he is a Samurai-style character.
+
+### Average attacking through walls
+
+He is able to hit 1-2 meters through walls with his air special.
+
+### Average/good high jump
+
+Regular air attacks don't seem to do much, but his air special gives a bit of height.
+
+You can get some extra height by interrupting C8 with air special as Hideyoshi is at top height. But it's probably not higher than a normal jump.
+
+He can do a special “super jump” by interrupting C5 off ledges. This is not too hard to do, although realistically it's actually only about 1.5 times the height of a normal jump. Still, it's a pretty unique high jump tactic exclusive to only him.
+
+Highest jump so far: jump -> air special. (Enough to cross about 1.4 tiers at Luoyang stairs.)
+
+### Conditionally great speed movement
+
+His sprint attack can have a decent speed with Agility 10. You move faster than normal running speed for several seconds, especially if you extend the sprint attack by spamming square.
+
+His air special has an absurdly high horizontal speed, maybe around 1.4x speed cap, possibly even higher speed than Benkei. Only at vsync 30? However, he descends at a 50 degree angle or so, making this movement inconvenient in most areas of the game. The top speed is also affected by stairs speed rule.
+
+### Other notes
+
+He can't participate in infinite jumping since his air special is a downsmash.
+
+## Himiko
+
+- Technique / Dexterity + Fortitude
+
+### Good angled glitch
+
+She is able to breach up to medium-thick walls with her sprint attack. She can also start angled glitch since she has a Samurai-style Musou.
+
+### Average high jump
+
+Air special gives a bit of height, as does air charge attack.
+
+Highest jump so far: jump -> air special -> air charge attack. (Enough to cross about 1.3 tiers at Luoyang stairs.)
+
+### Average speed movement
+
+Himiko has a dash-like sprint attack that you can use repeatedly from sidestep. This will probably increase her regular speed a little bit if you have Agility.
+
+### Average combat setup
+
+Her C1-combo, C3-combo and C4-combo finishers have a long-range effect that could technically be used for delayed damage. She can also buff her own attack while waiting for new enemy waves to appear.
+
+### Other notes
+
+She seems to have no way of attacking through walls.
+
+Every one of Himiko's dozens of projectiles can proc effects like Ice, which creates downright glitchy looking effects.
+
+## Huang Gai
+
+- Wonder / Fortitude + Wonder
+
+### Good angled glitch
+
+He is able to breach up to medium-thick walls with his sprint attack or C1. For thin walls, his EX, C5 or C6 can also work.
+
+### Average attacking through walls
+
+Air special's initial impact can hit but not grab through the walls. Probably pretty unusable range and damage.
+
+### Other notes
+
+One of the least acrobatic characters, with a low jump height and no way to extend the jump with attacks.
+
+He can't participate in infinite jumping either since his air special is a downsmash.
+
+## Huang Zhong
+
+- Speed / Efficacy + Vigor
+
+### Good angled glitch
+
+He is able to breach up to medium-thick walls using his sprint attack (barely), air special or Musou. For thin walls, C1 can also do the trick.
+
+### Average high jump
+
+Regular jump is a bit low, but it can be extended with double jump.
+
+Charge attack gives height but doesn't help moving over ledges.
+
+Air special looks like it flies in a nice arc, but actually Huang Zhong's hitbox doesn't change at all. Overall, it makes you lose height.
+
+Highest jump so far: double jump. (Enough to cross 1.1 tiers at Luoyang.)
+
+### Average infinite jump
+
+His air special and double jump can sustain an IJ chain, but it won't give height. The camera change makes using him a bit awkward too.
+
+### Average speed movement
+
+Huang Zhong can exceed his default running speed by just double jumping everywhere. His regular air attack can help to extend the double jump a little bit.
+
+### Other notes
+
+He has no way of attacking through walls whatsoever.
+
+His air charge attack might work decently for wallzipping in WO3 since it has a long animation.
+
+## Hundun
+
+- Power / Impact + Thrift
+
+### Great angled glitch
+
+He is able to breach up to thick walls with his air special. For medium-thick walls, sprint attack, flying S2 (barely) and C4 can also work.
+
+### Average attacking through walls
+
+Most of his attacks go through walls? He can hit at least 5 meters through walls with EX, for instance.
+
+### Average high jump
+
+His air attacks don't give much height. Even the air special gives worse height than you'd expect. However, if you start a jump, air charge attack or air special from flight, this will objectively give you more height.
+
+The ground combos send Hundun in air, but not particularly high. Hundun's Musou also leaves him fairly high up in air, but this doesn't seem to give much more height than using flight and air charge attack.
+
+You can't interrupt either regular air attack with air special, but you can interrupt flight air attacks with it! Flight jump is uninterruptible by any attacks, though.
+
+Highest jump so far: flight -> air charge attack -> air special -> air charge attack. (Enough to cross about 1.6 tiers at Luoyang stairs.)
+
+### Average/great infinite jump
+
+His air special is a forward air dash. In a regular IJ combo it causes a slow height loss, but for purely horizontal movement it's probably the third best air special in the game (right after Yukimura Sanada and Xingcai).
+
+### Special: flight
+
+Hundun's ground special starts a unique flight mode. It's a non-idle state that lasts indefinitely during which you can do regular attack, charge attack, jump and air special. Can't switch characters or use TTA. Your hitbox is not in air, though, and the mode will end if you go down ledges.
+
+If you are in Gauntlet-mode and have Mystic Bells on, any sucked items stay hovering near Hundun indefinitely since he can't collect them.
+
+If there's roof over your head while flying, Hundun's height will lower temporarily.
+
+The start of the flight animation cannot be interrupted by ledges. Hundun will immediately "warp" on ground level if you do the special over a ledge.
+
+Angled floor cannot interrupt the start of the flight animation either. Quite uniquely, if you save while you're on angled floor during this time, your coordinates become saved on the angled floor. (Normally you get sent to your previous grounded position if you save while sliding down angled floor.)
+
+The start of the flight animation also cannot be interrupted by water surface. Entering water while starting ground special and holding L-stick causes a momentum glitch where Hundun slides on water surface automatically and has some glitchy speed. It seems this glitch ends once you exit water. The ground combos where he also seems to enter flying state work differently and do not glitch up the same way when entering water.
+
+If you hold down L-stick and immediately interrupt Hundun's ground special with one of his moves, his direction will be reversed for a moment and the animation may look a bit odd.
+
+### Other notes
+
+His horse riding animation might be buggy in some way. I've noticed that if you horse ride a lot with Hundun and do things like switch characters, the game may crash.
 
 ## Jia Xu
 
