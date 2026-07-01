@@ -13,7 +13,7 @@ Zhao Yun, [Guan Yu](#Guan-Yu), Zhang Fei, Zhuge Liang, Liu Bei, Ma Chao, [Huang 
 ### *Jin*
 Sima Yi, Sima Shi, Sima Zhao, [Deng Ai](#Deng-Ai), Wang Yuanji, Zhong Hui, Zhuge Dan, Xiahou Ba, [Guo Huai](#Guo-Huai)
 ### *Other 1*
-[Diaochan](#Diaochan), Lu Bu, [Dong Zhuo](#Dong-Zhuo), Yuan Shao, Zhang Jiao, Meng Huo, Zhurong, Zuo Ci, Orochi, [Da Ji](#Da-Ji), Taigong Wang, Sun Wukong, [Fu Xi](#Fu-Xi), Nuwa, Yoshitsune Minamoto, Kiyomori Taira
+[Diaochan](#Diaochan), Lu Bu, [Dong Zhuo](#Dong-Zhuo), Yuan Shao, Zhang Jiao, Meng Huo, Zhurong, [Zuo Ci](#Zuo-Ci), Orochi, [Da Ji](#Da-Ji), Taigong Wang, Sun Wukong, [Fu Xi](#Fu-Xi), Nuwa, Yoshitsune Minamoto, Kiyomori Taira
 ### *Other 2*
 [Himiko](#Himiko), Orochi X, [Dodomeki](#Dodomeki), [Gyuki](#Gyuki), Sanzang, [Benkei](#Benkei), [Kaguya](#Kaguya), Susano'o, Nezha, [Shuten Doji](#Shuten-Doji), Ryu Hayabusa, [Ayane](#Ayane), [Joan of Arc](#Joan-of-Arc), Nemea, [Achilles](#Achilles), Seimei Abe, Rachel, Shennong, Momiji, Tamamo, Yinglong, Nezha, Kyubi, [Hundun](#Hundun), Kasumi, Sterkenburg, Sophitia
 ### *Samurai 1*
@@ -829,7 +829,7 @@ Hanzo Hattori is able to breach some sloped floor with his air special which all
 
 Alternatively, his true musou makes him zip around at a high enough velocity that he can clip sloped floor. To have the right angle, turn Hanzo Hattori so that he is facing away from the direction you want to clip. Clipping through something like the staircases in Nanzhong is easy, but I couldn't get this to work on smaller staircases in Anegawa. This tactic might be a bit too uncontrollable for precision clips, or perhaps it just needs a better setup.
 
-### Unique clone power
+### Special: creating clones
 
 Hanzo Hattori can create two clones of himself using C5 or true musou. These clones are controlled with the same input as the playable character, although their movement does have a few additional limitations. The clones cannot block, double jump, use special moves, turn while attacking or create additional clones with C5. They also disappear after you wait around 10-15 seconds, or even sooner if you switch characters, try to get on horse or the true musou finishing move is about to start.
 
@@ -839,7 +839,7 @@ Besides increasing Hanzo Hattori's immediate combat power, the clones have two o
 
 Second is that with a precise positioning, it's possible to spawn clones through thin walls like garrison gates. Using C5 for this requires precise positioning, but it seems quite easy if you activate true musou instead. This is likely quite a powerful way to attack enemies through walls, but its exact maximum range and overall effectiveness are still yet to be estimated. After all, it's difficult to hit enemies without any visibility at a distance using Hanzo Hattori's basic moveset which has a limited range and a lot of criss-cross movement.
 
-Other observations regarding clones:
+#### Other observations regarding clones
 
 - For some reason switching characters while not neutral (i.e. if you are jumping, on horse, etc.) allows you to switch characters without the clones disappearing, allowing other characters to benefit from their presence as well. You cannot switch back to Hanzo Hattori without the clones disappearing, though.
 
@@ -969,6 +969,8 @@ He has no way of attacking through walls whatsoever.
 
 His air charge attack might work decently for wallzipping in WO3 since it has a long animation.
 
+Efficacy + Vigor is arguably the best combination of traits for increasing your damage output once your weapon and stats have been maxed out, so it might sometimes be worth it in individual level runs to take Huang Zhong into your team simply for the passive damage boost he provides.
+
 ## Hundun
 
 - Power / Impact + Thrift
@@ -1010,6 +1012,8 @@ Angled floor cannot interrupt the start of the flight animation either. Quite un
 The start of the flight animation also cannot be interrupted by water surface. Entering water while starting ground special and holding L-stick causes a momentum glitch where Hundun slides on water surface automatically and has some glitchy speed. It seems this glitch ends once you exit water. The ground combos where he also seems to enter flying state work differently and do not glitch up the same way when entering water.
 
 If you hold down L-stick and immediately interrupt Hundun's ground special with one of his moves, his direction will be reversed for a moment and the animation may look a bit odd.
+
+Flight cannot be used as a speed tactic. Although the flight speed scales with Hundun's base Speed, even at its fastest it's slower than just running normally.
 
 ### Other notes
 
@@ -1767,43 +1771,107 @@ His air special offers an effortless clip past large sloped floors like Nanzhong
 
 ### Other notes
 
-His regular air attack has a bizarrely high damage box, and it can hit enemies that are over 3 meters above, at least. This is possible to try at Nanzhong under Achilles fight arena.
+His regular air attack has a bizarrely high damage box, and it can hit enemies that are over 3 meters above, at least. This is possible to try at Nanzhong if you go out of bounds under Achilles fight arena.
+
+## Zuo Ci
+
+- Technique / Regeneration + Impulse
+
+### Good angled glitch
+
+He is able to breach up to medium-thick walls using his sprint attack.
+
+### Average attacking through walls
+
+His air special affects enemies a few meters through walls.
+
+### Conditionally great speed movement
+
+His air special is a droopy downsmash that gets glitchy momentum during vsync 30 due to a neutral L-stick bug. This is likely the fastest airborne movement and easily exceeds speed cap. The angle of the downsmash is fairly generous, allowing you to do it pretty efficiently as long as you have good starting height or you are in some area with a slight downwards incline.
+
+If you use L-stick or touch any collision during the air special, it will lose its buggy extra speed. This means you can't steer during the air special or use it in very cramped areas without losing the bonus speed, limiting its potential somewhat. But even if you lose your top speed, the movement speed remains quite close to Speed cap.
+
+### Average combat setup
+
+C1 leaves a slowly moving projectile that explodes after 4-5 seconds. Two can exist at once. Could work for fairly controllable delayed damage setup, although I'm not sure about if it's enough to kill later officers.
+
+### Other notes
+
+He can't do any kind of high or infinite jumps. His regular air attacks don't help in gaining height, and his air special is a downsmash.
+
+His musou is one of the best damage-dealing tools in the game, which comes in handy during any%.
 
 ## Technical stuff
 
 I've used the following criteria for determining speedrun usefulness:
 
 - Speed movement. How fast a character can move solo. By default, testing takes into account Agility 10 on weapon but assumes default Speed. This is for two reasons: firstly, assuming everyone is at base Speed is more useful for covering original WO3 tactics where upgrade stone duping did not exist. Secondly, Agility 10 is easier to set up in full game runs than 360 Speed, so realistically you'd encounter a situation where a character has Agility on weapon but only base Speed more often than the other way around.
-- - 0 = character's maximum speed does not exceed 150. 1 = character's maximum speed is under 200, does not obsolete a horse. 2 = character's maximum speed is over 200, can obsolete a horse. 3 = character can move at Speed cap or go over it. Half a point may be added or removed because of conditionality, i.e. a character might get 2,5 if they can pass Speed cap in steep downhill areas but nowhere else.
+  - 0 = character's maximum speed does not exceed 150.
+  - 1 = character's maximum speed is under 200, does not obsolete a horse.
+  - 2 = character's maximum speed is over 200, can obsolete a horse.
+  - 3 = character can move at Speed cap or go over it.
+
+Half a point may be added or removed because of conditionality, i.e. a character might get 2,5 if they can pass Speed cap in steep downhill areas but nowhere else.
  
 - Angled glitch. How good a character is for going under walls while angled. Characters who have a convenient access to lengthy non-looping attacks that propel them forward work the best for this purpose.
-- - 0 = character cannot pass any kind of walls while angled. 1 = character can pass thin walls while angled. 2 = character can pass medium-thick walls while angled. 3 = character can pass thick walls while angled. Half a point may be added or removed for conditionality, i.e. a character might get 2,5 if they can breach thick walls but the attack for doing so is inconvenient, like the last hit of a slow combo string.
+  - 0 = character cannot pass any kind of walls while angled.
+  - 1 = character can pass thin walls while angled.
+  - 2 = character can pass medium-thick walls while angled.
+  - 3 = character can pass thick walls while angled.
  
- Note: these tests were made with Agility 10 on character weapon, and it should be noted that the faster animation makes angled glitch less effect. In other words, it's possible that some characters might go up a notch in ratings if you gave them a weapon with less Agility.
+ Half a point may be added or removed for conditionality, i.e. a character might get 2,5 if they can breach thick walls but the attack for doing so is inconvenient, like the last hit of a slow combo string. Note: these tests were made with Agility 10 on character weapon, and it should be noted that the faster animation makes angled glitch less effect. In other words, it's possible that some characters might go up a notch in ratings if you gave them a weapon with less Agility.
  
 - Attacking through walls. How well a character can snipe targets through walls.
-- - 0 = character can't hit anything through walls. 1 = character can hit a short distance (2-5 meters) through walls. 2 = character can hit a medium distance (around 5 - 10 meters) through walls. 3 = character can hit a long or even arbitrarily long distance through walls. Note that these meter amounts are just rough estimates. Half a point may be added or removed for conditionality, i.e. a character might get 2,5 if they can hit a long distance through walls, but you need a specific setup to do so.
+  - 0 = character can't hit anything through walls.
+  - 1 = character can hit a short distance (2-5 meters) through walls.
+  - 2 = character can hit a medium distance (around 5 - 10 meters) through walls.
+  - 3 = character can hit a long or even arbitrarily long distance through walls. Note that these meter amounts are just rough estimates.
+
+Half a point may be added or removed for conditionality, i.e. a character might get 2,5 if they can hit a long distance through walls, but you need a specific setup to do so.
  
 - Solo high jump. What's the highest jump a character can do solo. My testing has been done in Luoyang, where there's a tiered staircase with a ledge above it.
-- - 0 = character can't pass the lowest tier in Luoyang. 1 = character can pass the first tier in Luoyang. 2 = character can pass the second tier in Luoyang. 3 = character can skip the staircase and jump up the above ledge from the ground level. Half a point may be added if a character's highest jump is around the middle of two tiers.
+  - 0 = character can't pass the lowest tier in Luoyang.
+  - 1 = character can pass the first tier in Luoyang.
+  - 2 = character can pass the second tier in Luoyang.
+  - 3 = character can skip the staircase and jump up the above ledge from the ground level.
+
+Half a point may be added if a character's highest jump is around the middle of two tiers.
  
 - Solo long jump. What's the longest jump a character can do solo.
-- - 0 = character can jump less than a double jump's worth. 1 = character can jump a double jump's worth. 2 = character can jump triple or quadruple jump's worth. 3 = character can glide or fly for even longer than that.
+  - 0 = character can jump less than a double jump's worth.
+  - 1 = character can jump a double jump's worth.
+  - 2 = character can jump triple or quadruple jump's worth.
+  - 3 = character can glide or fly for even longer than that.
  
 - Team jumping (horizontal). How well a team member can contribute in an infinite jump which needs to have a good horizontal reach.
-- - 0 = character is incompatible with infinite jumping. 1 = character can sustain an infinite jump with no real contribution. 2 = character is helpful in an infinite jump. 3 = character is a superb infinite jumper.
+  - 0 = character is incompatible with infinite jumping.
+  - 1 = character can sustain an infinite jump with no real contribution.
+  - 2 = character is helpful in an infinite jump.
+  - 3 = character is a superb infinite jumper.
 
 - Team jumping (vertical). How well a team member can contribute in an infinite jump that just needs to get height as quick as possible.
-- - 0 = character is incompatible with infinite jumping. 1 = character can sustain an infinite jump with no real contribution. 2 = character is helpful in an infinite jump. 3 = character is a superb infinite jumper.
+  - 0 = character is incompatible with infinite jumping.
+  - 1 = character can sustain an infinite jump with no real contribution.
+  - 2 = character is helpful in an infinite jump.
+  - 3 = character is a superb infinite jumper.
  
 - Wallzipping. How good is a character in wallzipping? Zhang He and Xiahou Ba belong in a tier of their own because of their superb speed buff that makes wallzipping more consistent for them than anyone else.
-- - 0 = characters who have no wallzip-compatible attacks. 1 = characters who can do a wallzip. 2 = characters who can buff their own speed for more consistent wallzips. 3 = Zhang He and Xiahou Ba.
+  - 0 = characters who have no wallzip-compatible attacks.
+  - 1 = characters who can do a wallzip.
+  - 2 = characters who can buff their own speed for more consistent wallzips.
+  - 3 = Zhang He and Xiahou Ba.
 
 - Combat setup. Does a character have any tools to save time in less straightforward combat encounters, for instance if officers spawn with a delay or from multiple directions. For instance, Dong Zhuo can leave multiple bombs which can kill multiple officers in different parts of the same room right as they spawn, saving a lot of time compared to another character who would have to take care of them with normal attacks.
-- - 0 = no way to setup delayed damage or prepare in any other way. 1 = inconsistent or weak delayed damage or setup. 2 = good delayed damage or setup. 3 = incredible delayed damage or setup.
+  - 0 = no way to setup delayed damage or prepare in any other way.
+  - 1 = inconsistent or weak delayed damage or setup.
+  - 2 = good delayed damage or setup.
+  - 3 = incredible delayed damage or setup.
 
 - Sloped floor clip. Can a character clip through sloped floor?
-- - 0 = no way to clip through sloped floor. 1 = very situational sloped floor clip. 2 = better sloped floor clip ability. 3 = best sloped floor clip ability.
+  - 0 = no way to clip through sloped floor.
+  - 1 = very situational sloped floor clip.
+  - 2 = better sloped floor clip ability.
+  - 3 = best sloped floor clip ability.
 
 It would make this guide a bit dry and unreadable if I included every category for every character, so for now I've just focused on talking about each character's highlights. But perhaps I could add a LibreOffice Calc sheet which lists everyone's numbers at some point, once I've finished testing.
 
