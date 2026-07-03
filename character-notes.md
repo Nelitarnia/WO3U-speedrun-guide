@@ -15,7 +15,7 @@ Sima Yi, Sima Shi, Sima Zhao, [Deng Ai](#Deng-Ai), Wang Yuanji, Zhong Hui, Zhuge
 ### *Other 1*
 [Diaochan](#Diaochan), Lu Bu, [Dong Zhuo](#Dong-Zhuo), Yuan Shao, Zhang Jiao, Meng Huo, Zhurong, [Zuo Ci](#Zuo-Ci), Orochi, [Da Ji](#Da-Ji), Taigong Wang, Sun Wukong, [Fu Xi](#Fu-Xi), Nuwa, Yoshitsune Minamoto, Kiyomori Taira
 ### *Other 2*
-[Himiko](#Himiko), Orochi X, [Dodomeki](#Dodomeki), [Gyuki](#Gyuki), Sanzang, [Benkei](#Benkei), [Kaguya](#Kaguya), Susano'o, Nezha, [Shuten Doji](#Shuten-Doji), Ryu Hayabusa, [Ayane](#Ayane), [Joan of Arc](#Joan-of-Arc), Nemea, [Achilles](#Achilles), Seimei Abe, Rachel, Shennong, Momiji, Tamamo, Yinglong, Nezha, Kyubi, [Hundun](#Hundun), Kasumi, Sterkenburg, Sophitia
+[Himiko](#Himiko), Orochi X, [Dodomeki](#Dodomeki), [Gyuki](#Gyuki), Sanzang, [Benkei](#Benkei), [Kaguya](#Kaguya), Susano'o, Nezha, [Shuten Doji](#Shuten-Doji), Ryu Hayabusa, [Ayane](#Ayane), [Joan of Arc](#Joan-of-Arc), Nemea, [Achilles](#Achilles), Seimei Abe, Rachel, Shennong, Momiji, Tamamo, Yinglong, [Nezha](#Nezha), Kyubi, [Hundun](#Hundun), Kasumi, Sterkenburg, Sophitia
 ### *Samurai 1*
 [Yukimura Sanada](#Yukimura-Sanada), Keiji Maeda, Nobunaga Oda, Mitsuhide Akechi, Kenshin Uesugi, Oichi, Okuni, Kunoichi, Magoichi Saika, Shingen Takeda, Masamune Date, No, [Hanzo Hattori](#Hanzo-Hattori), Ranmaru Mori, [Hideyoshi Toyotomi](#Hideyoshi-Toyotomi)
 ### *Samurai 2*
@@ -801,6 +801,12 @@ His air special gives some height, although the animation is somewhat slow to sp
 
 He can use his near-infinitely long-range air special for doing some specialized delayed/long-range damage.
 
+### Other notes
+
+Due to his large size, when getting on a ladder the game automatically places him one step higher than other characters.
+
+If you activate TTA on a ladder as Gyuki after climbing at least 1 step, he falls down from the ladder while becoming angled, the TTA activation animation is skipped and the TTA intro cutscene is delayed. This could have an advantage in very specific situations if you want to use angled glitch with a TTA-setup.
+
 ## Hanzo Hattori
 
 • Speed / Efficacy + Vigor
@@ -1222,6 +1228,14 @@ Like all twin swords users, his air charge attack could perhaps work for doing a
 ### Other notes
 
 He can't be used for infinite jumping since his air special ends in a downsmash.
+
+## Nezha
+
+WIP
+
+### Other notes
+
+If you activate TTA on a ladder as Nezha after climbing at least 1 step, he falls down from the ladder while becoming angled, the TTA activation animation is skipped and the TTA intro cutscene is delayed. This could have an advantage in very specific situations if you want to use angled glitch with a TTA-setup.
 
 ## Pang De
 
