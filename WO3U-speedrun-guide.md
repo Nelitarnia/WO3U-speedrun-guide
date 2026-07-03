@@ -319,11 +319,24 @@ This is a glitch which impacts your character's z-axis so that they gain a sligh
 
 This trick is a useful alternative to infinite jumping for bypassing finite height obstacles. However, it has a few limitations as well. The biggest of them is that you need a ladder to give your character an angle, which means this glitch is not possible to do in every map. (Ladders are generally only present in maps adapted from Dynasty Warriors.)
 
-There are two ways to start this glitch. First setup requires a character with Samurai Warriors-style mechanics. If you are on a ladder when a Samurai-style musou runs out, the ladder climbing animation will become interrupted and the angle of the ladder gets stuck on your character, which starts the glitch. Second setup involves activating TTA while on a ladder. The idea is the same: TTA interrupts ladder climb while leaving your character angled.
+There are two ways to start this glitch. First setup requires a character with Samurai Warriors-style mechanics. If you are on a ladder when a Samurai-style musou runs out, the ladder climbing animation will become interrupted and the angle of the ladder gets stuck on your character, which starts the glitch. Second setup involves activating TTA while on a ladder. The idea is the same: TTA interrupts ladder climb while leaving your character angled. Both setups have their ups and downs.
 
-Both setups have their ups and downs. The first setup with a Samurai-style musou has an unskippable 5-second long animation when you activate the musou. The setup has a negative synergy with Thrift characters because having Thrift extends the waiting period before your character's musou expires. Also, being out of musou can be an inconvenience if you're planning on using the Samurai-style character afterwards for combat or infinite jumping.
+#### Samurai-setup
 
-The second setup with TTA requires you to fight some enemies to build a full TTA-bar. A character like Wang Yuanji with a Confluence on her weapon can build up a full TTA-bar with just a few attacks if you can find a thick crowd of enemies, so this isn't necessarily too big a problem. Another thing to watch out for is that after you activate TTA to start angled glitch, TTA will remain active in the background, resulting in a slow special attack cutscene soon unless you find a way to interrupt it first (using slippery surface or water). All these things considered, using Samurai-style musou is generally more convenient.
+- The biggest obvious drawback of the Samurai-setup is the unskippable 4-5 second long animation when you activate musou. There's also a short post-musou animation which a character will do even on a ladder unless they're high enough.
+- This setup has a few second opportunity cost since you will be stuck as the Samurai-character and cannot use speed tactics like Benkei speed movement while waiting for your musou-gauge to run out.
+- Since the Samurai-character will be out of musou afterwards, this can be an inconvenience if you were planning to use them for combat or infinite jumping.
+- This setup can have a negative synergy with Thrift characters because having Thrift extends the waiting period before your character's musou expires.
+
+#### TTA-setup
+
+- The TTA-setup needs enemies to work. A character like Wang Yuanji with a Confluence on her weapon can build up a full TTA-bar with just a few attacks if you can find a thick crowd of enemies, so this isn't necessarily a big time loss, but it does place some new demands on your routing.
+- Like a Samurai-musou, TTA activation also causes a 4-5 second long animation upon activation. However, this can be avoided in certain contexts:
+    - If you climb at least 7 steps of the ladder, activating TTA will make your character fall and hit some slippery collision that is a part of the ladder, automatically ending TTA right after it begins while still leaving you angled. (Gyuki only has to climb 6 steps because of his large size.)
+    - If you are either Gyuki or Nezha and have climbed at least one step of the ladder, activating TTA will cause the character to fall down, skipping their TTA animation as well as delaying the TTA intro indefinitely. The TTA remains active in the background, and the TTA intro will appear with a delay if you don't find a way to prevent it. This basically gives you a window of opportunity to cancel TTA in an alternative way by hitting slippery floor, water or a cutscene trigger within a few seconds, but it's unknown if it can actually be faster than the above.
+- If you want to save time with this setup, you have no choice but to end TTA before it resolves and you have to watch the big finisher attack cutscene. A level can't end as long as TTA is active, so just quickly getting to the final boss of the level and sniping him isn't an option.
+
+#### More info about angled glitch
 
 It's possible to categorize obstacles into three different tiers of "thickness", i.e. how easy they are to pass under. Thin garrison gates are really simple to bypass. Sturdier gates are medium-thick, requiring you to go a bit deeper underground before you can actually clip past them. Some obstacles like garrison walls are very thick, and your character needs to be able to sink at least a few meters before they can clip all the way through.
 
