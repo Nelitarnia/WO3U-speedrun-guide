@@ -15,7 +15,7 @@ Sima Yi, Sima Shi, Sima Zhao, [Deng Ai](#Deng-Ai), Wang Yuanji, Zhong Hui, Zhuge
 ### *Other 1*
 [Diaochan](#Diaochan), Lu Bu, [Dong Zhuo](#Dong-Zhuo), Yuan Shao, Zhang Jiao, Meng Huo, Zhurong, [Zuo Ci](#Zuo-Ci), Orochi, [Da Ji](#Da-Ji), Taigong Wang, Sun Wukong, [Fu Xi](#Fu-Xi), Nuwa, Yoshitsune Minamoto, Kiyomori Taira
 ### *Other 2*
-[Himiko](#Himiko), Orochi X, [Dodomeki](#Dodomeki), [Gyuki](#Gyuki), Sanzang, [Benkei](#Benkei), [Kaguya](#Kaguya), Susano'o, Nezha, [Shuten Doji](#Shuten-Doji), Ryu Hayabusa, [Ayane](#Ayane), [Joan of Arc](#Joan-of-Arc), Nemea, [Achilles](#Achilles), Seimei Abe, Rachel, Shennong, Momiji, Tamamo, Yinglong, [Nezha](#Nezha), Kyubi, [Hundun](#Hundun), Kasumi, Sterkenburg, Sophitia
+[Himiko](#Himiko), Orochi X, [Dodomeki](#Dodomeki), [Gyuki](#Gyuki), Sanzang, [Benkei](#Benkei), [Kaguya](#Kaguya), Susano'o, [Nezha](#Nezha), [Shuten Doji](#Shuten-Doji), Ryu Hayabusa, [Ayane](#Ayane), [Joan of Arc](#Joan-of-Arc), Nemea, [Achilles](#Achilles), Seimei Abe, Rachel, Shennong, Momiji, Tamamo, Yinglong, [Nezha Human](#Nezha-Human), Kyubi, [Hundun](#Hundun), Kasumi, Sterkenburg, Sophitia
 ### *Samurai 1*
 [Yukimura Sanada](#Yukimura-Sanada), Keiji Maeda, Nobunaga Oda, Mitsuhide Akechi, Kenshin Uesugi, Oichi, Okuni, Kunoichi, Magoichi Saika, Shingen Takeda, Masamune Date, No, [Hanzo Hattori](#Hanzo-Hattori), Ranmaru Mori, [Hideyoshi Toyotomi](#Hideyoshi-Toyotomi)
 ### *Samurai 2*
@@ -1236,6 +1236,44 @@ WIP
 ### Other notes
 
 If you activate TTA on a ladder as Nezha after climbing at least 1 step, he falls down from the ladder while becoming angled, the TTA activation animation is skipped and the TTA intro cutscene is delayed. This could have an advantage in very specific situations if you want to use angled glitch with a TTA-setup.
+
+## Nezha Human
+
+- Speed / Impulse + Speed
+
+### Good angled glitch
+
+Nezha (Human) is able to breach up to medium-thick walls with his sprint attack, Musou, air charge attack or C3. For thin walls, C4 also works.
+
+### Top attacking through walls (!)
+
+Nezha has two formidable attacks for damaging enemies through walls. The first one is his air special, which sends a descending projectile which can hit enemies from maybe 15-20 meters away. This is comparable to Xiahou Dun's air special, except it only hits once instead of creating multiple light damage hits on contact.
+
+As for the second attack, it may very well be the best attack in the game for damaging enemies through walls. His fully charged C1 creates a massive eruption of fire which quickly moves forward for 25-30 meters and strikes anything on its way for high damage. What's even more curious is that the damage of this attack is influenced by other attacks Nezha is currently doing. So doing f.e. an air charge attack right after sending out the C1 projectile can increase its damage. (Thanks to gmptdgtm for this info.)
+
+As an honorable mention, Nezha's musou attack also pulls in enemies through walls for high damage in about a 10-meter radius.
+
+### Average high jump
+
+His air attacks give a little bit of height. Air special too helps a little with height.
+
+EX is a launcher with which to start a jump, it seems to give a bit more height than double jump.
+
+Highest jump so far: EX -> double jump -> air special -> jump -> air charge attack. (This is enough to cross 1.6 steps at Luoyang stairs.)
+
+### Good infinite jump
+
+Nezha (Human) can contribute to infinite jumps with his air special which gives slow, steady height. Double jumps also helps.
+
+### Conditionally great speed movement
+
+Nezha (Human) can exceed his regular running speed by chaining double jumps.
+
+His air charge attack is a downsmash with a [neutral L-stick bug](https://github.com/Nelitarnia/WO3U-speedrun-guide/blob/main/WO3U-speedrun-guide.md#Neutral-L-stick-bugs). It's influenced by his base Speed, but if you also leave L-stick neutral, the speed of the downsmash increases and likely exceeds Speed cap at its highest. The downsmash has a fairly steep angle, so it doesn't fly too far, but it could be useful here and there for navigation. Might only work on vsync 30.
+
+### Average combat setup
+
+Musou leaves a lingering fire effect for a few seconds, which might count as delayed damage. Besides that, his long-range attacks can be used to setup delayed damage in certain conditions.
 
 ## Pang De
 
