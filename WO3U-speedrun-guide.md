@@ -180,9 +180,9 @@ It's useful to note that it's not only the grounded digging state which breaks S
 
 Besides being very fast, one huge advantage of Benkei's speed digging is that it's extremely steerable. Although it's a little difficult to control since you move so quick, it's fundamentally a highly responsive movement tactic that you can even use in narrow areas with tight corners with some practice. Benkei is also immune to water and slippery collision while digging, allowing him to move quickly even through challenging terrain.
 
-Each dig is followed by a short cooldown, but you can skip most of it with a character switch. It's a bit of a bother, but this saves a second or two per use.
+Each dig is followed by a short cooldown, but you can skip most of it with a character switch. It's a bit of a bother, but this saves a second or two per use. As another subtle detail, if you have bumped into an enemy recently and activate a switch attack as you switch characters, this can act as a minor time save or time loss depending on your team composition. As a general rule: Speed-characters are able to jump out of their switch attacks, so in practice switching into them allows you to move forward as you switch characters instead of stopping completely on your tracks, thus saving a little bit of time each switch.
 
-This movement tactic is incredibly useful in individual level categories, but it's harder to utilize in full game runs - for best results, you first have to setup Benkei with maxed out Speed and Agility 10. It's also very costly as far as musou is concerned if you try relying on it early game.
+This movement tactic is incredibly useful in individual level categories, but it's harder to utilize in full game runs. For best results, you first have to setup Benkei with maxed out Speed and Agility 10. It's also very costly as far as musou is concerned if you try relying on it early game.
 
 Benkei speed digging is more situational on PS4 because it only works at low frame rate. You can do it everywhere with vsync 30 on PC.
 
@@ -230,11 +230,15 @@ https://www.youtube.com/watch?v=EHYF-OrUcFk
 
 ### Wang Yi zipping
 
-This trick relies on a [neutral L-stick bug](#Neutral-L-stick-bugs). If you do Wang Yi's regular air attack high in air while keeping L-stick neutral, her air momentum starts building exponentially. Eventually she will zip forward at such a high velocity that she can potentially even end up outside the level boundaries.
+This trick relies on a [neutral L-stick bug](#Neutral-L-stick-bugs). If you do Wang Yi's regular air attack at least 5-6 meters air while keeping L-stick neutral, her horizontal velocity starts building exponentially. Eventually she will zip to her current direction at such a high velocity that she can potentially even end up outside the level boundaries.
 
-The effect is different depending on your frame rate. At higher frame rates, the trick is more controllable and it only sends you flying forward at an extremely high speed. At low frame rate, your velocity increases past all comprehension and your coordinates may end up wrapping (?), causing Wang Yi to essentially teleport somewhere with a small degree of randomness.
+The effect is different depending on your frame rate. At higher frame rates, the trick is more controllable and it only sends you flying forward at an extremely high speed. At low frame rate, your velocity increases past all comprehension and your coordinates may end up wrapping (?), causing Wang Yi to essentially teleport somewhere in a somewhat unintuitive way.
 
-This is without a doubt the single fastest movement tactic in the game - it's so fast that it literally breaks the game's physics. It's difficult to control, but being able to go nearly instantly from spot A to spot B can be very handy in speedruns. This is also the only known way to teleport past level boundaries, which is a rather unique utility. Unfortunately, the high difficulty and randomness of this trick makes it mostly relevant for individual level runs. You also need a lot of height to really make use of the exponential speed gain.
+This glitch is tough to setup because the outcome is dependent on both your current movement speed and height as well as the way you end the zip. If you press nothing and just let the zip run its course, it will eventually stop by itself (usually with Wang Yi somewhere fairly close to the original zipping location or somewhere out of bounds). However, you can also end the zip early by doing other actions, including just pressing L-stick to clamp Wang Yi's velocity to something sane. I don't think there is actual randomness to the zip, but to do some teleportations I think you have to precisely interrupt the zip at a specific point.
+
+You usually start Wang Yi zipping after a double jump to quickly build up forward velocity, but it can really be done after almost any air action if you just have enough height. For instance, if you just switch to Wang Yi and do her regular air attack immediately after doing Zhang He's air special after a wallzip, you start building velocity towards Wang Yi's right, offering an alternative setup for creating different types of zip trajectories.
+
+This is without a doubt the single fastest movement tactic in the game - it's so fast that it literally breaks the game's physics. It's difficult to control, but being able to go nearly instantly from spot A to spot B can be very handy in speedruns. This is also the only known way to teleport past walls, which is a rather unique utility. Unfortunately, the comparative weirdness and high difficulty of some of this trick's setups makes it mostly relevant for individual level runs. You need a lot of height to really make use of the exponential speed gain, which means Wang Yi usually likes to be paired up with Zhang He or infinite jumpers for building up good height in the first place.
 
 This trick DOES work in the original WO3, but it's much harder to set up since your ways of gaining a lot of height are far more limited.
 
@@ -552,10 +556,10 @@ The TTA finishing animation has a subtly buggy effect which resembles the [speci
 
 As mentioned above, it's possible to escape map boundaries entirely using [Wang Yi zipping](#Wang-Yi-zipping). There seems to be a chest floating out of bounds in each map, usually situated in one of the map's corners. Does this signify the map's point of origin? It's possible to hit and open the chest with some precise infinite jumping movement, but at least based on a few attempts, nothing special happens afterwards.
 
-All the wall collision is two-sided and generally rather disallowing out of bounds. It's usually not possible to get much closer to the in-bounds area once you're fully outside since the level geometry will simply block you sooner or later. If this wasn't the case, Wang Yi-zipping might've allowed doing some unique officer sniping tactics from outside the playable area. It's also not uncommon to get stuck inside a "pocket" of intersecting walls somewhere near the playable area if Wang Yi zipping doesn't throw you all the way outside the map.
+All the wall collision is two-sided and generally rather disallowing out of bounds. It's usually not possible to get very close to the in-bounds area once you're fully outside since the level geometry will simply block you sooner or later. If this wasn't the case, Wang Yi-zipping might've allowed doing some unique officer sniping tactics from outside the playable area. It's also not uncommon to get stuck inside a "pocket" of intersecting walls somewhere near the playable area if Wang Yi zipping doesn't throw you all the way outside the map.
 
 Going fully out of bounds has some differences between PC vs console:
-- Double jumping seems to grant your character no horizontal velocity, forcing you to exclusively move around with aerial attacks like Yukimura's air special. If you fall to the bottom of the map, the whole screen goes dark and the map indicator showing your location is no longer updated, so it's impossible to tell where you are. You also lose control of your entire character if you don't immediately double/infinite jump back into air.I tried infinite jumping for a while when the screen was dark - I could hear audio, but never got visibility back.
+- Double jumping seems to grant your character no horizontal velocity, forcing you to exclusively move around with aerial attacks like Yukimura's air special. If you fall to the bottom of the map, the whole screen goes dark and the map indicator showing your location is no longer updated, so it's impossible to tell where you are. You also lose control of your entire character if you don't immediately double/infinite jump back into air. I tried infinite jumping for a while when the screen was dark - I could hear audio, but never got visibility back.
 - If you fall to the bottom of the map on console, you can instead see that your character becomes invisible when hitting the bottom of the map - or perhaps they vanish entirely. Doing ground actions is not possible at the moment, but jumping allows you to escape the bottom of the map and become visible again. All aerial actions seem to interrupt instantly as you land on the bottom of the map. It's much easier to do out of bounds exploration on console because of this reason, although for now going far outside the map serves no practical purpose, it just looks neat. But testing hasn't been systematic on this front.
 
 ## Horse
@@ -596,7 +600,7 @@ The game has three weapon attributes - Agility, Potency and Precision - which gi
 
 #### Agility
 
-I observed the frames of Orochi X's ground special at different levels of Agility to see what kind of an impact it actually has. It turns out the logic behind Agility is a bit stranger than expected. Here's a table to illustrate:
+I observed the frames of a few different characters' ground specials (f.e. Orochi X) at different levels of Agility to see what kind of an impact it actually has. It turns out the logic behind Agility is a bit stranger than expected. Here's a table to illustrate:
 
 | Agility | Lv. 1 | Lv. 2 | Lv. 3 | Lv. 4 | Lv. 5 | Lv. 6 | Lv. 7 | Lv. 8 | Lv. 9 | Lv. 10 |
 | ------- | ----- | ----- | ----- | ----- | ----- | ----- | ----- | ----- | ----- | ------ |
@@ -661,7 +665,7 @@ Unlocking 5-star weapons is a painful grind. To get the right ingredients, you h
 
 It might be worth it maxing out a big-star weapon for some Thrift-character to get a big early boost to your attack power. Hanging out in high miasma fights tends to drop some weapons that have a boosted innate power; with any luck, you can replace big-star and 4-star weapons pretty soon with a dropped weapon and that way increase your effectiveness while waiting for those 5-star weapons to arrive. Ultimately, there is no alternative to 5-star weapons that you've hand-crafted and set-up yourself.
 
-Try to unlock Mystic Bells so that dropped items are vacuumed towards your character so that you don't miss anything in the heat of fighting.
+Try to unlock Mystic Bells so that dropped items are vacuumed towards your character so that you don't miss anything in the heat of fighting. Procurement in your weapon also duplicates all item drops all of the time, which essentially cuts the grind short by half. Incredibly useful to have.
 
 ## Useful weapon traits?
 
@@ -671,13 +675,13 @@ Agility increases all weapon attack speeds up to 17%. It's a must for speedrunni
 
 Osmosis is a life-saver if you decide to break Gauntlet-mode with a Samurai-style Thrift character like No. Start your musou to become invulnerable and keep supplying yourself with infinite energy by doing a charge attack every now and then, simple as that.
 
-Alacrity gives you a health & musou refill with every 500-hit combo, which again wil completely break Gauntlet-mode if you have a Samurai-style character who can generate a lot of combo, f.e. Motonari Mori.
+Alacrity gives you a health & musou refill with every 500-hit combo, which again will completely break Gauntlet-mode if you have a Samurai-style character who can generate a lot of combo, f.e. Motonari Mori.
 
 Bombast is similar, giving you some free musou-energy every 500 hits of a combo. If you are playing as a character who has good specials and can generate combo easily, this can make them nearly invulnerable.
 
 Aggression gives the helpful War God's Axe (i.e. attack buff) effect every 200 hits. You won't reach 200 hits in most levels while doing individual level runs, but it's definitely useful when grinding.
 
-Procurement in your weapon duplicates all item drops all of the time, which essentially cuts the grind short by half. Incredibly useful to have.
+Wrath and similar traits give elemental effects to all of your weapon attacks in certain conditions. This can be very powerful depending on the character.
 
 ## Building up compatibility
 
@@ -687,7 +691,7 @@ The process of building up compatibility is easier with characters who have mass
 
 To speed up the accumulation of weapon exp, get Harmony on your weapon. Besides that, there are a few characters who have Expertise as a passive skill - keeping them in your party will also speed up the rate at which you gain weapon exp. These characters are Gyuki, Momiji, Rachel and Da Ji.
 
-But still, even in the best case scenario, building up weapon exp is very, very slow indeed... Plan ahead on who you're going to use in individual level runs and upgrade selectively to save some time.
+But still, even in the best case scenario, building up weapon exp is very slow indeed... Plan ahead on who you're going to use in individual level runs and upgrade selectively to save some time.
 
 ## Building up skills
 
@@ -703,9 +707,9 @@ Some individual levels also can make use of Matsukaze or Red Hare, so those are 
 
 General guidelines for team building (especially on NG+ categories):
 
-- Always try to take Benkei or Xiahou Yuan for fast navigation.
+- You almost always want to take Benkei or Xiahou Yuan for fast navigation (unless you're relying on Thrift-boosting on horse).
 
-- If you want to infinite jump, always get Xingcai. If you need a lot of horizontal reach, pair her with Yukimura Sanada. Or if you need fast height gain, Hanzo Hattori.
+- If you want to infinite jump, always get Xingcai. If you need a lot of horizontal reach, pair her with Yukimura Sanada. Or if you need fast height gain, f.e. Hanzo Hattori.
 
 - If you want to wallzip, always get Zhang He. If you want to keep flying through the air afterwards, consider Pang Tong, Sanzang, Seimei Abe or two infinite jumpers.
 
