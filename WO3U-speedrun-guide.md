@@ -112,15 +112,15 @@ This is one of the fastest ways to gain height in this game. However, there's a 
 
 First of all, this glitch is much more likely to occur at a low frame rate. If you want to try it on PC, keep vsync at 30.
 
-Secondly, characters who can buff their own animation speed have a noticeable advantage. Zhang He who has buffed his own speed can get wallzips to occur at a much higher rate compared to other characters who do not have a speed buff.
+Secondly, characters who can buff their own animation speed have a noticeable advantage. Zhang He is superior in this respect since he has one of the best speed buffs in the entire game along with a suitable move set for wallzipping. He can get wallzips to occur at a much higher rate compared to almost anyone else, and wins in overall usability over his biggest wallzipping competitor Xiahou Ba.
 
 Thirdly, certain pieces of collision or arrangements of level objects can greatly increase the chance of a wallzip. For instance, there's a nearly guaranteed wallclimb location in Luoyang if you position your character in between one of the opened palace doors and the nearby large pots. It seems tight spaces are generally good for doing wallzips.
 
-Weapon attack speed as influenced by Agility/Potency/Precision clearly influences the effectiveness of wallzipping while possibly influencing the trick's consistency too. Agility 10 increases the general velocity of the wallzip and depending on the attack it may also make your height overshoot, resulting in a high "bounce" once the current animation ends. Potency/Precision on the other hand slows down the general velocity, making you gain only maybe two thirds of the height that you'd gain with Agility 10. It seems the slower velocity also prevents the possibility of your height overshooting at the end of the current animation.
+Weapon attack speed as adjusted by Agility/Potency/Precision clearly influences the effectiveness of wallzipping while possibly affecting the trick's consistency too. Agility 10 increases the general velocity of the wallzip and depending on the attack it may also make your height overshoot, resulting in a high "bounce" once the current animation ends. Potency/Precision on the other hand slows your character down, making them gain only maybe two thirds of the height that they would gain with Agility 10. It seems the slower velocity also prevents the possibility of your height overshooting at the end of the current animation.
 
 There's a [tier list](#Character-tier-lists) further down listing which characters are the best at wallzipping.
 
-This glitch works in the original WO3 too, but it's more difficult to take advantage of since there are no air specials. You can only do a limited height wallzip using your air charge attacks that can't be chained into further attacks.
+This glitch works in the original WO3 too, but it's more difficult to take advantage of since there are no air specials and you can only do a limited height wallzip using your air charge attacks that can't be chained into further attacks.
 
 **Videos:**\
 1, AKheon's video:\
